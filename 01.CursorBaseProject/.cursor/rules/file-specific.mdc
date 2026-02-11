@@ -1,0 +1,17 @@
+---
+description: 针对特定文件类型的规则示例（如 TypeScript）
+globs: "**/*.ts"
+alwaysApply: false
+---
+
+# 针对 TypeScript 文件的规则示例
+
+当打开或引用 `**/*.ts` 匹配的文件时，此规则会被自动附加。
+
+## 可填写内容示例
+
+- 使用严格模式与明确类型
+- 优先使用 interface，必要时 type
+- 导出方式约定（named export / default export）
+
+可根据需要复制本文件并修改 `globs` 以适配其他扩展名（如 `**/*.py`、`**/*.tsx`）。

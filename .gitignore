@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.env.local
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+*.log.*
+
+# 子仓库（若存在，避免提交嵌套的 .git）
+.git
+.worktrees/
+
+# 内嵌的 Git 子仓库（请单独 clone 或作为 submodule 添加）
+02.CursorRuleProject/awesome-cursorrules/
+04.CursorSkillProject/skills/anthropics-skills/
+04.CursorSkillProject/skills/antigravity-awesome-skills/
+04.CursorSkillProject/skills/ui-ux-pro-max/
+04.CursorSkillProject/skills/vm0-skills/
+06.CursorMCPProject/
