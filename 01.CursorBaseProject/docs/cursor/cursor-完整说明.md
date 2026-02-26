@@ -408,4 +408,19 @@ Cursor 里对 **Android 开发** 有帮助的**提示词、规则、技能、MCP
 
 ---
 
+---
+
+## 延伸文档
+
+本文档聚焦 Cursor 项目结构与基础用法。以下功能在专题文档中详细介绍：
+
+| 文档 | 内容 |
+|------|------|
+| [cursor-功能全景图.md](cursor-功能全景图.md) | Agent 四大模式、Cloud Agent、CLI、BugBot、Hooks、Plugins、集成、知识覆盖度分析 |
+| [cursor-实战Cookbook.md](cursor-实战Cookbook.md) | TDD 工作流、Git Commands、代码库理解、设计转代码、架构图、Agent 循环、Worktrees、BugBot 规则模板、Tab 优化 |
+| [cursor-Hooks与终端沙箱.md](cursor-Hooks与终端沙箱.md) | Hooks 事件列表与配置、实用脚本模板、终端沙箱 sandbox.json 配置 |
+| [cursor-最佳实践与技巧.md](cursor-最佳实践与技巧.md) | Agent 最佳实践、上下文管理、Rules 编写、高效提示词、大型代码库策略、Plugins 市场、版本更新、学习资源、快捷键速查 |
+
+---
+
 *本文档根据 Cursor 帮助网站与技能文档整理，如有更新以官方文档为准。*

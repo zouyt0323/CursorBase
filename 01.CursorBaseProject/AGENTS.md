@@ -8,4 +8,4 @@
 - 代码风格与命名规范
 - 常用工作流或注意事项
 
-详见项目根目录的 `Cursor文件夹说明.md`。
+详见 [`docs/cursor/cursor-完整说明.md`](docs/cursor/cursor-完整说明.md)。

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "hooks": {
+    "afterFileEdit": [
+      {
+        "command": ".cursor/hooks/auto-format.sh",
+        "timeout": 10
+      }
+    ],
+    "beforeShellExecution": [
+      {
+        "command": ".cursor/hooks/block-dangerous-git.sh",
+        "matcher": "git (push --force|reset --hard|clean -fd)"
+      }
+    ]
+  }
+}

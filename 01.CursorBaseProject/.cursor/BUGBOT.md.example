@@ -1,0 +1,12 @@
+# BugBot 项目审查规则
+
+## 安全
+- Flag any use of `eval()`, `exec()`, or `Function()` constructor
+- Check for hardcoded secrets, API keys, or passwords
+
+## 代码质量
+- Backend changes (server/**, api/**) must include tests
+- Deprecated APIs should be flagged
+
+## 风格
+- TODO/FIXME comments must reference an issue number (e.g., TODO(#123))
