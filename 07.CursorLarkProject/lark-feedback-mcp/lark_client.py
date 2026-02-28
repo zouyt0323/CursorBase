@@ -21,10 +21,7 @@ logger = logging.getLogger(__name__)
 
 
 class LarkClient:
-    """Wraps Lark SDK with WebSocket long connection for real-time message receiving.
-
-    Only accepts messages from the configured group chat (chat_id).
-    """
+    """Wraps Lark SDK with WebSocket long connection for real-time message receiving."""
 
     def __init__(self, app_id: str, app_secret: str, chat_id: str,
                  encrypt_key: str = "", verification_token: str = ""):
