@@ -1,6 +1,6 @@
 # CursorBase
 
-> Cursor 生态一站式资源与模板聚合工程——涵盖 Rules、Prompts、Skills、SubAgent、MCP 五大核心领域，从入门到进阶。
+> Cursor 生态一站式资源与模板聚合工程——涵盖 Rules、Prompts、Skills、SubAgent、MCP、Lark 集成六大核心领域，从入门到进阶。
 
 ---
 
@@ -13,6 +13,7 @@
 - **技能（Skills）**：4 大开源技能仓库的文档索引 + 内置 Android 式样生成技能 + 生成脚本
 - **子代理（SubAgent）**：概念、配置、学习路径与 50+ 资源站
 - **MCP**：13 个已安装服务说明 + TOP 20 热门排行 + 安装指南
+- **飞书集成（Lark）**：MCP 集成、机器人开发、文档协作、自动化工作流
 
 ---
 
@@ -26,6 +27,7 @@
 | [`04.CursorSkillProject`](04.CursorSkillProject/) | Skills 文档·脚本·技能仓库 | 4 大技能仓库的分类文档、TOP 20 排行、Python 生成脚本 |
 | [`05.CursorSubAgentProject`](05.CursorSubAgentProject/) | SubAgent 学习与资源 | 子代理概念与配置、Top 50 资源网站 |
 | [`06.CursorMCPProject`](06.CursorMCPProject/) | MCP 服务配置指南 | 13 个已安装 MCP 详解、TOP 20 热门排行、7 个推荐安装指南 |
+| [`07.CursorLarkProject`](07.CursorLarkProject/) | Cursor × 飞书集成方案 | MCP 集成、机器人开发、文档协作、自动化工作流 |
 
 ---
 

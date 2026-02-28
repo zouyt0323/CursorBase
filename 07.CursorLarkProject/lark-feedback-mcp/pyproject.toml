@@ -1,0 +1,9 @@
+[project]
+name = "lark-feedback-mcp"
+version = "0.1.0"
+description = "MCP server for controlling Cursor IDE from phone via Lark/Feishu messaging."
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.0.0",
+    "lark-oapi>=1.5.0",
+]
