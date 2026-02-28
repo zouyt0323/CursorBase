@@ -12,7 +12,7 @@
 - **提示词（Prompts）**：工作流、Android、UI/UX 设计、视频制作等场景
 - **技能（Skills）**：4 大开源技能仓库的文档索引 + 内置 Android 式样生成技能 + 生成脚本
 - **子代理（SubAgent）**：概念、配置、学习路径与 50+ 资源站
-- **MCP**：12 个已安装服务说明 + TOP 20 热门排行 + 安装指南
+- **MCP**：13 个已安装服务说明 + TOP 20 热门排行 + 安装指南
 
 ---
 
@@ -25,7 +25,7 @@
 | [`03.CursorPromptProjet`](03.CursorPromptProjet/) | 各类场景提示词集合 | AI 网站资源、Android 全栈、UI/UX 设计、工作流、视频制作 |
 | [`04.CursorSkillProject`](04.CursorSkillProject/) | Skills 文档·脚本·技能仓库 | 4 大技能仓库的分类文档、TOP 20 排行、Python 生成脚本 |
 | [`05.CursorSubAgentProject`](05.CursorSubAgentProject/) | SubAgent 学习与资源 | 子代理概念与配置、Top 50 资源网站 |
-| [`06.CursorMCPProject`](06.CursorMCPProject/) | MCP 服务配置指南 | 12 个已安装 MCP 详解、TOP 20 热门、7 个推荐安装指南 |
+| [`06.CursorMCPProject`](06.CursorMCPProject/) | MCP 服务配置指南 | 13 个已安装 MCP 详解、TOP 20 热门排行、7 个推荐安装指南 |
 
 ---
 
@@ -63,7 +63,6 @@
 | `04.CursorSkillProject/skills/antigravity-awesome-skills` | [antigravity-ai/awesome-agent-skills](https://github.com/antigravity-ai/awesome-agent-skills) | `git clone https://github.com/antigravity-ai/awesome-agent-skills.git 04.CursorSkillProject/skills/antigravity-awesome-skills` |
 | `04.CursorSkillProject/skills/ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git 04.CursorSkillProject/skills/ui-ux-pro-max` |
 | `04.CursorSkillProject/skills/vm0-skills` | [anthropics/skills 或 vm0 社区](https://github.com/) | `git clone <url> 04.CursorSkillProject/skills/vm0-skills` |
-| `06.CursorMCPProject` | 本仓库独立管理 | — |
 
 ---
 
