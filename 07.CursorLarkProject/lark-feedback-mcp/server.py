@@ -30,6 +30,8 @@ def _get_client() -> LarkClient:
         app_id=cfg["app_id"],
         app_secret=cfg["app_secret"],
         chat_id=cfg["chat_id"],
+        encrypt_key=cfg.get("encrypt_key", ""),
+        verification_token=cfg.get("verification_token", ""),
     )
     return _client
 

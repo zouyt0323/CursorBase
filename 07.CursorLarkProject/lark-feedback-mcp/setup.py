@@ -8,8 +8,8 @@ import sys
 
 import httpx
 
-APP_ID = "cli_a8fde940c6da9013"
-APP_SECRET = "tcxHbJIjVPUYrS61L92hKePrsQRYHolA"
+APP_ID = "cli_a9283b82fbf9dcc7"
+APP_SECRET = "iuU6m7zJWVCcbhzGg7tW8GIvqjFOreqZ"
 BASE = "https://open.feishu.cn/open-apis"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 

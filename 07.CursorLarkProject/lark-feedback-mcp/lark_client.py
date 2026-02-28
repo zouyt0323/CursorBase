@@ -1,9 +1,14 @@
-"""Lark/Feishu API client for sending and receiving messages."""
+"""Lark/Feishu API client with WebSocket long connection for real-time messaging.
+
+Supports both group chat and P2P (direct message) with the bot.
+"""
 
 import json
 import time
 import logging
-from typing import Optional
+import threading
+from queue import Queue, Empty
+from typing import Optional, Tuple
 
 import lark_oapi as lark
 from lark_oapi.api.im.v1 import (
@@ -12,31 +17,126 @@ from lark_oapi.api.im.v1 import (
     CreateMessageResponse,
     ListMessageRequest,
     ListMessageResponse,
+    P2ImMessageReceiveV1,
 )
 
 logger = logging.getLogger(__name__)
 
 
 class LarkClient:
-    """Wraps Lark SDK to provide simple send/receive message operations."""
+    """Wraps Lark SDK with WebSocket long connection for real-time message receiving.
 
-    def __init__(self, app_id: str, app_secret: str, chat_id: str):
-        self._chat_id = chat_id
+    Accepts messages from:
+    - The configured group chat (chat_id)
+    - Any P2P (direct) chat with the bot
+    Replies are sent to whichever chat the latest message came from.
+    """
+
+    def __init__(self, app_id: str, app_secret: str, chat_id: str,
+                 encrypt_key: str = "", verification_token: str = ""):
+        self._app_id = app_id
+        self._app_secret = app_secret
+        self._default_chat_id = chat_id
+        self._active_chat_id = chat_id
+        self._encrypt_key = encrypt_key
+        self._verification_token = verification_token
         self._client = lark.Client.builder() \
             .app_id(app_id) \
             .app_secret(app_secret) \
             .log_level(lark.LogLevel.WARNING) \
             .build()
-        self._last_seen_msg_id: Optional[str] = None
+        self._msg_queue: Queue = Queue()
+        self._ws_connected = False
+        self._ws_client = None
+        self._start_websocket()
 
-    def send_message(self, text: str) -> bool:
-        """Send a text message to the configured chat. Returns True on success."""
+    def _start_websocket(self):
+        """Start WebSocket long connection in a background thread."""
+        try:
+            handler = lark.EventDispatcherHandler.builder(
+                self._encrypt_key, self._verification_token
+            ).register_p2_im_message_receive_v1(self._on_message_receive) \
+                .build()
+
+            self._ws_client = lark.ws.Client(
+                app_id=self._app_id,
+                app_secret=self._app_secret,
+                event_handler=handler,
+                log_level=lark.LogLevel.WARNING,
+                auto_reconnect=True,
+            )
+
+            thread = threading.Thread(target=self._run_ws, daemon=True)
+            thread.start()
+            logger.info("WebSocket connection starting in background thread")
+        except Exception as exc:
+            logger.warning("Failed to start WebSocket, falling back to polling: %s", exc)
+
+    def _run_ws(self):
+        """Run WebSocket client (blocking, runs in daemon thread)."""
+        try:
+            self._ws_connected = True
+            self._ws_client.start()
+        except Exception as exc:
+            logger.error("WebSocket connection error: %s", exc)
+            self._ws_connected = False
+
+    def _on_message_receive(self, data: P2ImMessageReceiveV1):
+        """Handle incoming message events from WebSocket.
+
+        Accepts messages from:
+        - The configured group chat
+        - Any P2P chat with the bot (chat_type == 'p2p')
+        """
+        try:
+            msg = data.event.message
+            sender = data.event.sender
+
+            if not msg or not sender:
+                return
+
+            event_chat_id = getattr(msg, "chat_id", "")
+            chat_type = getattr(msg, "chat_type", "")
+
+            is_target_group = (event_chat_id == self._default_chat_id)
+            is_p2p = (chat_type == "p2p")
+
+            if not is_target_group and not is_p2p:
+                return
+
+            sender_type = getattr(getattr(sender, "sender_type", None), "value", "")
+            if not sender_type:
+                sender_type = str(getattr(sender, "sender_type", ""))
+
+            if "app" in sender_type.lower():
+                return
+
+            msg_type = getattr(msg, "message_type", "")
+            if msg_type != "text":
+                return
+
+            content_str = getattr(msg, "content", "{}")
+            content = json.loads(content_str)
+            text = content.get("text", "")
+
+            if text:
+                if event_chat_id:
+                    self._active_chat_id = event_chat_id
+                self._msg_queue.put(text)
+                source = "P2P" if is_p2p else "群聊"
+                logger.info("WebSocket received [%s] message: %s", source, text[:50])
+        except Exception as exc:
+            logger.warning("Error processing WebSocket message: %s", exc)
+
+    def send_message(self, text: str, chat_id: str = None) -> bool:
+        """Send a text message. Defaults to the most recent active chat."""
+        target = chat_id or self._active_chat_id
         content = json.dumps({"text": text}, ensure_ascii=False)
         req = CreateMessageRequest.builder() \
             .receive_id_type("chat_id") \
             .request_body(
                 CreateMessageRequestBody.builder()
-                .receive_id(self._chat_id)
+                .receive_id(target)
                 .msg_type("text")
                 .content(content)
                 .build()
@@ -47,8 +147,6 @@ class LarkClient:
             logger.error("send_message failed: code=%s msg=%s", resp.code, resp.msg)
             return False
 
-        msg_id = resp.data.message_id
-        self._last_seen_msg_id = msg_id
         return True
 
     def poll_user_message(
@@ -56,11 +154,28 @@ class LarkClient:
         timeout: int = 600,
         interval: float = 3.0,
     ) -> Optional[str]:
-        """Poll the chat for new user (non-bot) messages.
+        """Wait for a new user message.
 
-        Blocks up to *timeout* seconds, checking every *interval* seconds.
-        Returns the text content of the first new user message, or None on timeout.
+        If WebSocket is connected, waits on the message queue (real-time).
+        Otherwise falls back to API polling (group chat only).
         """
+        self._msg_queue = Queue()
+
+        if self._ws_connected:
+            return self._wait_from_queue(timeout)
+
+        return self._poll_from_api(timeout, interval)
+
+    def _wait_from_queue(self, timeout: int) -> Optional[str]:
+        """Wait for a message from the WebSocket queue."""
+        try:
+            text = self._msg_queue.get(timeout=timeout)
+            return text
+        except Empty:
+            return None
+
+    def _poll_from_api(self, timeout: int, interval: float) -> Optional[str]:
+        """Fallback: poll the API for new messages (group chat only)."""
         deadline = time.time() + timeout
         baseline_ts = str(int(time.time() * 1000))
 
@@ -79,7 +194,7 @@ class LarkClient:
         """Fetch recent messages and return the newest user message after since_ts."""
         req = ListMessageRequest.builder() \
             .container_id_type("chat") \
-            .container_id(self._chat_id) \
+            .container_id(self._default_chat_id) \
             .page_size(10) \
             .sort_type("ByCreateTimeDesc") \
             .build()
@@ -99,7 +214,6 @@ class LarkClient:
             if sender is None:
                 continue
             sender_type = getattr(sender, "sender_type", "")
-
             if sender_type == "app":
                 continue
 
