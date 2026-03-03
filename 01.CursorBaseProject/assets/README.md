@@ -1,7 +1,7 @@
 # 资源目录（assets）
 
 本目录存放项目静态资源，按类型分子文件夹。  
-详细说明见 [docs/cursor/cursor-资源目录说明.md](docs/cursor/cursor-资源目录说明.md)。
+详细说明见 [docs/cursor/cursor-完整说明.md](../docs/cursor/cursor-完整说明.md)。
 
 | 子目录 | 用途 |
 |--------|------|

@@ -1,6 +1,6 @@
 # Cursor Plan Mode 完全指南
 
-> 基于 Cursor 官方文档、博客、Changelog 及最佳实践整理，版本覆盖至 Cursor 2.2（2025.12）
+> 基于 Cursor 官方文档、博客、Changelog 及最佳实践整理，版本覆盖至 Cursor 2.5（2026.02）
 
 ---
 
@@ -100,6 +100,38 @@ Users can toggle email, push, and in-app notifications per category.
 - 可用于团队分享、文档沉淀、中断恢复
 
 > **官方建议**：将计划保存到 `.cursor/plans/` 目录。这样可以为团队创建文档，方便恢复中断的工作，并为未来处理同一功能的 Agent 提供上下文。
+
+> **注意**：Plan Mode 本身没有写入 `.cursor/plans/` 的权限，需要手动点击聊天气泡右上角的 **"Save to workspace"** 按钮。如果需要更可靠的持久化方案，参见[第十五章：计划文件组织的社区最佳实践](#十五plan-mode-计划文件组织最佳实践)。
+
+### 2.7 CLI Plan Mode（v2026.02 新增）
+
+Cursor CLI 现在完整支持 Plan Mode：
+
+| 功能 | 说明 |
+|------|------|
+| **持久决策菜单** | 计划生成后展示"本地构建"或"云端构建"选项 |
+| **`/plan` 命令** | 快速返回当前计划及操作菜单 |
+| **键盘导航** | 方向键选择选项，Enter 执行，Shift+Enter 快捷云端构建 |
+| **ASCII Mermaid** | Mermaid 图表在终端中渲染为 ASCII 图形 |
+| **Ctrl+O** | 切换渲染图与 Mermaid 源码视图 |
+
+### 2.8 长时间运行的 Agent（v2026.02 新增）
+
+Cursor 新增长时间自主运行的 Agent，与 Plan Mode 深度结合：
+
+- Agent **先规划再执行**，自主完成更大更复杂的任务
+- 无需人工干预即可产出完整 PR
+- 适用于 Ultra、Teams 和 Enterprise 计划
+- 在 [cursor.com/agents](https://cursor.com/agents) 启动
+
+### 2.9 异步子 Agent（v2.5 新增）
+
+从计划中拆分的任务现在支持**异步执行**：
+
+- 子 Agent 在后台运行，**不阻塞**父 Agent
+- 子 Agent 可以**嵌套生成**自己的子 Agent，形成协作树
+- 支持更大规模的任务：多文件功能、大型重构、复杂 Bug 修复
+- 更低延迟、更好的流式反馈、更灵敏的并行执行
 
 ---
 
@@ -301,7 +333,59 @@ Plan Mode 支持图片输入：
 - Agent 匹配布局、颜色、间距
 - 配合 [Figma MCP](https://cursor.com/docs/context/mcp/directory) 拉取设计令牌和组件规格
 
-### 6.4 长时间运行的 Agent 循环
+### 6.4 Browser 集成——可视化验证
+
+Cursor Browser 可直接在编辑器内验证 Plan 的执行结果：
+
+| 能力 | 说明 |
+|------|------|
+| **页面导航** | 自动打开页面检查实现效果 |
+| **表单测试** | 填写表单、点击按钮、执行用户流程 |
+| **控制台检查** | 监控 console.log、错误、网络请求 |
+| **截图** | Agent 自动截图验证 UI 变更 |
+| **可视化编辑器** | 拖拽 DOM 元素、调整属性、颜色选择器 |
+| **点击+描述** | 点击多个元素后用文字描述变更，启动 Agent 执行 |
+
+**提示词示例：**
+```
+在浏览器中打开应用，检查登录页面的 console 是否有错误
+截图当前页面，对比设计稿是否一致
+测试用户注册 → 登录 → 修改个人资料的完整流程
+```
+
+### 6.5 MCP 工具集成——扩展 Plan 能力
+
+通过 MCP（Model Context Protocol），Plan Mode 可连接外部工具：
+
+| 类别 | 可用服务 |
+|------|----------|
+| **项目管理** | Linear、GitHub Issues、Jira |
+| **设计** | Figma（官方 MCP）、Figma Dev Mode |
+| **通信** | Slack、Notion |
+| **部署** | Vercel、Netlify、Heroku |
+| **测试** | Playwright、Postman、Sentry |
+| **数据库** | MongoDB、Supabase、Prisma |
+| **分析** | PostHog、Amplitude |
+| **浏览器调试** | Chrome DevTools MCP |
+| **文档** | Context7（库文档查询） |
+
+**Web 开发编排示例（Linear + Figma + Browser）：**
+
+```
+第1步：从 Linear 获取 Issue 描述和需求
+    ↓
+第2步：从 Figma 获取设计稿、令牌、组件规格
+    ↓
+第3步：Plan Mode 生成实施计划
+    ↓
+第4步：Agent 编码实现
+    ↓
+第5步：Browser 自动测试和截图验证
+    ↓
+第6步：通过 Slack 通知团队
+```
+
+### 6.6 长时间运行的 Agent 循环
 
 通过 Hooks 创建持续迭代的 Agent：
 
@@ -319,14 +403,23 @@ Plan Mode 支持图片输入：
 - 迭代 UI 直到匹配设计稿
 - 任何目标可验证的任务
 
-### 6.5 云端 Agent
+### 6.7 云端 Agent
 
 Plan Mode 生成的计划可交给云端 Agent 执行：
 - 从 [cursor.com/agents](https://cursor.com/agents) 启动
 - 在手机上检查进度
-- Agent 在远程沙盒中运行
-- 完成后自动开 PR
-- 支持通过 Slack `@Cursor` 触发
+- Agent 在**独立 VM** 中运行，可构建、测试、控制桌面和浏览器
+- 完成后自动开 PR，附带**视频、截图、日志**
+- 支持通过 Slack `@Cursor`、GitHub `@cursor`、Linear `@cursor`、API 触发
+
+### 6.8 插件市场（v2.5 新增）
+
+通过 [Cursor Marketplace](https://cursor.com/marketplace) 安装插件扩展 Plan Mode 能力：
+
+- 插件打包了 Skills、子 Agent、MCP 服务、Hooks、Rules
+- 合作伙伴包括 Amplitude、AWS、Figma、Linear、Stripe 等
+- 使用 `/add-plugin` 直接在编辑器中安装
+- 覆盖设计、数据库、支付、分析、部署等工作流
 
 ---
 
@@ -349,7 +442,12 @@ Plan Mode 生成的计划可交给云端 Agent 执行：
 |------|------|-------------------|
 | 首次发布 | 2025.11 | Plan Mode 正式推出；代码库研究；计划生成；Markdown 编辑 |
 | 2.1 | 2025.11.21 | 交互式澄清问题 UI；计划内搜索（⌘+F）；Instant Grep（Beta） |
-| 2.2 | 2025.12.10 | 内联 Mermaid 图表；发送 To-Do 到新 Agent；计划文件默认持久化；多 Agent 自动评判；Git Worktree 支持 |
+| 2.2 | 2025.12.10 | 内联 Mermaid 图表；发送 To-Do 到新 Agent；计划文件默认持久化；多 Agent 自动评判；Debug Mode |
+| - | 2026.02.12 | 长时间运行 Agent（先规划再执行，自主完成复杂任务） |
+| CLI | 2026.02.18 | CLI Plan Mode（持久决策菜单、`/plan` 命令、ASCII Mermaid、云端/本地构建切换） |
+| 2.5 | 2026.02.17 | 插件市场（Cursor Marketplace）；异步子 Agent；沙盒网络访问控制 |
+| - | 2026.02.24 | Cloud Agent 升级（独立 VM、视频/截图/日志产出物、可测试自己构建的软件） |
+| - | 2026.02.26 | Bugbot Autofix（自动修复 PR 问题，35%+ 合并率） |
 
 ---
 
@@ -577,44 +675,270 @@ Cloud Agents（云端）  → 将计划交给云端并行执行
 ## 十四、Plan Mode 完整生态图
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                    Cursor 生态系统                    │
-├─────────────┬───────────────────────────────────────┤
-│             │                                       │
-│   输入层    │  用户提示、图片、设计稿、@引用         │
-│             │  @Branch、@Past Chats、@文件           │
-│             │                                       │
-├─────────────┼───────────────────────────────────────┤
-│             │                                       │
-│   规则层    │  Rules（.cursor/rules/）               │
-│             │  Skills（SKILL.md）                    │
-│             │  Commands（.cursor/commands/）         │
-│             │                                       │
-├─────────────┼───────────────────────────────────────┤
-│             │                                       │
-│   计划层    │  ★ Plan Mode ★                        │
-│             │  代码库研究 → 澄清提问 → 生成计划     │
-│             │  Mermaid 图表、To-Do 列表              │
-│             │                                       │
-├─────────────┼───────────────────────────────────────┤
-│             │                                       │
-│   执行层    │  Agent Mode（本地执行）                │
-│             │  Cloud Agents（云端执行）              │
-│             │  多 Agent 并行（Git Worktree）         │
-│             │                                       │
-├─────────────┼───────────────────────────────────────┤
-│             │                                       │
-│   控制层    │  Hooks（自动化控制）                   │
-│             │  Linter / TypeCheck / Tests（验证）    │
-│             │  Browser（可视化验证）                 │
-│             │                                       │
-├─────────────┼───────────────────────────────────────┤
-│             │                                       │
-│   输出层    │  代码变更、PR、文档、架构图            │
-│             │  Bugbot（自动代码审查）                │
-│             │                                       │
-└─────────────┴───────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                      Cursor 生态系统                          │
+├──────────────┬───────────────────────────────────────────────┤
+│              │                                               │
+│   输入层     │  用户提示 / 图片 / 设计稿 / @引用             │
+│              │  @Branch / @Past Chats / @文件                 │
+│              │  Linear Issue / GitHub Issue / Figma 设计      │
+│              │                                               │
+├──────────────┼───────────────────────────────────────────────┤
+│              │                                               │
+│   配置层     │  Rules（.cursor/rules/）                       │
+│              │  Skills（SKILL.md）                            │
+│              │  Commands（.cursor/commands/）                 │
+│              │  Plugins（Marketplace）                        │
+│              │  MCP Servers（mcp.json）                       │
+│              │                                               │
+├──────────────┼───────────────────────────────────────────────┤
+│              │                                               │
+│   计划层     │  ★ Plan Mode ★                                │
+│              │  代码库研究 → 澄清提问 → Mermaid 图表         │
+│              │  生成计划 → 保存到 .cursor/plans/              │
+│              │  CLI: /plan + 持久决策菜单                     │
+│              │                                               │
+├──────────────┼───────────────────────────────────────────────┤
+│              │                                               │
+│   执行层     │  Agent Mode（本地执行）                        │
+│              │  Cloud Agents（云端 VM，多端触发）             │
+│              │  长时间运行 Agent（自主复杂任务）              │
+│              │  多 Agent 并行（Git Worktree + 异步子 Agent）  │
+│              │                                               │
+├──────────────┼───────────────────────────────────────────────┤
+│              │                                               │
+│   控制层     │  Hooks（自动格式化/安全门控/持续迭代）         │
+│              │  Sandbox（沙盒 + 网络访问控制）                │
+│              │  Linter / TypeCheck / Tests（自动验证）        │
+│              │  Browser（可视化编辑 + 截图验证）              │
+│              │                                               │
+├──────────────┼───────────────────────────────────────────────┤
+│              │                                               │
+│   输出层     │  代码变更 / PR（附视频、截图、日志）           │
+│              │  Bugbot + Autofix（自动审查+修复）             │
+│              │  架构图 / 文档 / 计划文件                      │
+│              │                                               │
+└──────────────┴───────────────────────────────────────────────┘
 ```
+
+---
+
+## 十五、Plan Mode 计划文件组织最佳实践
+
+### 15.1 官方推荐结构
+
+```
+.cursor/
+└── plans/
+    ├── feature-auth.md
+    ├── refactor-database.md
+    └── migration-v2.md
+```
+
+点击 "Save to workspace" 自动保存到此目录。
+
+### 15.2 社区推荐的详细结构
+
+对于大型项目，社区推荐更完整的文件组织：
+
+```
+doc/workdocs/<yyyy-mm-dd>-<feature-key>/
+├── plan.md          # 确认的计划快照
+├── todos.md         # 权威任务列表（使用稳定的 kebab-case ID）
+├── decisions.md     # 架构决策记录（ADR）
+├── log.md           # 里程碑日志（带时间戳）
+└── handoff.md       # 完成时的交接说明 / 发布说明
+```
+
+**核心原则：**
+- 以**工作区文件**为唯一事实来源，不依赖 Cursor 内部存储
+- 使用稳定的 `kebab-case` 任务 ID 跟踪进度
+- Cursor 内部 to-do 仅作为可选镜像，不作为权威来源
+- 所有决策和变更都可通过 Git 追溯
+
+### 15.3 计划文件模板
+
+```markdown
+# [功能名称] 实施计划
+
+## 概述
+[1-2 句话描述此功能的目的和价值]
+
+## 背景
+- 相关 Issue: #xxx
+- 设计稿: [Figma 链接]
+- 依赖系统: [列出影响的系统]
+
+## 技术方案
+### 方案选择
+- [x] 方案 A: [描述] — 选择原因: ...
+- [ ] 方案 B: [描述] — 未选原因: ...
+
+### 架构图
+[Mermaid 图表]
+
+### 影响范围
+| 文件/模块 | 变更类型 | 说明 |
+|-----------|----------|------|
+| `src/...` | 新增 | ... |
+
+## 任务分解
+- [ ] 1. [任务描述] — 预计影响: [文件列表]
+- [ ] 2. [任务描述]
+- [ ] 3. [任务描述]
+
+## 验证标准
+- [ ] 单元测试通过
+- [ ] 类型检查通过
+- [ ] Lint 通过
+- [ ] 浏览器测试通过
+
+## 风险与注意事项
+- [潜在风险和缓解措施]
+```
+
+---
+
+## 十六、Plan Mode 提示词模板库
+
+### 16.1 功能开发
+
+```text
+我需要实现 [功能描述]。
+
+背景信息：
+- 参考 Issue: #xxx
+- 相关文件: @src/components/xxx
+- 设计稿已粘贴（或 Figma 链接）
+
+请先研究代码库，然后生成详细的实施计划。
+计划需要包含：
+1. 架构图（Mermaid）
+2. 分步任务列表
+3. 每步涉及的文件
+4. 验证标准
+```
+
+### 16.2 重构
+
+```text
+我需要重构 [模块/系统]。
+
+当前问题：
+- [问题1]
+- [问题2]
+
+约束条件：
+- 不能破坏现有 API
+- 需要保持向后兼容
+
+请分析当前代码，生成安全的重构计划。
+```
+
+### 16.3 Bug 修复规划
+
+```text
+在 [场景] 下出现 [问题描述]。
+
+复现步骤：
+1. ...
+2. ...
+
+期望行为: [描述]
+实际行为: [描述]
+
+请分析可能的原因，生成修复计划。
+```
+
+### 16.4 性能优化
+
+```text
+应用在 [场景] 下性能不佳。
+
+现象：
+- [指标1]
+- [指标2]
+
+请分析代码库中可能的性能瓶颈，生成优化计划。
+优化方案按优先级排列，每步包含预期提升幅度。
+```
+
+### 16.5 TDD 规划
+
+```text
+请为 [功能] 创建 TDD 实施计划。
+
+功能需求：
+- [需求1]
+- [需求2]
+
+请按以下顺序规划：
+1. 先列出需要编写的测试用例
+2. 每个测试的输入和期望输出
+3. 实现代码的步骤
+4. 引用 @__tests__/ 中的现有测试模式
+```
+
+### 16.6 数据库迁移
+
+```text
+需要对数据库进行以下变更：
+- [变更描述]
+
+请生成安全的迁移计划，包含：
+1. 迁移脚本（上下）
+2. 数据回填策略
+3. 回滚方案
+4. 停机时间评估
+5. 测试验证步骤
+```
+
+---
+
+## 十七、Plan Mode 与 Web 开发工作流
+
+### 17.1 完整编排流程
+
+```
+     Linear                Figma              Cursor
+    ┌──────┐            ┌──────┐          ┌──────────┐
+    │Issue │──获取需求──→│设计稿│──获取规格──→│Plan Mode │
+    │描述  │            │组件  │          │生成计划  │
+    └──────┘            └──────┘          └────┬─────┘
+                                               │
+                                          ┌────▼─────┐
+                                          │ Agent    │
+                                          │ 编码实现  │
+                                          └────┬─────┘
+                                               │
+    ┌──────┐            ┌──────┐          ┌────▼─────┐
+    │Slack │←──通知────│Bugbot│←─代码审查──│ Browser  │
+    │团队  │            │审查  │          │ 测试验证  │
+    └──────┘            └──────┘          └──────────┘
+```
+
+### 17.2 UI 组件规则配合 Plan
+
+创建 `.cursor/rules/ui-components.mdc` 确保 Plan 生成的代码复用现有组件：
+
+```markdown
+---
+description: Implementing designs and building UI
+---
+- reuse existing UI components from `/src/components/ui`
+- create new components by orchestrating ui components if existing ones don't solve the problem
+- ask the human how they want to proceed when there are missing components
+```
+
+### 17.3 关键实践
+
+| 实践 | 说明 |
+|------|------|
+| **声明式代码** | React/JSX 等声明式代码与 Plan Mode 配合效果最好 |
+| **设计系统** | 通过 Rules 引导 Agent 发现和复用设计系统 |
+| **组件库** | 随组件库增长持续更新 Rules |
+| **紧密反馈循环** | 用 Browser 工具实时验证 UI 变更 |
+| **运行时上下文** | 包含 console log、网络请求、UI 元素数据扩展模型上下文 |
 
 ---
 
@@ -632,3 +956,9 @@ Cloud Agents（云端）  → 将计划交给云端并行执行
 - [Rules/Commands/Skills/Hooks 完全指南](https://theodoroskokosioulis.com/blog/cursor-rules-commands-skills-hooks-guide/)
 - [Plan Mode 实战案例](https://engincanveske.substack.com/p/how-i-use-cursor-plan-mode-for-real)
 - [Plan Mode 成本效益分析](https://dredyson.com/how-cursors-new-plan-mode-delivers-34-faster-development-cycles-a-cost-benefit-analysis-for-engineering-leaders/)
+- [Web 开发指南](https://cursor.com/docs/cookbook/web-development)
+- [Cursor Marketplace](https://cursor.com/marketplace)
+- [计划文件组织方案（社区）](https://forum.cursor.com/t/plan-mode-save-to-workspace-workaround/136968)
+- [Cursor CLI Changelog](https://cursor.com/changelog/cli-feb-18-2026)
+- [长时间运行 Agent](https://cursor.com/blog/long-running-agents)
+- [Bugbot Autofix](https://cursor.com/blog/bugbot-autofix)

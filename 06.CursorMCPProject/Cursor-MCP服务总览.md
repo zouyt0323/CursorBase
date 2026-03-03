@@ -1,10 +1,10 @@
 # Cursor MCP 服务总览
 
-> 本文整理了当前 Cursor 中已安装的全部 **15 个** MCP（Model Context Protocol）服务，包括安装方案、配置详情和使用方法。
+> 本文整理了当前 Cursor 中已安装的全部 **14 个** MCP（Model Context Protocol）服务，包括安装方案、配置详情和使用方法。
 >
 > 配置文件路径：`~/.cursor/mcp.json`
 >
-> 最后更新：2026-02-28
+> 最后更新：2026-03-03
 
 ---
 
@@ -23,9 +23,8 @@
 11. [context7 — 实时代码文档](#11-context7--实时代码文档)
 12. [github — GitHub 集成](#12-github--github-集成)
 13. [figma-remote — Figma 官方远程 MCP](#13-figma-remote--figma-官方远程-mcp)
-14. [lark-feedback — 飞书远程控制](#14-lark-feedback--飞书远程控制)
-15. [android-mcp — Android 设备控制](#15-android-mcp--android-设备控制)
-16. [通用维护指南](#通用维护指南)
+14. [android-mcp — Android 设备控制](#14-android-mcp--android-设备控制)
+15. [通用维护指南](#通用维护指南)
 
 ---
 
@@ -107,20 +106,26 @@ npm install -g drawio-mcp-server
 
 ---
 
-## 4. lark-mcp — 飞书/Lark 集成
+## 4. lark-mcp — 飞书/Lark 集成（中科创达）
 
 | 项目 | 说明 |
 |------|------|
 | **npm** | [@larksuiteoapi/lark-mcp](https://www.npmjs.com/package/@larksuiteoapi/lark-mcp) |
 | **功能** | 通过 AI 操作飞书：发消息、管理文档/多维表格、搜索 Wiki、管理群组和联系人 |
 | **认证** | App ID + App Secret + OAuth |
+| **企业** | 中科创达（Thundersoft） |
 
 ```json
 "lark-mcp": {
-  "command": "npx",
-  "args": ["-y", "@larksuiteoapi/lark-mcp", "mcp", "-a", "cli_xxxxxxxx", "-s", "xxxxxxxx", "--oauth"]
+  "command": "/home/tsdl/.nvm/versions/node/v24.13.0/bin/node",
+  "args": [
+    "/home/tsdl/.nvm/versions/node/v24.13.0/lib/node_modules/@larksuiteoapi/lark-mcp/dist/index.js",
+    "mcp", "-a", "cli_a8fde940c6da9013", "-s", "tcxHbJIjVPUYrS61L92hKePrsQRYHolA", "--oauth"
+  ]
 }
 ```
+
+> **注意**：使用 NVM 安装的 Node.js 完整路径启动，避免 Cursor 找不到正确的 Node 版本。
 
 ### 主要工具（19 个）
 
@@ -258,58 +263,7 @@ npm install -g drawio-mcp-server
 
 ---
 
-## 14. lark-feedback — 飞书远程控制
-
-| 项目 | 说明 |
-|------|------|
-| **功能** | 通过飞书手机端远程控制 Cursor IDE，实现移动办公 |
-| **运行时** | Python 3.11+ (uv) |
-| **传输方式** | STDIO |
-| **源码位置** | `07.CursorLarkProject/lark-feedback-mcp/` |
-
-### 安装方案
-
-```bash
-cp -r 07.CursorLarkProject/lark-feedback-mcp ~/lark-feedback-mcp
-cd ~/lark-feedback-mcp && uv sync
-uv run python setup.py   # 输入飞书邮箱，自动创建群聊和 config.json
-```
-
-### 配置
-
-```json
-"lark-feedback": {
-  "command": "uv",
-  "args": [
-    "--directory",
-    "/home/tsdl/lark-feedback-mcp",
-    "run",
-    "server.py"
-  ],
-  "timeout": 600,
-  "autoApprove": [
-    "send_to_lark",
-    "wait_for_lark_input"
-  ]
-}
-```
-
-### 工具列表（2 个）
-
-| 工具 | 说明 |
-|------|------|
-| `send_to_lark` | 向飞书群发送消息（汇报进度/结果） |
-| `wait_for_lark_input` | 等待用户在飞书中回复指令 |
-
-### 使用方式
-
-在 Cursor 对话中输入「手机控制模式」启动，飞书手机端发送指令即可远程控制。
-
-详见 [`07.CursorLarkProject/README.md`](../07.CursorLarkProject/README.md)。
-
----
-
-## 15. android-mcp — Android 设备控制
+## 14. android-mcp — Android 设备控制
 
 | 项目 | 说明 |
 |------|------|
@@ -393,7 +347,6 @@ uvx android-mcp --help
 | context7 | 无（远程服务） | HTTP URL 直连 | context7.com 云端 |
 | github | Node.js | npx | GitHub API (Token) |
 | figma-remote | 无（远程服务） | HTTP URL 直连 | mcp.figma.com（OAuth 认证） |
-| lark-feedback | Python 3.11+ (uv) | uv run | 飞书 API (app_id + chat_id) |
 | android-mcp | Python 3.10+ (uvx) | uvx | ADB + Android 10+ |
 
 ### 常见问题排查
