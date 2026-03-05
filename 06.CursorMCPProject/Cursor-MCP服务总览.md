@@ -1,10 +1,10 @@
 # Cursor MCP 服务总览
 
-> 本文整理了当前 Cursor 中已安装的全部 **14 个** MCP（Model Context Protocol）服务，包括安装方案、配置详情和使用方法。
+> 本文整理了当前 Cursor 中已安装的全部 **15 个** MCP（Model Context Protocol）服务，包括安装方案、配置详情和使用方法。
 >
 > 配置文件路径：`~/.cursor/mcp.json`
 >
-> 最后更新：2026-03-03
+> 最后更新：2026-03-05
 
 ---
 
@@ -24,7 +24,8 @@
 12. [github — GitHub 集成](#12-github--github-集成)
 13. [figma-remote — Figma 官方远程 MCP](#13-figma-remote--figma-官方远程-mcp)
 14. [android-mcp — Android 设备控制](#14-android-mcp--android-设备控制)
-15. [通用维护指南](#通用维护指南)
+15. [sequential-thinking — 结构化逐步推理](#15-sequential-thinking--结构化逐步推理)
+16. [通用维护指南](#通用维护指南)
 
 ---
 
@@ -322,6 +323,45 @@ uvx android-mcp --help
 
 ---
 
+## 15. sequential-thinking — 结构化逐步推理
+
+| 项目 | 说明 |
+|------|------|
+| **npm** | [@modelcontextprotocol/server-sequential-thinking](https://www.npmjs.com/package/@modelcontextprotocol/server-sequential-thinking) |
+| **GitHub** | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) |
+| **功能** | 结构化逐步推理：将复杂问题分解为可管理的步骤，支持修正、分支和动态调整 |
+| **来源** | Anthropic 官方 |
+
+### 配置
+
+```json
+"sequential-thinking": {
+  "command": "npx",
+  "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+}
+```
+
+### 工具列表（1 个）
+
+| 工具 | 说明 |
+|------|------|
+| `sequential_thinking` | 逐步思考工具：分解问题、修正推理、分支探索替代路径、动态调整步骤数 |
+
+### 适用场景
+
+- **规划**：需要制定实施计划的任务
+- **分析**：需要中途修正方向的分析工作
+- **复杂问题**：全貌不明确、需要逐步探索的问题
+- **设计决策**：需要权衡多种方案的架构设计
+
+### 使用方式
+
+在 Cursor Agent 对话中，AI 会自动使用此工具进行结构化思考。也可以在提示词中明确要求：
+
+> 请使用 sequential thinking 帮我分析这个系统的架构设计方案
+
+---
+
 ## 通用维护指南
 
 ### 配置文件位置
@@ -348,6 +388,7 @@ uvx android-mcp --help
 | github | Node.js | npx | GitHub API (Token) |
 | figma-remote | 无（远程服务） | HTTP URL 直连 | mcp.figma.com（OAuth 认证） |
 | android-mcp | Python 3.10+ (uvx) | uvx | ADB + Android 10+ |
+| sequential-thinking | Node.js | npx | 无（本地推理） |
 
 ### 常见问题排查
 

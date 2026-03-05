@@ -12,7 +12,7 @@
 - **提示词（Prompts）**：工作流、Android、UI/UX 设计、视频制作等场景
 - **技能（Skills）**：4 大开源技能仓库的文档索引 + 内置 Android 式样生成技能 + 生成脚本
 - **子代理（SubAgent）**：概念、配置、学习路径与 50+ 资源站
-- **MCP**：14 个已安装服务说明 + TOP 20 热门排行 + 安装指南
+- **MCP**：15 个已安装服务说明 + TOP 20 热门排行 + 安装指南
 - **Plan Mode**：Plan Mode 完全指南、最佳实践、提示词模板、Cloud Agent、Hooks 集成
 
 ---
@@ -26,7 +26,7 @@
 | [`03.CursorPromptProjet`](03.CursorPromptProjet/) | 各类场景提示词集合 | AI 网站资源、Android 全栈、UI/UX 设计、工作流、视频制作 |
 | [`04.CursorSkillProject`](04.CursorSkillProject/) | Skills 文档·脚本·技能仓库 | 4 大技能仓库的分类文档、TOP 20 排行、Python 生成脚本 |
 | [`05.CursorSubAgentProject`](05.CursorSubAgentProject/) | SubAgent 学习与资源 | 子代理概念与配置、Top 50 资源网站 |
-| [`06.CursorMCPProject`](06.CursorMCPProject/) | MCP 服务配置指南 | 14 个已安装 MCP 详解、TOP 20 热门排行、7 个推荐安装指南 |
+| [`06.CursorMCPProject`](06.CursorMCPProject/) | MCP 服务配置指南 | 15 个已安装 MCP 详解、TOP 20 热门排行、7 个推荐安装指南 |
 | [`07.CursorPlanProject`](07.CursorPlanProject/) | Plan Mode 完全指南 | 核心功能、最佳实践、提示词模板、Cloud Agent、Hooks、版本演进 |
 
 ---
