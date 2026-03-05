@@ -30,6 +30,7 @@
 | **@ Mentions** | [context/mentions](https://cursor.com/docs/context/mentions) | ✅ | cursor-完整说明.md |
 | **MCP** | [context/mcp](https://cursor.com/docs/context/mcp) | ✅ 详细 | 06.CursorMCPProject |
 | **Plugins** | [plugins](https://cursor.com/docs/plugins) | — | v2.5 新增插件市场 |
+| **MCP Apps** | — | — | v2.6 交互式 UI 嵌入（Amplitude、Figma、tldraw） |
 
 ### 3. 独立功能
 
@@ -52,6 +53,7 @@
 | **Git 集成** | [integrations/git](https://cursor.com/docs/integrations/git) | — | 版本控制增强 |
 | **GitLab 集成** | [integrations/gitlab](https://cursor.com/docs/integrations/gitlab) | — | GitLab PR/MR |
 | **Cursor Blame** | [integrations/cursor-blame](https://cursor.com/docs/integrations/cursor-blame) | — | AI 增强的 git blame |
+| **JetBrains 集成** | [changelog/03-04-26](https://cursor.com/changelog/03-04-26) | — | v2.6 通过 ACP 支持 IntelliJ/PyCharm/WebStorm |
 
 ### 5. 配置
 

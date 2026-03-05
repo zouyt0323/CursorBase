@@ -1,7 +1,7 @@
 # Cursor Subagent / 生态 Top 50 网站整理
 
 > 根据使用场景或功能分类，便于查找 Cursor 子代理、Agent、MCP、Rules、Skills 等相关资源。  
-> 整理时间：2025年2月
+> 整理时间：2025年2月（2026年3月校验更新）
 
 ---
 

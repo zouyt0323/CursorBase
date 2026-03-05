@@ -33,26 +33,26 @@
 | 13 | figma-remote | Figma 官方远程 MCP | Figma 官方 | **远程** (HTTP URL + OAuth) |
 | 14 | **android-mcp** | **Android 设备控制** | **[CursorTouch](https://github.com/CursorTouch/Android-MCP)** | **本地 (Python/uvx)** |
 
-## 热门 MCP 服务 TOP 5（按下载量）
+## 热门 MCP 服务 TOP 5（按访问量/下载量，2026.03 更新）
 
 | 排名 | 服务 | 下载量/热度 |
 |------|------|------------|
-| 1 | GitHub | PulseMCP 889k 下载 |
-| 2 | Fetch | PulseMCP 801k 下载 |
-| 3 | Context7 | PulseMCP 590k 下载 / ⭐45.3k+ |
-| 4 | Playwright | PulseMCP 590k 下载 / Microsoft 官方 |
-| 5 | Filesystem | PulseMCP 575k 下载 |
+| 1 | Playwright | PulseMCP 1.4M 周访问 / Microsoft 官方 |
+| 2 | Context7 | PulseMCP 592k 周访问 |
+| 3 | Chrome DevTools | PulseMCP 448k 周访问 / Google |
+| 4 | Claude Flow | PulseMCP 382k 周访问 |
+| 5 | GitHub | PulseMCP 4.7M 总下载 / 77.1k 周访问 |
 
 ## MCP 收集网站
 
 | 网站 | 收录量 |
 |------|--------|
-| [mcp.so](https://mcp.so/) | 17,500+ |
-| [pulsemcp.com](https://www.pulsemcp.com/servers) | 6,000~7,900 |
+| [mcp.so](https://mcp.so/) | 18,070+ |
+| [pulsemcp.com](https://www.pulsemcp.com/servers) | 8,600+ |
 | [glama.ai](https://glama.ai/mcp/servers) | 5,800+ |
 | [smithery.ai](https://smithery.ai/servers) | 3,500+ |
 | [官方 Registry](https://registry.modelcontextprotocol.io/) | 官方认证 |
-| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐80,480+ |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐82,180+ |
 
 ## 配置文件
 

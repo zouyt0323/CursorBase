@@ -1,6 +1,6 @@
 # Cursor Plan Mode 完全指南
 
-> 基于 Cursor 官方文档、博客、Changelog 及最佳实践整理，版本覆盖至 Cursor 2.5（2026.02）
+> 基于 Cursor 官方文档、博客、Changelog 及最佳实践整理，版本覆盖至 Cursor 2.6（2026.03）
 
 ---
 

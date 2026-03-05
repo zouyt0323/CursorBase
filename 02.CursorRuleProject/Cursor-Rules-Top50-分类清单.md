@@ -6,7 +6,7 @@
 |------|------|------|
 | **CursorList** | https://cursorlist.com/ | .cursorrule 文件与资源目录，可按标签筛选（React、NextJS、Python、Vue、Tailwind 等） |
 | **Cursor Rules Directory (extmc.com)** | https://extmc.com/ | 113+ 条精选规则，81 个分类，按框架/技术栈/使用场景筛选，社区驱动、每周更新 |
-| **Awesome Cursor Rules** | https://github.com/PatrickJS/awesome-cursorrules | 开源 GitHub 仓库（37k+ stars），按前端/后端/移动/测试等分类组织，支持一键导入 |
+| **Awesome Cursor Rules** | https://github.com/PatrickJS/awesome-cursorrules | 开源 GitHub 仓库（37.4k+ stars），按前端/后端/移动/测试等分类组织，支持一键导入 |
 | **Pro Cursor Rules** | https://www.procursorrules.com/ | 自称「最大 Cursor 规则库」，按技术（NextJS、React、TypeScript、Python 等）分类，含规则生成与 MCP 浏览 |
 | **Cursor How** | https://www.cursorhow.com/cursor-rules | Cursor 规则合集与配置指南，聚合优质规则 |
 | **Cursor Directory** | https://cursor.directory/rules/popular | 按流行度展示规则，TypeScript/Python/Next.js/React 等分类与数量统计 |
