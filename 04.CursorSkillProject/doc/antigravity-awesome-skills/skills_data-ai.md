@@ -1,6 +1,51 @@
 # 数据与 AI（data-ai）
 
-共 99 个技能。
+共 179 个技能。
+
+
+---
+
+## agent-framework-azure-ai-py
+
+
+**中文名**：智能体 Framework Azure 人工智能 Py
+
+
+### 功能
+
+
+构建 Azure 人工智能 Foundry agents using the Microsoft 智能体 Framework Python SDK (智能体-framework-Azure-人工智能).
+
+
+**英文原文**：
+
+
+Build Azure AI Foundry agents using the Microsoft Agent Framework Python SDK (agent-framework-azure-ai).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：智能体、framework、Azure、人工智能、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 persistent agents with AzureAIAgen**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：agent、framework、azure、ai、py、foundry、agents、microsoft、python、sdk、creating、persistent。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build Azure AI Foundry agents using the Microsoft Agent Framework Python SDK (agent-framework-azure-ai). Use when creating persistent agents with AzureAIAgen...
+
+</details>
 
 
 ---
@@ -85,6 +130,180 @@ Tools are how AI agents interact with the world.
 <summary>英文描述（原文）</summary>
 
 Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently...
+
+</details>
+
+
+---
+
+## agentfolio
+
+
+**中文名**：Agentfolio
+
+
+### 功能
+
+
+Skill for discovering and researching autonomous 人工智能 agents, tools, and ecosystems using the AgentFolio directory.
+
+
+**英文原文**：
+
+
+Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：agentfolio
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：agentfolio、skill、discovering、researching、autonomous、ai、agents、ecosystems、directory。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory.
+
+</details>
+
+
+---
+
+## agentmail
+
+
+**中文名**：Agentmail
+
+
+### 功能
+
+
+邮件 基础设施 for 人工智能 agents.
+
+
+**英文原文**：
+
+
+Email infrastructure for AI agents.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：agentmail
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：agentmail、email、infrastructure、ai、agents、accounts、send、receive、emails、webhooks、check、karma。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.
+
+</details>
+
+
+---
+
+## agents-v2-py
+
+
+**中文名**：Agents V2 Py
+
+
+### 功能
+
+
+构建 容器-基于 Foundry Agents with Azure 人工智能 Projects SDK (ImageBasedHostedAgentDefinition).
+
+
+**英文原文**：
+
+
+Build container-based Foundry Agents with Azure AI Projects SDK (ImageBasedHostedAgentDefinition).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：agents、v2、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 hosted agents with custom 容器 imag**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：agents、v2、py、container、foundry、azure、ai、sdk、imagebasedhostedagentdefinition、creating、hosted、custom。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build container-based Foundry Agents with Azure AI Projects SDK (ImageBasedHostedAgentDefinition). Use when creating hosted agents with custom container imag...
+
+</details>
+
+
+---
+
+## ai-agent-development
+
+
+**中文名**：人工智能 智能体 Development
+
+
+### 功能
+
+
+人工智能 智能体 development 工作流 for building autonomous agents, 多-智能体 系统, and 智能体 编排 with CrewAI, LangGraph, and custom agents.
+
+
+**英文原文**：
+
+
+AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：人工智能、智能体
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ai、agent、development、building、autonomous、agents、multi、orchestration、crewai、langgraph、custom。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents.
 
 </details>
 
@@ -177,6 +396,92 @@ Build production-ready LLM applications, advanced RAG systems, and intelligent a
 
 ---
 
+## ai-ml
+
+
+**中文名**：人工智能 机器学习
+
+
+### 功能
+
+
+人工智能 and 机器学习 工作流 covering 大语言模型 应用 development, RAG 检索增强生成 实现ation, 智能体 架构, 机器学习 pipelines, and 人工智能-powered 功能.
+
+
+**英文原文**：
+
+
+AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：人工智能、机器学习
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ai、ml、machine、learning、covering、llm、application、development、rag、agent、architecture、pipelines。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features.
+
+</details>
+
+
+---
+
+## ai-product
+
+
+**中文名**：人工智能 Product
+
+
+### 功能
+
+
+Every product will be 人工智能-powered.
+
+
+**英文原文**：
+
+
+Every product will be AI-powered.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：人工智能、product
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ai、product、every、powered、question、whether、ll、right、ship、demo、falls、apart。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production. This skill covers LLM integrat...
+
+</details>
+
+
+---
+
 ## ai-wrapper-product
 
 
@@ -249,16 +554,14 @@ Design, audit, and improve analytics tracking systems that produce reliable, dec
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 wants to set up, fix, or evaluate analyti**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：analytics、tracking、audit、improve、produce、reliable、decision、data、user、wants、set、up。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：analytics、tracking、audit、improve、produce、reliable、decision、data。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Design, audit, and improve analytics tracking systems that produce reliable, decision-ready data. Use when the user wants to set up, fix, or evaluate analyti...
+Design, audit, and improve analytics tracking systems that produce reliable, decision-ready data.
 
 </details>
 
@@ -353,6 +656,182 @@ Master API documentation with OpenAPI 3.1, AI-powered tools, and modern develope
 
 ---
 
+## apify-content-analytics
+
+
+**中文名**：Apify Content 分析
+
+
+### 功能
+
+
+Track engagement metrics, measure campaign ROI, and 分析 content 性能 across Instagram, Facebook, YouTube, and TikTok.
+
+
+**英文原文**：
+
+
+Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：apify、content、分析
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、content、analytics、track、engagement、metrics、measure、campaign、roi、analyze、performance、instagram。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.
+
+</details>
+
+
+---
+
+## apify-ecommerce
+
+
+**中文名**：Apify Ecommerce
+
+
+### 功能
+
+
+Scrape e-commerce 数据 for 定价 intelligence, customer reviews, and seller discovery across Amazon, Walmart, eBay, IKEA, and 50+ marketplaces.
+
+
+**英文原文**：
+
+
+Scrape e-commerce data for pricing intelligence, customer reviews, and seller discovery across Amazon, Walmart, eBay, IKEA, and 50+ marketplaces.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：apify、ecommerce
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**us**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、ecommerce、scrape、commerce、data、pricing、intelligence、customer、reviews、seller、discovery、amazon。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Scrape e-commerce data for pricing intelligence, customer reviews, and seller discovery across Amazon, Walmart, eBay, IKEA, and 50+ marketplaces. Use when us...
+
+</details>
+
+
+---
+
+## apify-ultimate-scraper
+
+
+**中文名**：Apify Ultimate 爬虫
+
+
+### 功能
+
+
+Universal 人工智能-powered Web 爬虫 for any platform.
+
+
+**英文原文**：
+
+
+Universal AI-powered web scraper for any platform.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：apify、ultimate、爬虫
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、ultimate、scraper、universal、ai、powered、web、any、platform、scrape、data、instagram。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Universal AI-powered web scraper for any platform. Scrape data from Instagram, Facebook, TikTok, YouTube, Google Maps, Google Search, Google Trends, Booking....
+
+</details>
+
+
+---
+
+## appdeploy
+
+
+**中文名**：Appdeploy
+
+
+### 功能
+
+
+部署 Web apps with 后端 APIs, 数据库, and 文件 存储.
+
+
+**英文原文**：
+
+
+Deploy web apps with backend APIs, database, and file storage.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：appdeploy
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to 部署 or publish a website or Web 应用 and wants a public URL**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：appdeploy、deploy、web、apps、backend、apis、database、file、storage、user、asks、publish。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses ...
+
+</details>
+
+
+---
+
 ## audio-transcriber
 
 
@@ -374,7 +853,7 @@ Transform audio recordings into professional Markdown documentation with intelli
 ### 使用领域
 
 
-数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：音频、transcription、whisper、meeting-minutes、speech-to-text
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：[audio、transcription、whisper、meeting-minutes、speech-to-text]
 
 
 ### 使用场景
@@ -382,7 +861,7 @@ Transform audio recordings into professional Markdown documentation with intelli
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：audio、transcription、whisper、meeting-minutes、speech-to-text、transcriber、transform、recordings、professional、markdown、documentation、intelligent。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[audio、transcription、whisper、meeting-minutes、speech-to-text]、audio、transcriber、transform、recordings、professional、markdown、documentation。
 
 
 
@@ -476,6 +955,2184 @@ Autonomous agents are AI systems that can independently decompose goals, plan ac
 <summary>英文描述（原文）</summary>
 
 Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The c...
+
+</details>
+
+
+---
+
+## azure-ai-agents-persistent-dotnet
+
+
+**中文名**：Azure 人工智能 Agents Persistent Dotnet
+
+
+### 功能
+
+
+Azure 人工智能 Agents Persistent SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure AI Agents Persistent SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、agents、persistent、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、agents、persistent、dotnet、sdk、net、low、level、creating、managing、threads。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
+
+</details>
+
+
+---
+
+## azure-ai-agents-persistent-java
+
+
+**中文名**：Azure 人工智能 Agents Persistent Java
+
+
+### 功能
+
+
+Azure 人工智能 Agents Persistent SDK for Java.
+
+
+**英文原文**：
+
+
+Azure AI Agents Persistent SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、agents、persistent、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、agents、persistent、java、sdk、low、level、creating、managing、threads、messages。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
+
+</details>
+
+
+---
+
+## azure-ai-contentsafety-java
+
+
+**中文名**：Azure 人工智能 Contentsafety Java
+
+
+### 功能
+
+
+构建 content moderation applications with Azure 人工智能 Content Safety SDK for Java.
+
+
+**英文原文**：
+
+
+Build content moderation applications with Azure AI Content Safety SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、contentsafety、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 text/图像 分析, blocklist 管理, or harm det**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、contentsafety、java、content、moderation、applications、safety、sdk、implementing、text、image。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build content moderation applications with Azure AI Content Safety SDK for Java. Use when implementing text/image analysis, blocklist management, or harm det...
+
+</details>
+
+
+---
+
+## azure-ai-contentsafety-py
+
+
+**中文名**：Azure 人工智能 Contentsafety Py
+
+
+### 功能
+
+
+Azure 人工智能 Content Safety SDK for Python.
+
+
+**英文原文**：
+
+
+Azure AI Content Safety SDK for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、contentsafety、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、contentsafety、py、content、safety、sdk、python、detecting、harmful、text、images。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Content Safety SDK for Python. Use for detecting harmful content in text and images with multi-severity classification.
+
+</details>
+
+
+---
+
+## azure-ai-contentsafety-ts
+
+
+**中文名**：Azure 人工智能 Contentsafety Ts
+
+
+### 功能
+
+
+分析 text and images for harmful content using Azure 人工智能 Content Safety (@Azure-REST/人工智能-content-safety).
+
+
+**英文原文**：
+
+
+Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、contentsafety、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**moderating 用户-generated content, detect**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、contentsafety、ts、analyze、text、images、harmful、content、safety、rest、moderating。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety). Use when moderating user-generated content, detect...
+
+</details>
+
+
+---
+
+## azure-ai-contentunderstanding-py
+
+
+**中文名**：Azure 人工智能 Contentunderstanding Py
+
+
+### 功能
+
+
+Azure 人工智能 Content Understanding SDK for Python.
+
+
+**英文原文**：
+
+
+Azure AI Content Understanding SDK for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、contentunderstanding、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、contentunderstanding、py、content、understanding、sdk、python、multimodal、extraction、documents、images。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.
+
+</details>
+
+
+---
+
+## azure-ai-document-intelligence-dotnet
+
+
+**中文名**：Azure 人工智能 Document Intelligence Dotnet
+
+
+### 功能
+
+
+Azure 人工智能 Document Intelligence SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure AI Document Intelligence SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、document、intelligence、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、document、intelligence、dotnet、sdk、net、extract、text、tables、structured、data。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.
+
+</details>
+
+
+---
+
+## azure-ai-document-intelligence-ts
+
+
+**中文名**：Azure 人工智能 Document Intelligence Ts
+
+
+### 功能
+
+
+Extract text, tables, and structured 数据 from documents using Azure Document Intelligence (@Azure-REST/人工智能-document-intelligence).
+
+
+**英文原文**：
+
+
+Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、document、intelligence、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**processing invoic**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、document、intelligence、ts、extract、text、tables、structured、data、documents、rest。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when processing invoic...
+
+</details>
+
+
+---
+
+## azure-ai-formrecognizer-java
+
+
+**中文名**：Azure 人工智能 Formrecognizer Java
+
+
+### 功能
+
+
+构建 document 分析 applications with Azure Document Intelligence (表单 Recognizer) SDK for Java.
+
+
+**英文原文**：
+
+
+Build document analysis applications with Azure Document Intelligence (Form Recognizer) SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、formrecognizer、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**extracting text, tables, key-value pairs from **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、formrecognizer、java、document、analysis、applications、intelligence、form、recognizer、sdk、extracting。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build document analysis applications with Azure Document Intelligence (Form Recognizer) SDK for Java. Use when extracting text, tables, key-value pairs from ...
+
+</details>
+
+
+---
+
+## azure-ai-ml-py
+
+
+**中文名**：Azure 人工智能 机器学习 Py
+
+
+### 功能
+
+
+Azure 机器学习 SDK v2 for Python.
+
+
+**英文原文**：
+
+
+Azure Machine Learning SDK v2 for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、机器学习、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、ml、py、machine、learning、sdk、v2、python、workspaces、jobs、models。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.
+
+</details>
+
+
+---
+
+## azure-ai-openai-dotnet
+
+
+**中文名**：Azure 人工智能 Openai Dotnet
+
+
+### 功能
+
+
+Azure OpenAI SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure OpenAI SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、openai、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、openai、dotnet、sdk、net、client、library、chat、completions、embeddings、image。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, ...
+
+</details>
+
+
+---
+
+## azure-ai-projects-dotnet
+
+
+**中文名**：Azure 人工智能 Projects Dotnet
+
+
+### 功能
+
+
+Azure 人工智能 Projects SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure AI Projects SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、dotnet、sdk、net、high、level、client、foundry、including、agents、connections。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry projects including agents, connections, datasets, deployments, evaluations, and indexes.
+
+</details>
+
+
+---
+
+## azure-ai-projects-java
+
+
+**中文名**：Azure 人工智能 Projects Java
+
+
+### 功能
+
+
+Azure 人工智能 Projects SDK for Java.
+
+
+**英文原文**：
+
+
+Azure AI Projects SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、java、sdk、high、level、foundry、including、connections、datasets、indexes、evaluations。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Projects SDK for Java. High-level SDK for Azure AI Foundry project management including connections, datasets, indexes, and evaluations.
+
+</details>
+
+
+---
+
+## azure-ai-projects-py
+
+
+**中文名**：Azure 人工智能 Projects Py
+
+
+### 功能
+
+
+构建 人工智能 applications using the Azure 人工智能 Projects Python SDK (Azure-人工智能-projects).
+
+
+**英文原文**：
+
+
+Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**使用或处理 Foundry 项目 clients, 创建 versioned agents wi**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、py、applications、python、sdk、working、foundry、clients、creating、versioned、agents。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects). Use when working with Foundry project clients, creating versioned agents wi...
+
+</details>
+
+
+---
+
+## azure-ai-projects-ts
+
+
+**中文名**：Azure 人工智能 Projects Ts
+
+
+### 功能
+
+
+构建 人工智能 applications using Azure 人工智能 Projects SDK for JavaScript (@Azure/人工智能-projects).
+
+
+**英文原文**：
+
+
+Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-projects).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**使用或处理 Foundry 项目 clients, agents, connections, de**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、ts、applications、sdk、javascript、working、foundry、clients、agents、connections、deployments。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-projects). Use when working with Foundry project clients, agents, connections, de...
+
+</details>
+
+
+---
+
+## azure-ai-textanalytics-py
+
+
+**中文名**：Azure 人工智能 Textanalytics Py
+
+
+### 功能
+
+
+Azure 人工智能 Text 分析 SDK for sentiment 分析, entity recognition, key phrases, language detection, PII, and healthcare 自然语言处理.
+
+
+**英文原文**：
+
+
+Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、textanalytics、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、textanalytics、py、text、analytics、sdk、sentiment、analysis、entity、recognition、key。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language pr...
+
+</details>
+
+
+---
+
+## azure-ai-transcription-py
+
+
+**中文名**：Azure 人工智能 Transcription Py
+
+
+### 功能
+
+
+Azure 人工智能 Transcription SDK for Python.
+
+
+**英文原文**：
+
+
+Azure AI Transcription SDK for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、transcription、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、transcription、py、sdk、python、real、time、batch、speech、text、timestamps。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Transcription SDK for Python. Use for real-time and batch speech-to-text transcription with timestamps and diarization.
+
+</details>
+
+
+---
+
+## azure-ai-translation-document-py
+
+
+**中文名**：Azure 人工智能 Translation Document Py
+
+
+### 功能
+
+
+Azure 人工智能 Document Translation SDK for batch translation of documents with format preservation.
+
+
+**英文原文**：
+
+
+Azure AI Document Translation SDK for batch translation of documents with format preservation.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、translation、document、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、translation、document、py、sdk、batch、documents、format、preservation、translating、word。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Document Translation SDK for batch translation of documents with format preservation. Use for translating Word, PDF, Excel, PowerPoint, and other do...
+
+</details>
+
+
+---
+
+## azure-ai-translation-text-py
+
+
+**中文名**：Azure 人工智能 Translation Text Py
+
+
+### 功能
+
+
+Azure 人工智能 Text Translation SDK for 实时 text translation, transliteration, language detection, and dictionary lookup.
+
+
+**英文原文**：
+
+
+Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、translation、text、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、translation、text、py、sdk、real、time、transliteration、language、detection、dictionary。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup. Use for translating text content in...
+
+</details>
+
+
+---
+
+## azure-ai-translation-ts
+
+
+**中文名**：Azure 人工智能 Translation Ts
+
+
+### 功能
+
+
+构建 translation applications using Azure Translation SDKs for JavaScript (@Azure-REST/人工智能-translation-text, @Azure-REST/人工智能-translation-document).
+
+
+**英文原文**：
+
+
+Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest/ai-translation-document).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、translation、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**i**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、translation、ts、applications、sdks、javascript、rest、text、document、implementing、transliter。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest/ai-translation-document). Use when i...
+
+</details>
+
+
+---
+
+## azure-ai-vision-imageanalysis-java
+
+
+**中文名**：Azure 人工智能 Vision Imageanalysis Java
+
+
+### 功能
+
+
+构建 图像 分析 applications with Azure 人工智能 Vision SDK for Java.
+
+
+**英文原文**：
+
+
+Build image analysis applications with Azure AI Vision SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、vision、imageanalysis、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 图像 captioning, OCR text extraction, object detection, tagging, **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、vision、imageanalysis、java、image、analysis、applications、sdk、implementing、captioning、ocr。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, ...
+
+</details>
+
+
+---
+
+## azure-ai-vision-imageanalysis-py
+
+
+**中文名**：Azure 人工智能 Vision Imageanalysis Py
+
+
+### 功能
+
+
+Azure 人工智能 Vision 图像 分析 SDK for captions, tags, objects, OCR, people detection, and 智能 cropping.
+
+
+**英文原文**：
+
+
+Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、vision、imageanalysis、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、vision、imageanalysis、py、image、analysis、sdk、captions、tags、objects、ocr。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping. Use for computer vision and image understanding ta...
+
+</details>
+
+
+---
+
+## azure-ai-voicelive-dotnet
+
+
+**中文名**：Azure 人工智能 Voicelive Dotnet
+
+
+### 功能
+
+
+Azure 人工智能 Voice Live SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure AI Voice Live SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、voicelive、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、voicelive、dotnet、voice、live、sdk、net、real、time、applications、bidirectional。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Voice Live SDK for .NET. Build real-time voice AI applications with bidirectional WebSocket communication.
+
+</details>
+
+
+---
+
+## azure-ai-voicelive-java
+
+
+**中文名**：Azure 人工智能 Voicelive Java
+
+
+### 功能
+
+
+Azure 人工智能 VoiceLive SDK for Java.
+
+
+**英文原文**：
+
+
+Azure AI VoiceLive SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、voicelive、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、voicelive、java、sdk、real、time、bidirectional、voice、conversations、assistants、websocket。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.
+
+</details>
+
+
+---
+
+## azure-ai-voicelive-py
+
+
+**中文名**：Azure 人工智能 Voicelive Py
+
+
+### 功能
+
+
+构建 实时 voice 人工智能 applications using Azure 人工智能 Voice Live SDK (Azure-人工智能-voicelive).
+
+
+**英文原文**：
+
+
+Build real-time voice AI applications using Azure AI Voice Live SDK (azure-ai-voicelive).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、voicelive、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 Python applications that need 实时-tim**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、voicelive、py、real、time、voice、applications、live、sdk、skill、creating。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build real-time voice AI applications using Azure AI Voice Live SDK (azure-ai-voicelive). Use this skill when creating Python applications that need real-tim...
+
+</details>
+
+
+---
+
+## azure-ai-voicelive-ts
+
+
+**中文名**：Azure 人工智能 Voicelive Ts
+
+
+### 功能
+
+
+Azure 人工智能 Voice Live SDK for JavaScript/TypeScript.
+
+
+**英文原文**：
+
+
+Azure AI Voice Live SDK for JavaScript/TypeScript.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、人工智能、voicelive、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、voicelive、ts、voice、live、sdk、javascript、typescript、real、time、applications。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time voice AI applications with bidirectional WebSocket communication.
+
+</details>
+
+
+---
+
+## azure-communication-callautomation-java
+
+
+**中文名**：Azure Communication Callautomation Java
+
+
+### 功能
+
+
+构建 call 自动化 workflows with Azure Communication 服务 Call 自动化 Java SDK.
+
+
+**英文原文**：
+
+
+Build call automation workflows with Azure Communication Services Call Automation Java SDK.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、communication、callautomation、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 IVR 系统, call routing, call recording, **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、communication、callautomation、java、call、automation、sdk、implementing、ivr、routing、recording、dtmf。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build call automation workflows with Azure Communication Services Call Automation Java SDK. Use when implementing IVR systems, call routing, call recording, ...
+
+</details>
+
+
+---
+
+## azure-cosmos-java
+
+
+**中文名**：Azure Cosmos Java
+
+
+### 功能
+
+
+Azure Cosmos DB SDK for Java.
+
+
+**英文原文**：
+
+
+Azure Cosmos DB SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、cosmos、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、cosmos、java、db、sdk、nosql、database、operations、global、distribution、multi、model。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Cosmos DB SDK for Java. NoSQL database operations with global distribution, multi-model support, and reactive patterns.
+
+</details>
+
+
+---
+
+## azure-cosmos-py
+
+
+**中文名**：Azure Cosmos Py
+
+
+### 功能
+
+
+Azure Cosmos DB SDK for Python (NoSQL API).
+
+
+**英文原文**：
+
+
+Azure Cosmos DB SDK for Python (NoSQL API).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、cosmos、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、cosmos、py、db、sdk、python、nosql、api、document、crud、queries、containers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.
+
+</details>
+
+
+---
+
+## azure-cosmos-rust
+
+
+**中文名**：Azure Cosmos Rust
+
+
+### 功能
+
+
+Azure Cosmos DB SDK for Rust (NoSQL API).
+
+
+**英文原文**：
+
+
+Azure Cosmos DB SDK for Rust (NoSQL API).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、cosmos、Rust
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、cosmos、rust、db、sdk、nosql、api、document、crud、queries、containers、globally。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Cosmos DB SDK for Rust (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.
+
+</details>
+
+
+---
+
+## azure-cosmos-ts
+
+
+**中文名**：Azure Cosmos Ts
+
+
+### 功能
+
+
+Azure Cosmos DB JavaScript/TypeScript SDK (@Azure/cosmos) for 数据 plane operations.
+
+
+**英文原文**：
+
+
+Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data plane operations.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、cosmos、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、cosmos、ts、db、javascript、typescript、sdk、data、plane、operations、crud、documents。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data plane operations. Use for CRUD operations on documents, queries, bulk operations, and cont...
+
+</details>
+
+
+---
+
+## azure-data-tables-java
+
+
+**中文名**：Azure 数据 Tables Java
+
+
+### 功能
+
+
+构建 table 存储 applications with Azure Tables SDK for Java.
+
+
+**英文原文**：
+
+
+Build table storage applications with Azure Tables SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、数据、tables、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**使用或处理 Azure Table 存储 or Cosmos DB Table API for NoSQL key-value 数据, s**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、data、tables、java、table、storage、applications、sdk、working、cosmos、db、api。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build table storage applications with Azure Tables SDK for Java. Use when working with Azure Table Storage or Cosmos DB Table API for NoSQL key-value data, s...
+
+</details>
+
+
+---
+
+## azure-data-tables-py
+
+
+**中文名**：Azure 数据 Tables Py
+
+
+### 功能
+
+
+Azure Tables SDK for Python (存储 and Cosmos DB).
+
+
+**英文原文**：
+
+
+Azure Tables SDK for Python (Storage and Cosmos DB).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、数据、tables、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、data、tables、py、sdk、python、storage、cosmos、db、nosql、key、value。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.
+
+</details>
+
+
+---
+
+## azure-eventhub-java
+
+
+**中文名**：Azure Eventhub Java
+
+
+### 功能
+
+
+构建 实时 流处理 applications with Azure 事件 Hubs SDK for Java.
+
+
+**英文原文**：
+
+
+Build real-time streaming applications with Azure Event Hubs SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、eventhub、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 事件 流处理, 高-throughput 数据 ingestion, or 构建**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventhub、java、real、time、streaming、applications、event、hubs、sdk、implementing、high。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building...
+
+</details>
+
+
+---
+
+## azure-eventhub-rust
+
+
+**中文名**：Azure Eventhub Rust
+
+
+### 功能
+
+
+Azure 事件 Hubs SDK for Rust.
+
+
+**英文原文**：
+
+
+Azure Event Hubs SDK for Rust.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、eventhub、Rust
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventhub、rust、event、hubs、sdk、sending、receiving、events、streaming、data、ingestion。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.
+
+</details>
+
+
+---
+
+## azure-eventhub-ts
+
+
+**中文名**：Azure Eventhub Ts
+
+
+### 功能
+
+
+构建 事件 流处理 applications using Azure 事件 Hubs SDK for JavaScript (@Azure/事件-hubs).
+
+
+**英文原文**：
+
+
+Build event streaming applications using Azure Event Hubs SDK for JavaScript (@azure/event-hubs).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、eventhub、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 高-throughput 事件 ingestion, 实时**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventhub、ts、event、streaming、applications、hubs、sdk、javascript、implementing、high、throughput。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build event streaming applications using Azure Event Hubs SDK for JavaScript (@azure/event-hubs). Use when implementing high-throughput event ingestion, real...
+
+</details>
+
+
+---
+
+## azure-maps-search-dotnet
+
+
+**中文名**：Azure Maps 搜索 Dotnet
+
+
+### 功能
+
+
+Azure Maps SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Maps SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、maps、搜索、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、maps、search、dotnet、sdk、net、location、including、geocoding、routing、rendering、geolocation。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Maps SDK for .NET. Location-based services including geocoding, routing, rendering, geolocation, and weather. Use for address search, directions, map t...
+
+</details>
+
+
+---
+
+## azure-monitor-ingestion-java
+
+
+**中文名**：Azure 监控 Ingestion Java
+
+
+### 功能
+
+
+Azure 监控 Ingestion SDK for Java.
+
+
+**英文原文**：
+
+
+Azure Monitor Ingestion SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、监控、ingestion、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、ingestion、java、sdk、send、custom、logs、via、data、collection、rules。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Monitor Ingestion SDK for Java. Send custom logs to Azure Monitor via Data Collection Rules (DCR) and Data Collection Endpoints (DCE).
+
+</details>
+
+
+---
+
+## azure-monitor-ingestion-py
+
+
+**中文名**：Azure 监控 Ingestion Py
+
+
+### 功能
+
+
+Azure 监控 Ingestion SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Monitor Ingestion SDK for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、监控、ingestion、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、ingestion、py、sdk、python、sending、custom、logs、log、analytics、workspace。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.
+
+</details>
+
+
+---
+
+## azure-monitor-query-java
+
+
+**中文名**：Azure 监控 Query Java
+
+
+### 功能
+
+
+Azure 监控 Query SDK for Java.
+
+
+**英文原文**：
+
+
+Azure Monitor Query SDK for Java.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、监控、query、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、query、java、sdk、execute、kusto、queries、against、log、analytics、workspaces。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Monitor Query SDK for Java. Execute Kusto queries against Log Analytics workspaces and query metrics from Azure resources.
+
+</details>
+
+
+---
+
+## azure-monitor-query-py
+
+
+**中文名**：Azure 监控 Query Py
+
+
+### 功能
+
+
+Azure 监控 Query SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Monitor Query SDK for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、监控、query、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、query、py、sdk、python、querying、log、analytics、workspaces、metrics。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Monitor Query SDK for Python. Use for querying Log Analytics workspaces and Azure Monitor metrics.
+
+</details>
+
+
+---
+
+## azure-postgres-ts
+
+
+**中文名**：Azure PostgreSQL Ts
+
+
+### 功能
+
+
+Connect to Azure 数据库 for PostgreSQL Flexible Server from Node.js/TypeScript using the pg (Node-PostgreSQL) package.
+
+
+**英文原文**：
+
+
+Connect to Azure Database for PostgreSQL Flexible Server from Node.js/TypeScript using the pg (node-postgres) package.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、PostgreSQL、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、postgres、ts、connect、database、postgresql、flexible、server、node、js、typescript、pg。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Connect to Azure Database for PostgreSQL Flexible Server from Node.js/TypeScript using the pg (node-postgres) package.
+
+</details>
+
+
+---
+
+## azure-resource-manager-cosmosdb-dotnet
+
+
+**中文名**：Azure Resource 管理器 Cosmosdb Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for Cosmos DB in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Cosmos DB in .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、resource、管理器、cosmosdb、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、resource、manager、cosmosdb、dotnet、sdk、cosmos、db、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Cosmos DB in .NET.
+
+</details>
+
+
+---
+
+## azure-resource-manager-mysql-dotnet
+
+
+**中文名**：Azure Resource 管理器 MySQL Dotnet
+
+
+### 功能
+
+
+Azure MySQL Flexible Server SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure MySQL Flexible Server SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、resource、管理器、MySQL、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、resource、manager、mysql、dotnet、flexible、server、sdk、net、database、deployments。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure MySQL Flexible Server SDK for .NET. Database management for MySQL Flexible Server deployments.
+
+</details>
+
+
+---
+
+## azure-resource-manager-postgresql-dotnet
+
+
+**中文名**：Azure Resource 管理器 Postgresql Dotnet
+
+
+### 功能
+
+
+Azure PostgreSQL Flexible Server SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure PostgreSQL Flexible Server SDK for .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、resource、管理器、postgresql、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、resource、manager、postgresql、dotnet、flexible、server、sdk、net、database、deployments。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments.
+
+</details>
+
+
+---
+
+## azure-resource-manager-sql-dotnet
+
+
+**中文名**：Azure Resource 管理器 SQL Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for Azure SQL in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Azure SQL in .NET.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、resource、管理器、SQL、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、resource、manager、sql、dotnet、sdk、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Azure SQL in .NET.
+
+</details>
+
+
+---
+
+## azure-search-documents-dotnet
+
+
+**中文名**：Azure 搜索 Documents Dotnet
+
+
+### 功能
+
+
+Azure 人工智能 搜索 SDK for .NET (Azure.搜索.Documents).
+
+
+**英文原文**：
+
+
+Azure AI Search SDK for .NET (Azure.Search.Documents).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、搜索、documents、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、search、documents、dotnet、ai、sdk、net、building、applications、full、text、vector。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.
+
+</details>
+
+
+---
+
+## azure-search-documents-py
+
+
+**中文名**：Azure 搜索 Documents Py
+
+
+### 功能
+
+
+Azure 人工智能 搜索 SDK for Python.
+
+
+**英文原文**：
+
+
+Azure AI Search SDK for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、搜索、documents、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、search、documents、py、ai、sdk、python、vector、hybrid、semantic、ranking、indexing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.
+
+</details>
+
+
+---
+
+## azure-search-documents-ts
+
+
+**中文名**：Azure 搜索 Documents Ts
+
+
+### 功能
+
+
+构建 搜索 applications using Azure 人工智能 搜索 SDK for JavaScript (@Azure/搜索-documents).
+
+
+**英文原文**：
+
+
+Build search applications using Azure AI Search SDK for JavaScript (@azure/search-documents).
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、搜索、documents、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建/管理 indexes, 实现 向量/hybrid **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、search、documents、ts、applications、ai、sdk、javascript、creating、managing、indexes、implementing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build search applications using Azure AI Search SDK for JavaScript (@azure/search-documents). Use when creating/managing indexes, implementing vector/hybrid ...
+
+</details>
+
+
+---
+
+## azure-storage-file-datalake-py
+
+
+**中文名**：Azure 存储 文件 Datalake Py
+
+
+### 功能
+
+
+Azure 数据 Lake 存储 Gen2 SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Data Lake Storage Gen2 SDK for Python.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：Azure、存储、文件、datalake、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、file、datalake、py、data、lake、gen2、sdk、python、hierarchical、big。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical file systems, big data analytics, and file/directory operations.
 
 </details>
 
@@ -577,13 +3234,13 @@ AI operational modes (brainstorm, implement, debug, review, teach, ship, orchest
 ### 功能
 
 
-适用于 用户 needs capabilities Claude lacks (图像 generation, 实时 X/Twitter 数据) or explicitly requests external 模型 ("blockrun", "use grok", "u...
+适用于 用户 needs capabilities Claude lacks (图像 generation, 实时 X/Twitter 数据) or explicitly requests external 模型 (\"blockrun\", \"use grok\"...
 
 
 **英文原文**：
 
 
-Use when user needs capabilities Claude lacks (image generation, real-time X/Twitter data) or explicitly requests external models ("blockrun", "use grok", "u...
+Use when user needs capabilities Claude lacks (image generation, real-time X/Twitter data) or explicitly requests external models (\"blockrun\", \"use grok\"...
 
 
 ### 使用领域
@@ -597,7 +3254,7 @@ Use when user needs capabilities Claude lacks (image generation, real-time X/Twi
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**用户 needs capabilities Claude lacks (图像 generation, 实时-时间 X/Twitter 数据) or explicitly requests external 模型 ("blockrun", "use grok", "u**。
+- 在以下情况下可使用本技能：**用户 needs capabilities Claude lacks (图像 generation, 实时-时间 X/Twitter 数据) or explicitly requests external 模型 (\"blockrun\", \"use grok\"**。
 
 - **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：blockrun、user、capabilities、claude、lacks、image、generation、real、time、twitter、data、explicitly。
 
@@ -606,7 +3263,7 @@ Use when user needs capabilities Claude lacks (image generation, real-time X/Twi
 <details>
 <summary>英文描述（原文）</summary>
 
-Use when user needs capabilities Claude lacks (image generation, real-time X/Twitter data) or explicitly requests external models ("blockrun", "use grok", "u...
+Use when user needs capabilities Claude lacks (image generation, real-time X/Twitter data) or explicitly requests external models (\"blockrun\", \"use grok\"...
 
 </details>
 
@@ -871,6 +3528,49 @@ You are a documentation expert specializing in creating comprehensive, maintaina
 
 ---
 
+## code-reviewer
+
+
+**中文名**：代码 Reviewer
+
+
+### 功能
+
+
+Elite 代码评审 专家 专攻 现代 人工智能-powered 代码
+
+
+**英文原文**：
+
+
+Elite code review expert specializing in modern AI-powered code
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：代码
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：code、reviewer、elite、review、specializing、ai、powered。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Elite code review expert specializing in modern AI-powered code
+
+</details>
+
+
+---
+
 ## codex-review
 
 
@@ -908,6 +3608,49 @@ Professional code review with auto CHANGELOG generation, integrated with Codex A
 <summary>英文描述（原文）</summary>
 
 Professional code review with auto CHANGELOG generation, integrated with Codex AI
+
+</details>
+
+
+---
+
+## computer-use-agents
+
+
+**中文名**：Computer Use Agents
+
+
+### 功能
+
+
+构建 人工智能 agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text.
+
+
+**英文原文**：
+
+
+Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：computer、use、agents
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：computer、use、agents、ai、interact、computers、like、humans、do、viewing、screens、moving。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer...
 
 </details>
 
@@ -993,7 +3736,7 @@ Elite AI context engineering specialist mastering dynamic context management, ve
 <details>
 <summary>英文描述（原文）</summary>
 
-Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrate...
+Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems.
 
 </details>
 
@@ -1086,49 +3829,6 @@ Persistent memory systems for LLM conversations including short-term, long-term,
 
 ---
 
-## crewai
-
-
-**中文名**：Crewai
-
-
-### 功能
-
-
-专家 in CrewAI - the leading 基于角色的 多-智能体 framework used by 60% of Fortune 500 companies.
-
-
-**英文原文**：
-
-
-Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies.
-
-
-### 使用领域
-
-
-数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：crewai
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：crewai、leading、role、multi、agent、framework、used、60、fortune、500、companies、covers。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies. Covers agent design with roles and goals, task definiti...
-
-</details>
-
-
----
-
 ## customer-support
 
 
@@ -1165,7 +3865,7 @@ Elite AI-powered customer support specialist mastering conversational AI, automa
 <details>
 <summary>英文描述（原文）</summary>
 
-Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integ...
+Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences.
 
 </details>
 
@@ -1348,6 +4048,92 @@ Transform data into compelling narratives using visualization, context, and pers
 
 ---
 
+## data-structure-protocol
+
+
+**中文名**：数据 Structure Protocol
+
+
+### 功能
+
+
+Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading th...
+
+
+**英文原文**：
+
+
+Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading th...
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：数据、structure、protocol
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：data、structure、protocol、give、agents、persistent、structural、memory、codebase、navigate、dependencies、track。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading th...
+
+</details>
+
+
+---
+
+## database
+
+
+**中文名**：数据库
+
+
+### 功能
+
+
+数据库 development and operations 工作流 covering SQL, NoSQL, 数据库设计, migrations, 优化, and 数据 工程.
+
+
+**英文原文**：
+
+
+Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：数据库
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：database、development、operations、covering、sql、nosql、migrations、optimization、data、engineering。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.
+
+</details>
+
+
+---
+
 ## database-architect
 
 
@@ -1384,7 +4170,7 @@ Expert database architect specializing in data layer design from scratch, techno
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures. Masters...
+Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.
 
 </details>
 
@@ -1428,6 +4214,49 @@ Database design principles and decision-making.
 <summary>英文描述（原文）</summary>
 
 Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases.
+
+</details>
+
+
+---
+
+## database-optimizer
+
+
+**中文名**：数据库 Optimizer
+
+
+### 功能
+
+
+专家 数据库 优化r 专攻 现代 性能 tuning, query 优化, and scalable architectures.
+
+
+**英文原文**：
+
+
+Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：数据库、optimizer
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：database、optimizer、specializing、performance、tuning、query、optimization、scalable、architectures。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
 
 </details>
 
@@ -1913,6 +4742,51 @@ Opinionated frontend development standards for modern React + TypeScript applica
 
 ---
 
+## frontend-ui-dark-ts
+
+
+**中文名**：前端 UI Dark Ts
+
+
+### 功能
+
+
+构建 dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations.
+
+
+**英文原文**：
+
+
+Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：前端、UI、dark、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 dashboard**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：frontend、ui、dark、ts、themed、react、applications、tailwind、css、custom、theming、glassmorphism。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations. Use when creating dashboard...
+
+</details>
+
+
+---
+
 ## geo-fundamentals
 
 
@@ -2085,6 +4959,94 @@ GraphQL gives clients exactly the data they need - no more, no less. One endpoin
 
 ---
 
+## hig-technologies
+
+
+**中文名**：Hig Technologies
+
+
+### 功能
+
+
+Apple HIG guidance for Apple technology integrations: Siri, Apple Pay, HealthKit, HomeKit, ARKit, 机器学习, generative 人工智能, iCloud, Sign in with Apple...
+
+
+**英文原文**：
+
+
+Apple HIG guidance for Apple technology integrations: Siri, Apple Pay, HealthKit, HomeKit, ARKit, machine learning, generative AI, iCloud, Sign in with Apple...
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：hig、technologies
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、technologies、apple、guidance、technology、integrations、siri、pay、healthkit、homekit、arkit、machine。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple HIG guidance for Apple technology integrations: Siri, Apple Pay, HealthKit, HomeKit, ARKit, machine learning, generative AI, iCloud, Sign in with Apple...
+
+</details>
+
+
+---
+
+## hosted-agents-v2-py
+
+
+**中文名**：Hosted Agents V2 Py
+
+
+### 功能
+
+
+构建 hosted agents using Azure 人工智能 Projects SDK with ImageBasedHostedAgentDefinition.
+
+
+**英文原文**：
+
+
+Build hosted agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：hosted、agents、v2、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 容器-基于 agents in Azure 人工智能 Foundry**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hosted、agents、v2、py、azure、ai、sdk、imagebasedhostedagentdefinition、creating、container、foundry。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build hosted agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition. Use when creating container-based agents in Azure AI Foundry.
+
+</details>
+
+
+---
+
 ## hybrid-search-implementation
 
 
@@ -2130,6 +5092,49 @@ Combine vector and keyword search for improved retrieval. Use when implementing 
 
 ---
 
+## imagen
+
+
+**中文名**：Imagen
+
+
+### 功能
+
+
+人工智能 图像 generation skill powered by Google Gemini, enabling seamless visual content creation for UI placeholders, 文档, and 设计 assets.
+
+
+**英文原文**：
+
+
+AI image generation skill powered by Google Gemini, enabling seamless visual content creation for UI placeholders, documentation, and design assets.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：imagen
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：imagen、ai、image、generation、skill、powered、google、gemini、enabling、seamless、visual、content。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+AI image generation skill powered by Google Gemini, enabling seamless visual content creation for UI placeholders, documentation, and design assets.
+
+</details>
+
+
+---
+
 ## ios-developer
 
 
@@ -2166,7 +5171,7 @@ Develop native iOS applications with Swift/SwiftUI.
 <details>
 <summary>英文描述（原文）</summary>
 
-Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACT...
+Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization.
 
 </details>
 
@@ -2255,6 +5260,135 @@ Expert in LangGraph - the production-grade framework for building stateful, mult
 <summary>英文描述（原文）</summary>
 
 Expert in LangGraph - the production-grade framework for building stateful, multi-actor AI applications. Covers graph construction, state management, cycles ...
+
+</details>
+
+
+---
+
+## libreoffice/base
+
+
+**中文名**：Libreoffice/base
+
+
+### 功能
+
+
+数据库 管理ment, forms, reports, and 数据 operations with LibreOffice Base.
+
+
+**英文原文**：
+
+
+Database management, forms, reports, and data operations with LibreOffice Base.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：libreoffice/base
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：libreoffice/base、base、database、forms、reports、data、operations、libreoffice。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Database management, forms, reports, and data operations with LibreOffice Base.
+
+</details>
+
+
+---
+
+## libreoffice/calc
+
+
+**中文名**：Libreoffice/calc
+
+
+### 功能
+
+
+Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, 数据 自动化 with LibreOffice Calc.
+
+
+**英文原文**：
+
+
+Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, data automation with LibreOffice Calc.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：libreoffice/calc
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：libreoffice/calc、calc、spreadsheet、creation、format、conversion、ods、xlsx、csv、formulas、data、automation。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, data automation with LibreOffice Calc.
+
+</details>
+
+
+---
+
+## libreoffice/draw
+
+
+**中文名**：Libreoffice/draw
+
+
+### 功能
+
+
+向量 graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw.
+
+
+**英文原文**：
+
+
+Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：libreoffice/draw
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：libreoffice/draw、draw、vector、graphics、diagram、creation、format、conversion、odg、svg、pdf、libreoffice。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw.
 
 </details>
 
@@ -2435,6 +5569,51 @@ Implement comprehensive evaluation strategies for LLM applications using automat
 
 ---
 
+## llm-prompt-optimizer
+
+
+**中文名**：大语言模型 提示词 Optimizer
+
+
+### 功能
+
+
+适用于 improving prompts for any 大语言模型.
+
+
+**英文原文**：
+
+
+Use when improving prompts for any LLM.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：大语言模型、提示词、optimizer
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**改进 prompts for any 大语言模型**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：llm、prompt、optimizer、improving、prompts、any、applies、proven、engineering、techniques、boost、output。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Use when improving prompts for any LLM. Applies proven prompt engineering techniques to boost output quality, reduce hallucinations, and cut token usage.
+
+</details>
+
+
+---
+
 ## mailchimp-automation
 
 
@@ -2472,6 +5651,49 @@ Automate Mailchimp email marketing including campaigns, audiences, subscribers, 
 <summary>英文描述（原文）</summary>
 
 Automate Mailchimp email marketing including campaigns, audiences, subscribers, segments, and analytics via Rube MCP (Composio). Always search tools first fo...
+
+</details>
+
+
+---
+
+## mlops-engineer
+
+
+**中文名**：Mlops Engineer
+
+
+### 功能
+
+
+构建 comprehensive 机器学习 pipelines, experiment tracking, and 模型 registries with MLflow, Kubeflow, and 现代 MLOps tools.
+
+
+**英文原文**：
+
+
+Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：mlops
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mlops、engineer、ml、pipelines、experiment、tracking、model、registries、mlflow、kubeflow。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools.
 
 </details>
 
@@ -2738,6 +5960,51 @@ Write idiomatic PHP code with generators, iterators, SPL data structures, and mo
 
 ---
 
+## podcast-generation
+
+
+**中文名**：Podcast Generation
+
+
+### 功能
+
+
+生成 人工智能-powered podcast-风格 音频 narratives using Azure OpenAI's GPT Realtime Mini 模型 via WebSocket.
+
+
+**英文原文**：
+
+
+Generate AI-powered podcast-style audio narratives using Azure OpenAI's GPT Realtime Mini model via WebSocket.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：podcast、generation
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**构建 text-to-speech 功能, aud**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：podcast、generation、generate、ai、powered、style、audio、narratives、azure、openai、gpt、realtime。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Generate AI-powered podcast-style audio narratives using Azure OpenAI's GPT Realtime Mini model via WebSocket. Use when building text-to-speech features, aud...
+
+</details>
+
+
+---
+
 ## postgres-best-practices
 
 
@@ -2769,7 +6036,7 @@ Postgres performance optimization and best practices from Supabase.
 
 - 在以下情况下可使用本技能：**编写, 评审, or 优化 PostgreSQL queries, 模式/Schema designs, o**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：postgres、best、practices、supabase、performance、optimization、skill、writing、reviewing、optimizing、queries、schema。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：postgres、best、practices、performance、optimization、supabase、skill、writing、reviewing、optimizing、queries、schema。
 
 
 
@@ -2820,6 +6087,49 @@ Design a PostgreSQL-specific schema.
 <summary>英文描述（原文）</summary>
 
 Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features
+
+</details>
+
+
+---
+
+## postgresql-optimization
+
+
+**中文名**：Postgresql 优化
+
+
+### 功能
+
+
+PostgreSQL 数据库 优化 工作流 for query tuning, 索引 strategies, 性能 分析, and production 数据库 管理ment.
+
+
+**英文原文**：
+
+
+PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：postgresql、优化
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：postgresql、optimization、database、query、tuning、indexing、performance、analysis。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management.
 
 </details>
 
@@ -2898,16 +6208,14 @@ Design and evaluate programmatic SEO strategies for creating SEO-driven pages at
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 mentions progra**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：programmatic、seo、evaluate、creating、driven、pages、scale、structured、data、user、mentions、directory。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：programmatic、seo、evaluate、creating、driven、pages、scale、structured、data。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data. Use when the user mentions progra...
+Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.
 
 </details>
 
@@ -2943,7 +6251,7 @@ Caching strategies for LLM prompts including Anthropic prompt caching, response 
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：prompt、caching、llm、prompts、including、anthropic、response、cag、cache、augmented、generation。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：prompt、caching、llm、prompts、including、anthropic、response、cag、cache、augmented、generation、augm。
 
 
 
@@ -3002,6 +6310,51 @@ Master advanced prompt engineering techniques to maximize LLM performance, relia
 
 ---
 
+## pydantic-models-py
+
+
+**中文名**：Pydantic 模型 Py
+
+
+### 功能
+
+
+创建 Pydantic 模型 following the 多-模型 模式 with Base, 创建, Update, Response, and InDB variants.
+
+
+**英文原文**：
+
+
+Create Pydantic models following the multi-model pattern with Base, Create, Update, Response, and InDB variants.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：pydantic、模型、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**defining API request/response schem**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：pydantic、models、py、following、multi、model、base、update、response、indb、variants、defining。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Create Pydantic models following the multi-model pattern with Base, Create, Update, Response, and InDB variants. Use when defining API request/response schem...
+
+</details>
+
+
+---
+
 ## rag-engineer
 
 
@@ -3054,13 +6407,13 @@ Expert in building Retrieval-Augmented Generation systems. Masters embedding mod
 ### 功能
 
 
-构建 Retrieval-Augmented Generation (RAG 检索增强生成) 系统 for 大语言模型 applications with 向量数据库s and semantic 搜索.
+RAG 检索增强生成 (Retrieval-Augmented Generation) 实现ation 工作流 covering 向量嵌入 selection, 向量数据库 配置, chunking strategies, and retrieval optimiza...
 
 
 **英文原文**：
 
 
-Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search.
+RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimiza...
 
 
 ### 使用领域
@@ -3074,61 +6427,14 @@ Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vec
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**实现 knowledge-grounded A**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：rag、retrieval、augmented、generation、llm、applications、vector、databases、semantic、search、implementing、knowledge。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：rag、retrieval、augmented、generation、covering、embedding、selection、vector、database、setup、chunking、optimization。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded A...
-
-</details>
-
-
----
-
-## react-best-practices
-
-
-**中文名**：React 最佳 实践
-
-
-### 功能
-
-
-React and Next.js 性能 优化 指南 from Vercel 工程.
-
-
-**英文原文**：
-
-
-React and Next.js performance optimization guidelines from Vercel Engineering.
-
-
-### 使用领域
-
-
-数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：React、最佳、实践
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**编写, 评审, or 重构 React/Next.j**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：react、best、practices、vercel、next、js、performance、optimization、guidelines、engineering、skill、should。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.j...
+RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimiza...
 
 </details>
 
@@ -3252,8 +6558,6 @@ Design, validate, and optimize schema.org structured data for eligibility, corre
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 wants to add, fix, 审计**。
-
 - **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：schema、markup、validate、optimize、org、structured、data、eligibility、correctness、measurable、seo、impact。
 
 
@@ -3261,7 +6565,7 @@ Design, validate, and optimize schema.org structured data for eligibility, corre
 <details>
 <summary>英文描述（原文）</summary>
 
-Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact. Use when the user wants to add, fix, audit...
+Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.
 
 </details>
 
@@ -3397,51 +6701,6 @@ Comprehensive software architecture skill for designing scalable, maintainable s
 
 ---
 
-## seo-audit
-
-
-**中文名**：SEO 搜索引擎优化 审计
-
-
-### 功能
-
-
-Diagnose and 审计 SEO 搜索引擎优化 issues affecting crawlability, indexation, rankings, and organic 性能.
-
-
-**英文原文**：
-
-
-Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
-
-
-### 使用领域
-
-
-数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：SEO 搜索引擎优化、审计
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks for an SEO 搜索引擎优化 审计, technical SEO 搜索引擎优化 r**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：seo、audit、diagnose、issues、affecting、crawlability、indexation、rankings、organic、performance、user、asks。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance. Use when the user asks for an SEO audit, technical SEO r...
-
-</details>
-
-
----
-
 ## similarity-search-patterns
 
 
@@ -3481,6 +6740,51 @@ Implement efficient similarity search with vector databases.
 <summary>英文描述（原文）</summary>
 
 Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieva...
+
+</details>
+
+
+---
+
+## skill-creator-ms
+
+
+**中文名**：Skill Creator Ms
+
+
+### 功能
+
+
+指南 for creating effective skills for 人工智能 coding agents working with Azure SDKs and Microsoft Foundry 服务.
+
+
+**英文原文**：
+
+
+Guide for creating effective skills for AI coding agents working with Azure SDKs and Microsoft Foundry services.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：skill、creator、ms
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 new skills or updating exi**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：skill、creator、ms、creating、effective、skills、ai、coding、agents、working、azure、sdks。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Guide for creating effective skills for AI coding agents working with Azure SDKs and Microsoft Foundry services. Use when creating new skills or updating exi...
 
 </details>
 
@@ -3575,6 +6879,51 @@ Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and
 
 ---
 
+## sql-injection-testing
+
+
+**中文名**：SQL Injection 测试
+
+
+### 功能
+
+
+适用于 the 用户 asks to "测试 for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "test for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"...
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：SQL、injection
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "测试 for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：sql、injection、testing、skill、should、used、user、asks、test、vulnerabilities、perform、sqli。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "test for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"...
+
+</details>
+
+
+---
+
 ## sql-optimization-patterns
 
 
@@ -3651,7 +7000,7 @@ This skill should be used when the user asks to "automate SQL injection testing,
 
 - 在以下情况下可使用本技能：**the 用户 asks to "自动化 SQL injection 测试," "enumerate 数据库 structure," "extract 数据库 credentials using sqlmap,**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：sqlmap、database、pentesting、penetration、testing、skill、should、used、user、asks、automate、sql。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：sqlmap、database、pentesting、skill、should、used、user、asks、automate、sql、injection、testing。
 
 
 
@@ -3747,49 +7096,6 @@ Automate Supabase database queries, table management, project administration, st
 <summary>英文描述（原文）</summary>
 
 Automate Supabase database queries, table management, project administration, storage, edge functions, and SQL execution via Rube MCP (Composio). Always sear...
-
-</details>
-
-
----
-
-## tdd-orchestrator
-
-
-**中文名**：TDD 测试驱动开发 Orchestrator
-
-
-### 功能
-
-
-Master TDD 测试驱动开发 orchestrator 专攻 red-green-重构 discipline, 多-智能体 工作流 coordination, and comprehensive 测试驱动 development 实践...
-
-
-**英文原文**：
-
-
-Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices...
-
-
-### 使用领域
-
-
-数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：TDD 测试驱动开发、orchestrator
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：tdd、orchestrator、specializing、red、green、refactor、discipline、multi、agent、coordination、test、driven。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices...
 
 </details>
 
@@ -3970,6 +7276,49 @@ Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-p
 
 ---
 
+## using-neon
+
+
+**中文名**：Using Neon
+
+
+### 功能
+
+
+Guides and 最佳实践 for working with Neon 无服务器 PostgreSQL.
+
+
+**英文原文**：
+
+
+Guides and best practices for working with Neon Serverless Postgres.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：using、neon
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：using、neon、guides、working、serverless、postgres、covers、getting、started、local、development、choosing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon ...
+
+</details>
+
+
+---
+
 ## vector-database-engineer
 
 
@@ -4095,6 +7444,135 @@ Vector-powered CLI for semantic file search with a Claude/Codex skill
 <summary>英文描述（原文）</summary>
 
 Vector-powered CLI for semantic file search with a Claude/Codex skill
+
+</details>
+
+
+---
+
+## vibe-code-auditor
+
+
+**中文名**：Vibe 代码 Auditor
+
+
+### 功能
+
+
+审计 rapidly 生成d or 人工智能-produced 代码 for structural flaws, fragility, and production risks.
+
+
+**英文原文**：
+
+
+Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：vibe、代码、auditor
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：vibe、code、auditor、audit、rapidly、generated、ai、produced、structural、flaws、fragility、risks。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.
+
+</details>
+
+
+---
+
+## videodb-skills
+
+
+**中文名**：Videodb Skills
+
+
+### 功能
+
+
+Upload, 流处理, 搜索, edit, transcribe, and 生成 人工智能 视频 and 音频 using the VideoDB SDK.
+
+
+**英文原文**：
+
+
+Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：[video、editing、transcription、subtitles、搜索、流处理
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[video、editing、transcription、subtitles、search、streaming、ai-generation、media]、videodb、skills、upload、stream。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK.
+
+</details>
+
+
+---
+
+## voice-agents
+
+
+**中文名**：Voice Agents
+
+
+### 功能
+
+
+Voice agents represent the frontier of 人工智能 interaction - humans speaking naturally with 人工智能 系统.
+
+
+**英文原文**：
+
+
+Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems.
+
+
+### 使用领域
+
+
+数据工程、机器学习、大语言模型、RAG、数据分析与可视化；相关标签：voice、agents
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：voice、agents、represent、frontier、ai、interaction、humans、speaking、naturally、challenge、isn、just。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems. The challenge isn't just speech recognition and synthesis,...
 
 </details>
 

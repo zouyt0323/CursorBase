@@ -13,7 +13,7 @@
 
 ---
 
-## 二、antigravity-awesome-skills（715 个技能）
+## 二、antigravity-awesome-skills（1945+ 个技能）
 
 ### Cursor 兼容性：完全兼容
 
@@ -53,7 +53,7 @@ cp -r skills/antigravity-awesome-skills/skills/python-expert ~/.cursor/skills/
 
 **使用方式**：在 Cursor Chat 中输入 `@skill-name` 即可调用。
 
-### 全部 715 个技能均可在 Cursor 中使用
+### 全部 1945+ 个技能均可在 Cursor 中使用
 
 涵盖 9 大分类：
 
@@ -123,7 +123,7 @@ cp -r skills/anthropics-skills/skills/webapp-testing ~/.cursor/skills/
 
 原因：
 - 专门为 Cursor 等 AI 编码助手优化
-- 715 个技能覆盖面广，几乎涵盖所有开发场景
+- 1945+ 个技能覆盖面广，几乎涵盖所有开发场景
 - 带有 CATALOG 分类和触发词，AI 可自动匹配
 - 社区活跃，持续更新
 
@@ -152,7 +152,7 @@ cp -r skills/anthropics-skills/skills/webapp-testing ~/.cursor/skills/
 
 ## 五、注意事项
 
-1. **不要安装全部 715 个技能**：会占用大量磁盘空间和增加 AI 上下文搜索时间。建议只安装当前项目需要的技能。
+1. **不要安装全部 1945+ 个技能**：会占用大量磁盘空间和增加 AI 上下文搜索时间。建议只安装当前项目需要的技能。
 2. **Anthropic 文档处理技能的许可证**：docx、pdf、pptx、xlsx 为**专有软件**（Proprietary），仅供参考和学习，商业使用需注意许可限制。
 3. **Python 依赖**：部分技能包含 Python 脚本，需要安装对应的 Python 包（如 pypdf、openpyxl、Playwright 等）。
 4. **Cursor 版本要求**：确保使用支持 Skills 功能的 Cursor 版本。

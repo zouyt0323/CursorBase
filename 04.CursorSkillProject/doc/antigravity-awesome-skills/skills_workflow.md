@@ -1,6 +1,6 @@
 # 工作流与协作（workflow）
 
-共 81 个技能。
+共 87 个技能。
 
 
 ---
@@ -222,6 +222,49 @@ Automate Amplitude tasks via Rube MCP (Composio): events, user activity, cohorts
 
 ---
 
+## apify-influencer-discovery
+
+
+**中文名**：Apify Influencer Discovery
+
+
+### 功能
+
+
+Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration 性能 across Instagram, Facebook, YouTube, and TikTok.
+
+
+**英文原文**：
+
+
+Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：apify、influencer、discovery
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、influencer、discovery、find、evaluate、influencers、brand、partnerships、verify、authenticity、track、collaboration。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.
+
+</details>
+
+
+---
+
 ## asana-automation
 
 
@@ -259,6 +302,49 @@ Automate Asana tasks via Rube MCP (Composio): tasks, projects, sections, teams, 
 <summary>英文描述（原文）</summary>
 
 Automate Asana tasks via Rube MCP (Composio): tasks, projects, sections, teams, workspaces. Always search tools first for current schemas.
+
+</details>
+
+
+---
+
+## automate-whatsapp
+
+
+**中文名**：自动化 Whatsapp
+
+
+### 功能
+
+
+构建 WhatsApp automations with Kapso workflows: 配置 WhatsApp triggers, edit 工作流 graphs, 管理 executions, 部署 functions, and use databases/in...
+
+
+**英文原文**：
+
+
+Build WhatsApp automations with Kapso workflows: configure WhatsApp triggers, edit workflow graphs, manage executions, deploy functions, and use databases/in...
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：自动化、whatsapp
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：automate、whatsapp、automations、kapso、configure、triggers、edit、graphs、executions、deploy、functions、databases。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build WhatsApp automations with Kapso workflows: configure WhatsApp triggers, edit workflow graphs, manage executions, deploy functions, and use databases/in...
 
 </details>
 
@@ -1000,6 +1086,49 @@ Automate ConvertKit (Kit) tasks via Rube MCP (Composio): manage subscribers, tag
 
 ---
 
+## crewai
+
+
+**中文名**：Crewai
+
+
+### 功能
+
+
+专家 in CrewAI - the leading 基于角色的 多-智能体 framework used by 60% of Fortune 500 companies.
+
+
+**英文原文**：
+
+
+Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：crewai
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：crewai、leading、role、multi、agent、framework、used、60、fortune、500、companies、covers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies. Covers agent design with roles and goals, task definiti...
+
+</details>
+
+
+---
+
 ## datadog-automation
 
 
@@ -1037,6 +1166,49 @@ Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, mana
 <summary>英文描述（原文）</summary>
 
 Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, manage monitors/dashboards, create events and downtimes. Always search tools firs...
+
+</details>
+
+
+---
+
+## design-orchestration
+
+
+**中文名**：设计 编排
+
+
+### 功能
+
+
+Orchestrates 设计 workflows by routing work through brainstorming, 多-智能体 评审, and execution readiness in the correct order.
+
+
+**英文原文**：
+
+
+Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：orchestration、orchestrates、routing、work、through、brainstorming、multi、agent、review、execution、readiness、correct。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
 
 </details>
 
@@ -1172,49 +1344,6 @@ Automate Dropbox file management, sharing, search, uploads, downloads, and folde
 
 ---
 
-## email-sequence
-
-
-**中文名**：邮件 Sequence
-
-
-### 功能
-
-
-When the 用户 wants to 创建 or 优化 an 邮件 sequence, drip campaign, 自动化d 邮件 flow, or lifecycle 邮件 program.
-
-
-**英文原文**：
-
-
-When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program.
-
-
-### 使用领域
-
-
-工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：邮件、sequence
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：email、sequence、user、wants、optimize、drip、campaign、automated、flow、lifecycle、program、mentions。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions...
-
-</details>
-
-
----
-
 ## figma-automation
 
 
@@ -1340,51 +1469,6 @@ Use when working with full stack orchestration full stack feature
 <summary>英文描述（原文）</summary>
 
 Use when working with full stack orchestration full stack feature
-
-</details>
-
-
----
-
-## git-pushing
-
-
-**中文名**：Git Pushing
-
-
-### 功能
-
-
-Stage, commit, and push Git changes with conventional commit messages.
-
-
-**英文原文**：
-
-
-Stage, commit, and push git changes with conventional commit messages.
-
-
-### 使用领域
-
-
-工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：Git、pushing
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**用户 wants to commit and push changes, mentions pushing to remote, or asks to**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：git、pushing、stage、commit、push、changes、conventional、messages、user、wants、mentions、remote。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes, mentions pushing to remote, or asks to...
 
 </details>
 
@@ -1866,6 +1950,92 @@ Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS campaigns, insp
 
 ---
 
+## libreoffice/impress
+
+
+**中文名**：Libreoffice/impress
+
+
+### 功能
+
+
+Presentation creation, format conversion (ODP/PPTX/PDF), slide 自动化 with LibreOffice Impress.
+
+
+**英文原文**：
+
+
+Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：libreoffice/impress
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：libreoffice/impress、impress、presentation、creation、format、conversion、odp、pptx、pdf、slide、automation、libreoffice。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress.
+
+</details>
+
+
+---
+
+## libreoffice/writer
+
+
+**中文名**：Libreoffice/writer
+
+
+### 功能
+
+
+Document creation, format conversion (ODT/DOCX/PDF), mail merge, and 自动化 with LibreOffice Writer.
+
+
+**英文原文**：
+
+
+Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：libreoffice/writer
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：libreoffice/writer、writer、document、creation、format、conversion、odt、docx、pdf、mail、merge、automation。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer.
+
+</details>
+
+
+---
+
 ## linear-automation
 
 
@@ -1989,49 +2159,6 @@ Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, lan
 <summary>英文描述（原文）</summary>
 
 Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups. Always search tools first for current schemas.
-
-</details>
-
-
----
-
-## mermaid-expert
-
-
-**中文名**：Mermaid 专家
-
-
-### 功能
-
-
-创建 Mermaid diagrams for flowcharts, sequences, ERDs, and architectures.
-
-
-**英文原文**：
-
-
-Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures.
-
-
-### 使用领域
-
-
-工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：mermaid
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mermaid、diagrams、flowcharts、sequences、erds、architectures、masters、syntax、all、diagram、types、styling。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual docu...
 
 </details>
 
@@ -2210,6 +2337,92 @@ Automate Monday.com work management including boards, items, columns, groups, su
 
 ---
 
+## multi-agent-brainstorming
+
+
+**中文名**：多 智能体 Brainstorming
+
+
+### 功能
+
+
+Simulate a structured peer-评审 process using multiple specialized agents to 校验 designs, surface hidden assumptions, and identify failure modes befor...
+
+
+**英文原文**：
+
+
+Simulate a structured peer-review process using multiple specialized agents to validate designs, surface hidden assumptions, and identify failure modes befor...
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：多、智能体、brainstorming
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：multi、agent、brainstorming、simulate、structured、peer、review、process、multiple、specialized、agents、validate。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Simulate a structured peer-review process using multiple specialized agents to validate designs, surface hidden assumptions, and identify failure modes befor...
+
+</details>
+
+
+---
+
+## nerdzao-elite-gemini-high
+
+
+**中文名**：Nerdzao Elite Gemini 高
+
+
+### 功能
+
+
+Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro 高.
+
+
+**英文原文**：
+
+
+Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro High.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：nerdzao、elite、gemini、高
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：nerdzao、elite、gemini、high、modo、coder、ux、pixel、perfect、otimizado、especificamente、para。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro High. Workflow completo com foco em qualidade máxima e eficiência de tokens.
+
+</details>
+
+
+---
+
 ## notion-automation
 
 
@@ -2253,6 +2466,49 @@ Automate Notion tasks via Rube MCP (Composio): pages, databases, blocks, comment
 
 ---
 
+## office-productivity
+
+
+**中文名**：Office Productivity
+
+
+### 功能
+
+
+Office productivity 工作流 covering document creation, spreadsheet 自动化, presentation generation, and 集成 with LibreOffice and Microsoft Offi...
+
+
+**英文原文**：
+
+
+Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Offi...
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：office、productivity
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：office、productivity、covering、document、creation、spreadsheet、automation、presentation、generation、integration、libreoffice、microsoft。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Offi...
+
+</details>
+
+
+---
+
 ## one-drive-automation
 
 
@@ -2290,6 +2546,49 @@ Automate OneDrive file management, search, uploads, downloads, sharing, permissi
 <summary>英文描述（原文）</summary>
 
 Automate OneDrive file management, search, uploads, downloads, sharing, permissions, and folder operations via Rube MCP (Composio). Always search tools first...
+
+</details>
+
+
+---
+
+## os-scripting
+
+
+**中文名**：Os Scripting
+
+
+### 功能
+
+
+Operating 系统 and shell scripting troubleshooting 工作流 for Linux, macOS, and Windows.
+
+
+**英文原文**：
+
+
+Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：os、scripting
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：os、scripting、operating、shell、troubleshooting、linux、macos、windows、covers、bash、administration、debugging。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and aut...
 
 </details>
 
@@ -2419,49 +2718,6 @@ Automate PagerDuty tasks via Rube MCP (Composio): manage incidents, services, sc
 <summary>英文描述（原文）</summary>
 
 Automate PagerDuty tasks via Rube MCP (Composio): manage incidents, services, schedules, escalation policies, and on-call rotations. Always search tools firs...
-
-</details>
-
-
----
-
-## pdf-official
-
-
-**中文名**：Pdf Official
-
-
-### 功能
-
-
-Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and 处理 forms.
-
-
-**英文原文**：
-
-
-Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
-
-
-### 使用领域
-
-
-工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：pdf、official
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：pdf、official、manipulation、toolkit、extracting、text、tables、creating、new、pdfs、merging、splitting。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs ...
 
 </details>
 
@@ -2806,51 +3062,6 @@ Automate Shopify tasks via Rube MCP (Composio): products, orders, customers, inv
 <summary>英文描述（原文）</summary>
 
 Automate Shopify tasks via Rube MCP (Composio): products, orders, customers, inventory, collections. Always search tools first for current schemas.
-
-</details>
-
-
----
-
-## skill-creator
-
-
-**中文名**：Skill Creator
-
-
-### 功能
-
-
-适用于 the 用户 asks to 创建 a new skill, 构建 a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with ...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to create a new skill, build a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with ...
-
-
-### 使用领域
-
-
-工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：自动化、scaffolding、skill-creation、meta-skill
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to 创建 a new skill, 构建 a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with **。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：automation、scaffolding、skill-creation、meta-skill、skill、creator、should、used、user、asks、new、custom。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to create a new skill, build a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with ...
 
 </details>
 
@@ -3326,6 +3537,49 @@ Automate Webflow CMS collections, site publishing, page management, asset upload
 <summary>英文描述（原文）</summary>
 
 Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first fo...
+
+</details>
+
+
+---
+
+## wordpress-woocommerce-development
+
+
+**中文名**：Wordpress Woocommerce Development
+
+
+### 功能
+
+
+WooCommerce store development 工作流 covering store 配置, 支付 集成, shipping 配置, and customization.
+
+
+**英文原文**：
+
+
+WooCommerce store development workflow covering store setup, payment integration, shipping configuration, and customization.
+
+
+### 使用领域
+
+
+工作流自动化、项目管理、版本控制、变更日志、第三方集成；相关标签：wordpress、woocommerce
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wordpress、woocommerce、development、store、covering、setup、payment、integration、shipping、configuration、customization。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+WooCommerce store development workflow covering store setup, payment integration, shipping configuration, and customization.
 
 </details>
 

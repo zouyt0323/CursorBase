@@ -31,7 +31,7 @@ Android Camera App 式样文档
 
 包含：`doc-coauthoring`、`conductor-setup`、`c4-context`、`mobile-design`
 
-#### 方式 A：官方安装器（推荐，一键安装全部 715 个 Skill）
+#### 方式 A：官方安装器（推荐，一键安装全部 1945+ 个 Skill）
 
 ```bash
 npx antigravity-awesome-skills --cursor
@@ -317,6 +317,6 @@ rm -rf /tmp/superpowers
 | prpm.dev | 7,500+ | 无专用式样生成 Skill |
 | GitHub 全站 | - | 无专用式样生成 Skill |
 | 本地 ~/.cursor/ | 5 个内置 | 无相关 |
-| 本地项目索引 | 715 个已收录 | 上述 5 个最接近 |
+| 本地项目索引 | 1945+ 个已收录 | 上述 5 个最接近 |
 
 *整理时间：2026-02-12*

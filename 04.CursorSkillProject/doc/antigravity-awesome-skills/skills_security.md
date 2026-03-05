@@ -1,6 +1,6 @@
 # 安全与合规（security）
 
-共 114 个技能。
+共 116 个技能。
 
 
 ---
@@ -136,49 +136,6 @@ Memory is the cornerstone of intelligent agents. Without it, every interaction s
 
 ---
 
-## ai-product
-
-
-**中文名**：人工智能 Product
-
-
-### 功能
-
-
-Every product will be 人工智能-powered.
-
-
-**英文原文**：
-
-
-Every product will be AI-powered.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：人工智能、product
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ai、product、every、powered、question、whether、ll、right、ship、demo、falls、apart。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production.  This skill covers LLM integra...
-
-</details>
-
-
----
-
 ## antigravity-workflows
 
 
@@ -304,6 +261,49 @@ Implement secure API design patterns including authentication, authorization, in
 <summary>英文描述（原文）</summary>
 
 Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities
+
+</details>
+
+
+---
+
+## api-security-testing
+
+
+**中文名**：API 安全 测试
+
+
+### 功能
+
+
+API 安全 测试 工作流 for REST and GraphQL APIs covering authentication, authorization, rate limiting, 输入 校验, and 安全 最佳实践.
+
+
+**英文原文**：
+
+
+API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：API、安全
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：api、security、testing、rest、graphql、apis、covering、authentication、authorization、rate、limiting、input。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices.
 
 </details>
 
@@ -443,6 +443,315 @@ This skill should be used when the user asks to "pentest AWS", "test AWS securit
 
 ---
 
+## azure-cosmos-db-py
+
+
+**中文名**：Azure Cosmos Db Py
+
+
+### 功能
+
+
+构建 Azure Cosmos DB NoSQL 服务 with Python/FastAPI following production-grade 模式.
+
+
+**英文原文**：
+
+
+Build Azure Cosmos DB NoSQL services with Python/FastAPI following production-grade patterns.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Azure、cosmos、db、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 数据库 client 配置 with dual 认证 (Def**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、cosmos、db、py、nosql、python、fastapi、following、grade、implementing、database、client。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build Azure Cosmos DB NoSQL services with Python/FastAPI following production-grade patterns. Use when implementing database client setup with dual auth (Def...
+
+</details>
+
+
+---
+
+## azure-keyvault-py
+
+
+**中文名**：Azure Keyvault Py
+
+
+### 功能
+
+
+Azure Key Vault SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Key Vault SDK for Python.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Azure、keyvault、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、keyvault、py、key、vault、sdk、python、secrets、keys、certificates、secure、storage。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.
+
+</details>
+
+
+---
+
+## azure-keyvault-secrets-rust
+
+
+**中文名**：Azure Keyvault Secrets Rust
+
+
+### 功能
+
+
+Azure Key Vault Secrets SDK for Rust.
+
+
+**英文原文**：
+
+
+Azure Key Vault Secrets SDK for Rust.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Azure、keyvault、secrets、Rust
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、keyvault、secrets、rust、key、vault、sdk、storing、retrieving、passwords、api、keys。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Key Vault Secrets SDK for Rust. Use for storing and retrieving secrets, passwords, and API keys. Triggers: "keyvault secrets rust", "SecretClient rust"...
+
+</details>
+
+
+---
+
+## azure-keyvault-secrets-ts
+
+
+**中文名**：Azure Keyvault Secrets Ts
+
+
+### 功能
+
+
+管理 secrets using Azure Key Vault Secrets SDK for JavaScript (@Azure/keyvault-secrets).
+
+
+**英文原文**：
+
+
+Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets).
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Azure、keyvault、secrets、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**storing and retrieving 应用 secrets or configurati**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、keyvault、secrets、ts、key、vault、sdk、javascript、storing、retrieving、application、configuration。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configurati...
+
+</details>
+
+
+---
+
+## azure-security-keyvault-keys-dotnet
+
+
+**中文名**：Azure 安全 Keyvault Keys Dotnet
+
+
+### 功能
+
+
+Azure Key Vault Keys SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Key Vault Keys SDK for .NET.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Azure、安全、keyvault、keys、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、security、keyvault、keys、dotnet、key、vault、sdk、net、client、library、managing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Key Vault Keys SDK for .NET. Client library for managing cryptographic keys in Azure Key Vault and Managed HSM. Use for key creation, rotation, encrypt...
+
+</details>
+
+
+---
+
+## azure-security-keyvault-keys-java
+
+
+**中文名**：Azure 安全 Keyvault Keys Java
+
+
+### 功能
+
+
+Azure Key Vault Keys Java SDK for cryptographic key 管理ment.
+
+
+**英文原文**：
+
+
+Azure Key Vault Keys Java SDK for cryptographic key management.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Azure、安全、keyvault、keys、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建, 管理, or using RSA/EC keys, performing encrypt/decrypt/sign/verify ope**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、security、keyvault、keys、java、key、vault、sdk、cryptographic、creating、managing、rsa。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Key Vault Keys Java SDK for cryptographic key management. Use when creating, managing, or using RSA/EC keys, performing encrypt/decrypt/sign/verify ope...
+
+</details>
+
+
+---
+
+## azure-security-keyvault-secrets-java
+
+
+**中文名**：Azure 安全 Keyvault Secrets Java
+
+
+### 功能
+
+
+Azure Key Vault Secrets Java SDK for secret 管理ment.
+
+
+**英文原文**：
+
+
+Azure Key Vault Secrets Java SDK for secret management.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Azure、安全、keyvault、secrets、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**storing, retrieving, or 管理 passwords, API keys, connection strings, or other sensitive**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、security、keyvault、secrets、java、key、vault、sdk、secret、storing、retrieving、managing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Key Vault Secrets Java SDK for secret management. Use when storing, retrieving, or managing passwords, API keys, connection strings, or other sensitive...
+
+</details>
+
+
+---
+
 ## backend-security-coder
 
 
@@ -517,7 +826,7 @@ This skill should be used when the user asks to "test for broken authentication 
 
 - 在以下情况下可使用本技能：**the 用户 asks to "测试 for broken authentication vulnerabilities", "assess session 管理 安全", "perform credential s**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：broken、authentication、testing、skill、should、used、user、asks、test、vulnerabilities、assess、session。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：broken、authentication、skill、should、used、user、asks、test、vulnerabilities、assess、session、security。
 
 
 
@@ -562,7 +871,7 @@ This skill should be used when the user asks to "intercept HTTP traffic", "modif
 
 - 在以下情况下可使用本技能：**the 用户 asks to "intercept HTTP traffic", "modify Web requests", "use Burp Suite for 测试", "perform Web 漏洞 sca**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：burp、suite、web、application、testing、skill、should、used、user、asks、intercept、http。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：burp、suite、testing、skill、should、used、user、asks、intercept、http、traffic、modify。
 
 
 
@@ -621,49 +930,6 @@ Use this skill when adding authentication, handling user input, working with sec
 
 ---
 
-## cicd-automation-workflow-automate
-
-
-**中文名**：Cicd 自动化 工作流 自动化
-
-
-### 功能
-
-
-You are a 工作流 自动化 专家 专攻 creating efficient CI/CD pipelines, GitHub Actions workflows, and 自动化d development processes.
-
-
-**英文原文**：
-
-
-You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：cicd、自动化
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cicd、automate、automation、specializing、creating、efficient、ci、cd、pipelines、github、actions、automated。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Desig...
-
-</details>
-
-
----
-
 ## clerk-auth
 
 
@@ -701,49 +967,6 @@ Expert patterns for Clerk auth implementation, middleware, organizations, webhoo
 <summary>英文描述（原文）</summary>
 
 Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentic...
-
-</details>
-
-
----
-
-## cloud-architect
-
-
-**中文名**：云 架构师
-
-
-### 功能
-
-
-专家 云 架构师 专攻 AWS/Azure/GCP 多-云 基础设施 设计, 高级 IaC (Terraform/OpenTofu/CDK), FinOps cost 优化, and ...
-
-
-**英文原文**：
-
-
-Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and ...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：云
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cloud、architect、specializing、aws、azure、gcp、multi、infrastructure、iac、terraform、opentofu、cdk。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and ...
 
 </details>
 
@@ -838,49 +1061,6 @@ Comprehensive checklist for conducting thorough code reviews covering functional
 
 ---
 
-## code-reviewer
-
-
-**中文名**：代码 Reviewer
-
-
-### 功能
-
-
-Elite 代码评审 专家 专攻 现代 人工智能-powered 代码 分析, 安全 vulnerabilities, 性能 优化, and production reliability.
-
-
-**英文原文**：
-
-
-Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：代码
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：code、reviewer、elite、review、specializing、ai、powered、analysis、security、vulnerabilities、performance、optimization。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Mas...
-
-</details>
-
-
----
-
 ## codebase-cleanup-deps-audit
 
 
@@ -924,28 +1104,28 @@ You are a dependency security expert specializing in vulnerability scanning, lic
 
 ---
 
-## computer-use-agents
+## convex
 
 
-**中文名**：Computer Use Agents
+**中文名**：Convex
 
 
 ### 功能
 
 
-构建 人工智能 agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text.
+Convex reactive 后端 专家: 模式设计, TypeScript functions, 实时 subscriptions, 认证, 文件 存储, scheduling, and 部署.
 
 
 **英文原文**：
 
 
-Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text.
+Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment.
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：computer、use、agents
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：convex
 
 
 ### 使用场景
@@ -953,42 +1133,42 @@ Build AI agents that interact with computers like humans do - viewing screens, m
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：computer、use、agents、ai、interact、computers、like、humans、do、viewing、screens、moving。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：convex、reactive、backend、schema、typescript、functions、real、time、subscriptions、auth、file、storage。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer...
+Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment.
 
 </details>
 
 
 ---
 
-## database-admin
+## crypto-bd-agent
 
 
-**中文名**：数据库 Admin
+**中文名**：Crypto Bd 智能体
 
 
 ### 功能
 
 
-专家 数据库 administrator 专攻 现代 云 databases, 自动化, and reliability 工程.
+Autonomous crypto business development 模式 — 多-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain...
 
 
 **英文原文**：
 
 
-Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.
+Autonomous crypto business development patterns — multi-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain...
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：数据库、admin
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：crypto、bd、智能体
 
 
 ### 使用场景
@@ -996,14 +1176,57 @@ Expert database administrator specializing in modern cloud databases, automation
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：database、admin、administrator、specializing、cloud、databases、automation、reliability、engineering、masters、aws、azure。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：crypto、bd、agent、autonomous、business、development、multi、chain、token、discovery、100、point。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infra...
+Autonomous crypto business development patterns — multi-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain...
+
+</details>
+
+
+---
+
+## customs-trade-compliance
+
+
+**中文名**：Customs Trade 合规
+
+
+### 功能
+
+
+Codified expertise for customs 文档, tariff classification, duty optimisation, restricted party screening, and regulatory 合规 across multiple...
+
+
+**英文原文**：
+
+
+Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple...
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：customs、trade、合规
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：customs、trade、compliance、codified、expertise、documentation、tariff、classification、duty、optimisation、restricted、party。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple...
 
 </details>
 
@@ -1064,19 +1287,19 @@ Execute database migrations across ORMs and platforms with zero-downtime strateg
 ### 功能
 
 
-SQL 数据库 migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server
+SQL 数据库 migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server.
 
 
 **英文原文**：
 
 
-SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server
+SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server.
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：数据库、SQL、migrations、postgresql、MySQL、flyway
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：数据库、migrations、SQL
 
 
 ### 使用场景
@@ -1084,14 +1307,14 @@ SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：database、sql、migrations、postgresql、mysql、flyway、liquibase、alembic、zero-downtime、zero、downtime、server。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：database、migrations、sql、zero、downtime、postgresql、mysql、server、data、integrity、rollback、plans。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server
+SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans.
 
 </details>
 
@@ -1135,49 +1358,6 @@ You are a dependency security expert specializing in vulnerability scanning, lic
 <summary>英文描述（原文）</summary>
 
 You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ...
-
-</details>
-
-
----
-
-## deployment-engineer
-
-
-**中文名**：部署 Engineer
-
-
-### 功能
-
-
-专家 部署 engineer 专攻 现代 CI/CD pipelines, GitOps workflows, and 高级 部署 自动化.
-
-
-**英文原文**：
-
-
-Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：部署
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：deployment、engineer、specializing、ci、cd、pipelines、gitops、automation、masters、github、actions、argocd。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux,...
 
 </details>
 
@@ -1229,49 +1409,6 @@ Design multi-stage CI/CD pipelines with approval gates, security checks, and dep
 
 ---
 
-## design-orchestration
-
-
-**中文名**：设计 编排
-
-
-### 功能
-
-
-Orchestrates 设计 workflows by routing work through brainstorming, 多-智能体 评审, and execution readiness in the correct order.
-
-
-**英文原文**：
-
-
-Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：orchestration、orchestrates、routing、work、through、brainstorming、multi、agent、review、execution、readiness、correct。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order. Prevents premature imp...
-
-</details>
-
-
----
-
 ## devops-troubleshooter
 
 
@@ -1301,14 +1438,14 @@ Expert DevOps troubleshooter specializing in rapid incident response, advanced d
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：devops、troubleshooter、specializing、rapid、incident、response、debugging、observability、masters、log、analysis、distributed。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：devops、troubleshooter、specializing、rapid、incident、response、debugging、observability。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing...
+Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability.
 
 </details>
 
@@ -1446,51 +1583,6 @@ This skill should be used when the user asks to "learn ethical hacking", "unders
 
 ---
 
-## file-path-traversal
-
-
-**中文名**：文件 Path Traversal
-
-
-### 功能
-
-
-适用于 the 用户 asks to "测试 for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through Web a...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web a...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：文件、path、traversal
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "测试 for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through Web a**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：file、path、traversal、testing、skill、should、used、user、asks、test、directory、exploit。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web a...
-
-</details>
-
-
----
-
 ## find-bugs
 
 
@@ -1608,57 +1700,14 @@ Expert firmware analyst specializing in embedded systems, IoT security, and hard
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：firmware、analyst、specializing、embedded、iot、security、hardware、reverse、engineering、masters、extraction、analysis。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：firmware、analyst、specializing、embedded、iot、security、hardware、reverse、engineering。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering. Masters firmware extraction, analysis, and vulnerab...
-
-</details>
-
-
----
-
-## form-cro
-
-
-**中文名**：表单 Cro
-
-
-### 功能
-
-
-优化 any 表单 that is NOT signup or account registration — including lead capture, contact, demo request, 应用, survey, quote, and checkout forms....
-
-
-**英文原文**：
-
-
-Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms....
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：表单、cro
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：form、cro、optimize、any、signup、account、registration、including、lead、capture、contact、demo。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms....
+Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.
 
 </details>
 
@@ -1787,7 +1836,7 @@ Expert in secure frontend coding practices specializing in XSS prevention, outpu
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for fronte...
+Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.
 
 </details>
 
@@ -1882,28 +1931,28 @@ Master modern GraphQL with federation, performance optimization, and enterprise 
 
 ---
 
-## html-injection-testing
+## grpc-golang
 
 
-**中文名**：HTML Injection 测试
+**中文名**：gRPC Golang
 
 
 ### 功能
 
 
-适用于 the 用户 asks to "测试 for HTML injection", "inject HTML into Web pages", "perform HTML injection attacks", "deface Web applic...
+构建 production-ready gRPC 服务 in Go with mTLS, 流处理, and 可观测性.
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks to "test for HTML injection", "inject HTML into web pages", "perform HTML injection attacks", "deface web applic...
+Build production-ready gRPC services in Go with mTLS, streaming, and observability.
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：HTML、injection
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：gRPC、golang
 
 
 ### 使用场景
@@ -1911,149 +1960,16 @@ This skill should be used when the user asks to "test for HTML injection", "inje
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks to "测试 for HTML injection", "inject HTML into Web pages", "perform HTML injection attacks", "deface Web applic**。
+- 在以下情况下可使用本技能：**设计 Protobuf contracts with Buf or 实现 secure ser**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：html、injection、testing、skill、should、used、user、asks、test、inject、web、pages。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "test for HTML injection", "inject HTML into web pages", "perform HTML injection attacks", "deface web applic...
-
-</details>
-
-
----
-
-## hugging-face-jobs
-
-
-**中文名**：Hugging Face Jobs
-
-
-### 功能
-
-
-适用于 users want to run any workload on Hugging Face Jobs 基础设施.
-
-
-**英文原文**：
-
-
-This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：hugging、face、jobs
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**users want to run any workload on Hugging Face Jobs 基础设施**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hugging、face、jobs、skill、should、used、users、want、run、any、workload、infrastructure。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：grpc、golang、go、mtls、streaming、observability、designing、protobuf、contracts、buf、implementing、secure。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure. Covers UV scripts, Docker-based jobs, hardware selection, ...
-
-</details>
-
-
----
-
-## hybrid-cloud-architect
-
-
-**中文名**：Hybrid 云 架构师
-
-
-### 功能
-
-
-专家 hybrid 云 架构师 专攻 complex 多-云 solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
-
-
-**英文原文**：
-
-
-Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：hybrid、云
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hybrid、cloud、architect、specializing、complex、multi、solutions、aws、azure、gcp、private、clouds。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connec...
-
-</details>
-
-
----
-
-## idor-testing
-
-
-**中文名**：Idor 测试
-
-
-### 功能
-
-
-适用于 the 用户 asks to "测试 for insecure direct object references," "find IDOR vulnerabilities," "exploit broken 访问控制," "...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "test for insecure direct object references," "find IDOR vulnerabilities," "exploit broken access control," "...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：idor
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "测试 for insecure direct object references," "find IDOR vulnerabilities," "exploit broken access control," "**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：idor、vulnerability、testing、skill、should、used、user、asks、test、insecure、direct、object。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "test for insecure direct object references," "find IDOR vulnerabilities," "exploit broken access control," "...
+Build production-ready gRPC services in Go with mTLS, streaming, and observability. Use when designing Protobuf contracts with Buf or implementing secure ser...
 
 </details>
 
@@ -2089,14 +2005,14 @@ Expert SRE incident responder specializing in rapid problem resolution, modern o
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：incident、responder、sre、specializing、rapid、problem、resolution、observability、masters、command、blameless、post。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：incident、responder、sre、specializing、rapid、problem、resolution、observability。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command...
+Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.
 
 </details>
 
@@ -2236,92 +2152,6 @@ Create structured incident response runbooks with step-by-step procedures, escal
 
 ---
 
-## internal-comms-anthropic
-
-
-**中文名**：Internal Comms Anthropic
-
-
-### 功能
-
-
-A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
-
-
-**英文原文**：
-
-
-A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：internal、comms、anthropic
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：internal、comms、anthropic、set、resources、me、write、all、kinds、communications、formats、my。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenev...
-
-</details>
-
-
----
-
-## internal-comms-community
-
-
-**中文名**：Internal Comms Community
-
-
-### 功能
-
-
-A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
-
-
-**英文原文**：
-
-
-A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：internal、comms、community
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：internal、comms、community、set、resources、me、write、all、kinds、communications、formats、my。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenev...
-
-</details>
-
-
----
-
 ## k8s-manifest-generator
 
 
@@ -2412,28 +2242,28 @@ Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolic
 
 ---
 
-## kubernetes-architect
+## laravel-expert
 
 
-**中文名**：Kubernetes 架构师
+**中文名**：Laravel 专家
 
 
 ### 功能
 
 
-专家 Kubernetes 架构师 专攻 云-原生 基础设施, 高级 GitOps workflows (ArgoCD/Flux), and 企业级 容器 编排.
+Senior Laravel Engineer 角色 for production-grade, maintainable, and idiomatic Laravel solutions.
 
 
 **英文原文**：
 
 
-Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.
+Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions.
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Kubernetes
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Laravel
 
 
 ### 使用场景
@@ -2441,14 +2271,57 @@ Expert Kubernetes architect specializing in cloud-native infrastructure, advance
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：kubernetes、architect、specializing、cloud、native、infrastructure、gitops、argocd、flux、enterprise、container、orchestration。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：laravel、senior、engineer、role、grade、maintainable、idiomatic、solutions、clean、architecture、security、performance。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration. Mas...
+Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions. Focuses on clean architecture, security, performance, and m...
+
+</details>
+
+
+---
+
+## laravel-security-audit
+
+
+**中文名**：Laravel 安全 审计
+
+
+### 功能
+
+
+安全 auditor for Laravel applications.
+
+
+**英文原文**：
+
+
+Security auditor for Laravel applications.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Laravel、安全、审计
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：laravel、security、audit、auditor、applications、analyzes、code、vulnerabilities、misconfigurations、insecure、owasp、standards。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Security auditor for Laravel applications. Analyzes code for vulnerabilities, misconfigurations, and insecure practices using OWASP standards and Laravel sec...
 
 </details>
 
@@ -2491,7 +2364,50 @@ Draft privacy policies, terms of service, disclaimers, and legal notices.
 <details>
 <summary>英文描述（原文）</summary>
 
-Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements. Use ...
+Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements.
+
+</details>
+
+
+---
+
+## lightning-architecture-review
+
+
+**中文名**：Lightning 架构 评审
+
+
+### 功能
+
+
+评审 Bitcoin Lightning 网络 protocol designs, compare channel factory approaches, and 分析 Layer 2 scaling tradeoffs.
+
+
+**英文原文**：
+
+
+Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：lightning、架构
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：lightning、architecture、review、bitcoin、network、protocol、designs、compare、channel、factory、approaches、analyze。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. Covers trust models, on-chain f...
 
 </details>
 
@@ -2586,6 +2502,92 @@ Multi-agent autonomous startup system for Claude Code. Triggers on "Loki Mode". 
 
 ---
 
+## m365-agents-dotnet
+
+
+**中文名**：M365 Agents Dotnet
+
+
+### 功能
+
+
+Microsoft 365 Agents SDK for .NET.
+
+
+**英文原文**：
+
+
+Microsoft 365 Agents SDK for .NET.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：m365、agents、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：m365、agents、dotnet、microsoft、365、sdk、net、multichannel、teams、copilot、studio、asp。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Microsoft 365 Agents SDK for .NET. Build multichannel agents for Teams/M365/Copilot Studio with ASP.NET Core hosting, AgentApplication routing, and MSAL-base...
+
+</details>
+
+
+---
+
+## m365-agents-py
+
+
+**中文名**：M365 Agents Py
+
+
+### 功能
+
+
+Microsoft 365 Agents SDK for Python.
+
+
+**英文原文**：
+
+
+Microsoft 365 Agents SDK for Python.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：m365、agents、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：m365、agents、py、microsoft、365、sdk、python、multichannel、teams、copilot、studio、aiohttp。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Microsoft 365 Agents SDK for Python. Build multichannel agents for Teams/M365/Copilot Studio with aiohttp hosting, AgentApplication routing, streaming respon...
+
+</details>
+
+
+---
+
 ## malware-analyst
 
 
@@ -2674,51 +2676,6 @@ Master memory forensics techniques including memory acquisition, process analysi
 
 ---
 
-## metasploit-framework
-
-
-**中文名**：Metasploit Framework
-
-
-### 功能
-
-
-适用于 the 用户 asks to "use Metasploit for 渗透测试", "exploit vulnerabilities with msfconsole", "创建 payloads with ms...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "use Metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with ms...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：metasploit、framework
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "use Metasploit for penetration 测试", "exploit vulnerabilities with msfconsole", "创建 payloads with ms**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：metasploit、framework、skill、should、used、user、asks、penetration、testing、exploit、vulnerabilities、msfconsole。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "use Metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with ms...
-
-</details>
-
-
----
-
 ## mobile-security-coder
 
 
@@ -2748,14 +2705,14 @@ Expert in secure mobile coding practices specializing in input validation, WebVi
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mobile、security、coder、secure、coding、specializing、input、validation、webview、specific、proactively、implementations。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mobile、security、coder、secure、coding、specializing、input、validation、webview、specific。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobil...
+Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns.
 
 </details>
 
@@ -2807,28 +2764,28 @@ Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use
 
 ---
 
-## multi-agent-brainstorming
+## nestjs-expert
 
 
-**中文名**：多 智能体 Brainstorming
+**中文名**：Nestjs 专家
 
 
 ### 功能
 
 
-适用于 a 设计 or idea requires higher confidence, risk reduction, or formal 评审.
+Nest.js framework 专家 专攻 module 架构, 依赖注入, middleware, guards, interceptors, 测试 with Jest/Supertest, TypeORM/Mo...
 
 
 **英文原文**：
 
 
-Use this skill when a design or idea requires higher confidence, risk reduction, or formal review.
+Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mo...
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：多、智能体、brainstorming
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：nestjs
 
 
 ### 使用场景
@@ -2836,16 +2793,14 @@ Use this skill when a design or idea requires higher confidence, risk reduction,
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**a 设计 or idea requires higher confidence, risk reduction, or formal 评审**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：multi、agent、brainstorming、skill、idea、requires、higher、confidence、risk、reduction、formal、review。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：nestjs、nest、js、framework、specializing、module、architecture、dependency、injection、middleware、guards、interceptors。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Use this skill when a design or idea requires higher confidence, risk reduction, or formal review. This skill orchestrates a structured, sequential multi-age...
+Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mo...
 
 </details>
 
@@ -2881,14 +2836,14 @@ Expert network engineer specializing in modern cloud networking, security archit
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：network、engineer、specializing、cloud、networking、security、architectures、performance、optimization、masters、multi、connectivity。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：network、engineer、specializing、cloud、networking、security、architectures、performance、optimization。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization. Masters multi-cloud connectivity, serv...
+Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.
 
 </details>
 
@@ -3053,7 +3008,7 @@ Build production-ready monitoring, logging, and tracing systems.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：observability、engineer、monitoring、logging、tracing、implements、sli、slo、incident、response、proactively、infrastructure。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：observability、engineer、monitoring、logging、tracing、implements、sli、slo、incident、response。
 
 
 
@@ -3412,7 +3367,7 @@ Build financial models, backtest trading strategies, and analyze market data.
 <details>
 <summary>英文描述（原文）</summary>
 
-Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage. Use...
+Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage.
 
 </details>
 
@@ -3462,51 +3417,6 @@ Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evas
 
 ---
 
-## red-team-tools
-
-
-**中文名**：Red Team Tools
-
-
-### 功能
-
-
-适用于 the 用户 asks to "follow red team methodology", "perform bug bounty hunting", "自动化 reconnaissance", "hunt for XSS vulnera...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "follow red team methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt for XSS vulnera...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：red、team
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "follow red team methodology", "perform bug bounty hunting", "自动化 reconnaissance", "hunt for XSS vulnera**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：red、team、methodology、skill、should、used、user、asks、follow、perform、bug、bounty。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "follow red team methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt for XSS vulnera...
-
-</details>
-
-
----
-
 ## research-engineer
 
 
@@ -3550,49 +3460,6 @@ An uncompromising Academic Research Engineer. Operates with absolute scientific 
 
 ---
 
-## reverse-engineer
-
-
-**中文名**：Reverse Engineer
-
-
-### 功能
-
-
-专家 reverse engineer 专攻 binary 分析, disassembly, decompilation, and software 分析.
-
-
-**英文原文**：
-
-
-Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：reverse
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：reverse、engineer、specializing、binary、analysis、disassembly、decompilation、software、masters、ida、pro、ghidra。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis. Masters IDA Pro, Ghidra, radare2, x64dbg, and mod...
-
-</details>
-
-
----
-
 ## risk-manager
 
 
@@ -3629,7 +3496,7 @@ Monitor portfolio risk, R-multiples, and position limits.
 <details>
 <summary>英文描述（原文）</summary>
 
-Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for ...
+Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.
 
 </details>
 
@@ -3675,6 +3542,51 @@ Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawd
 <summary>英文描述（原文）</summary>
 
 Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or...
+
+</details>
+
+
+---
+
+## saas-mvp-launcher
+
+
+**中文名**：Saas Mvp Launcher
+
+
+### 功能
+
+
+适用于 规划 or building a SaaS MVP from scratch.
+
+
+**英文原文**：
+
+
+Use when planning or building a SaaS MVP from scratch.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：saas、mvp、launcher
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**规划 or 构建 a SaaS MVP from scratch**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：saas、mvp、launcher、planning、building、scratch、provides、structured、roadmap、covering、tech、stack。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Use when planning or building a SaaS MVP from scratch. Provides a structured roadmap covering tech stack, architecture, auth, payments, and launch checklist.
 
 </details>
 
@@ -3757,7 +3669,7 @@ This skill should be used when the user asks to "perform vulnerability scanning"
 
 - 在以下情况下可使用本技能：**the 用户 asks to "perform 漏洞 扫描", "scan networks for 开源 ports", "assess Web 应用 安全", "scan wi**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：scanning、security、skill、should、used、user、asks、perform、vulnerability、scan、networks、open。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：scanning、skill、should、used、user、asks、perform、vulnerability、scan、networks、open、ports。
 
 
 
@@ -3816,6 +3728,49 @@ Implement secure secrets management for CI/CD pipelines using Vault, AWS Secrets
 
 ---
 
+## security-audit
+
+
+**中文名**：安全 审计
+
+
+### 功能
+
+
+Comprehensive 安全审计ing 工作流 covering Web 应用 测试, API 安全, 渗透测试, 漏洞扫描ning, and 安全 hardening.
+
+
+**英文原文**：
+
+
+Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：安全、审计
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：security、audit、auditing、covering、web、application、testing、api、penetration、vulnerability、scanning、hardening。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening.
+
+</details>
+
+
+---
+
 ## security-auditor
 
 
@@ -3845,14 +3800,14 @@ Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, 
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：security、auditor、specializing、devsecops、cybersecurity、compliance、frameworks、masters、vulnerability、assessment、threat、modeling。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：security、auditor、specializing、devsecops、cybersecurity、compliance、frameworks。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling,...
+Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks.
 
 </details>
 
@@ -4119,6 +4074,178 @@ Static Application Security Testing (SAST) for code vulnerability analysis acros
 
 ---
 
+## security/aws-compliance-checker
+
+
+**中文名**：Security/aws 合规 Checker
+
+
+### 功能
+
+
+自动化d 合规 checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks
+
+
+**英文原文**：
+
+
+Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：[aws、合规、审计、cis、pci-dss、hipaa
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[aws、compliance、audit、cis、pci-dss、hipaa、kiro-cli]、aws、checker、automated、checking、against。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks
+
+</details>
+
+
+---
+
+## security/aws-iam-best-practices
+
+
+**中文名**：Security/aws Iam 最佳 实践
+
+
+### 功能
+
+
+IAM policy 评审, hardening, and least privilege 实现ation
+
+
+**英文原文**：
+
+
+IAM policy review, hardening, and least privilege implementation
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：[aws、iam、安全、access-control、kiro-cli、least-privilege]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[aws、iam、security、access-control、kiro-cli、least-privilege]、aws、policy、review、hardening、least、privilege。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+IAM policy review, hardening, and least privilege implementation
+
+</details>
+
+
+---
+
+## security/aws-secrets-rotation
+
+
+**中文名**：Security/aws Secrets Rotation
+
+
+### 功能
+
+
+自动化 AWS secrets rotation for RDS, API keys, and credentials
+
+
+**英文原文**：
+
+
+Automate AWS secrets rotation for RDS, API keys, and credentials
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：[aws、secrets-manager、安全、自动化、kiro-cli、credentials]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[aws、secrets-manager、security、automation、kiro-cli、credentials]、aws、secrets、rotation、automate、rds、api。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Automate AWS secrets rotation for RDS, API keys, and credentials
+
+</details>
+
+
+---
+
+## security/aws-security-audit
+
+
+**中文名**：Security/aws 安全 审计
+
+
+### 功能
+
+
+Comprehensive AWS 安全 posture assessment using AWS CLI and 安全 最佳实践
+
+
+**英文原文**：
+
+
+Comprehensive AWS security posture assessment using AWS CLI and security best practices
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：[aws、安全、审计、合规、kiro-cli、security-assessment]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[aws、security、audit、compliance、kiro-cli、security-assessment]、aws、posture、assessment、cli。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Comprehensive AWS security posture assessment using AWS CLI and security best practices
+
+</details>
+
+
+---
+
 ## seo-authority-builder
 
 
@@ -4156,6 +4283,49 @@ Analyzes content for E-E-A-T signals and suggests improvements to build authorit
 <summary>英文描述（原文）</summary>
 
 Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMY...
+
+</details>
+
+
+---
+
+## seo-forensic-incident-response
+
+
+**中文名**：SEO 搜索引擎优化 Forensic Incident Response
+
+
+### 功能
+
+
+Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO 搜索引擎优化 incident response with triage, root-cause 分析 and recovery 计划.
+
+
+**英文原文**：
+
+
+Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：SEO 搜索引擎优化、forensic、incident、response
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：seo、forensic、incident、response、investigate、sudden、drops、organic、traffic、rankings、run、structured。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan.
 
 </details>
 
@@ -4205,51 +4375,6 @@ Expert service mesh architect specializing in Istio, Linkerd, and cloud-native n
 
 ---
 
-## smtp-penetration-testing
-
-
-**中文名**：Smtp Penetration 测试
-
-
-### 功能
-
-
-适用于 the 用户 asks to "perform SMTP 渗透测试", "enumerate 邮件 users", "测试 for 开源 mail relays", "grab SMTP banners"...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "perform SMTP penetration testing", "enumerate email users", "test for open mail relays", "grab SMTP banners"...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：smtp、penetration
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "perform SMTP penetration 测试", "enumerate 邮件 users", "测试 for 开源 mail relays", "grab SMTP banners"**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：smtp、penetration、testing、skill、should、used、user、asks、perform、enumerate、email、users。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "perform SMTP penetration testing", "enumerate email users", "test for open mail relays", "grab SMTP banners"...
-
-</details>
-
-
----
-
 ## solidity-security
 
 
@@ -4289,96 +4414,6 @@ Master smart contract security best practices to prevent common vulnerabilities 
 <summary>英文描述（原文）</summary>
 
 Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, aud...
-
-</details>
-
-
----
-
-## sql-injection-testing
-
-
-**中文名**：SQL Injection 测试
-
-
-### 功能
-
-
-适用于 the 用户 asks to "测试 for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "test for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：SQL、injection
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "测试 for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：sql、injection、testing、skill、should、used、user、asks、test、vulnerabilities、perform、sqli。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "test for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection"...
-
-</details>
-
-
----
-
-## ssh-penetration-testing
-
-
-**中文名**：Ssh Penetration 测试
-
-
-### 功能
-
-
-适用于 the 用户 asks to "渗透测试 SSH 服务", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "pentest SSH services", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi...
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：ssh、penetration
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "渗透测试 SSH 服务", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ssh、penetration、testing、skill、should、used、user、asks、pentest、enumerate、configurations、brute。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "pentest SSH services", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi...
 
 </details>
 
@@ -4475,28 +4510,28 @@ Implement Stripe payment processing for robust, PCI-compliant payment flows incl
 
 ---
 
-## terraform-specialist
+## temporal-golang-pro
 
 
-**中文名**：Terraform Specialist
+**中文名**：Temporal Golang Pro
 
 
 ### 功能
 
 
-专家 Terraform/OpenTofu specialist mastering 高级 IaC 自动化, 状态管理, and 企业级 基础设施 模式.
+适用于 building durable distributed 系统 with Temporal Go SDK.
 
 
 **英文原文**：
 
 
-Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.
+Use when building durable distributed systems with Temporal Go SDK.
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Terraform
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：temporal、golang
 
 
 ### 使用场景
@@ -4504,14 +4539,16 @@ Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state ma
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：terraform、opentofu、mastering、iac、automation、state、enterprise、infrastructure、complex、module、multi、cloud。
+- 在以下情况下可使用本技能：**构建 durable distributed 系统 with Temporal Go SDK**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：temporal、golang、pro、building、durable、distributed、go、sdk、covers、deterministic、rules、mtls。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module desi...
+Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns.
 
 </details>
 
@@ -4637,7 +4674,7 @@ This skill should be used when the user asks to "identify web application vulner
 
 - 在以下情况下可使用本技能：**the 用户 asks to "identify Web 应用 vulnerabilities", "explain common 安全 flaws", "understand 漏洞 catego**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：top、web、vulnerabilities、100、reference、skill、should、used、user、asks、identify、application。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：top、web、vulnerabilities、skill、should、used、user、asks、identify、application、explain、common。
 
 
 
@@ -4645,49 +4682,6 @@ This skill should be used when the user asks to "identify web application vulner
 <summary>英文描述（原文）</summary>
 
 This skill should be used when the user asks to "identify web application vulnerabilities", "explain common security flaws", "understand vulnerability catego...
-
-</details>
-
-
----
-
-## twilio-communications
-
-
-**中文名**：Twilio Communications
-
-
-### 功能
-
-
-构建 communication 功能 with Twilio: SMS 消息通信, voice calls, WhatsApp Business API, and 用户 verification (2FA).
-
-
-**英文原文**：
-
-
-Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA).
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：twilio、communications
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：twilio、communications、communication、features、sms、messaging、voice、calls、whatsapp、business、api、user。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simpl...
 
 </details>
 
@@ -4723,57 +4717,14 @@ Rigorous visual validation expert specializing in UI testing, design system comp
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ui、visual、validator、rigorous、validation、specializing、testing、compliance、accessibility、verification、masters、screenshot。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ui、visual、validator、rigorous、validation、specializing、testing、compliance、accessibility、verification。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual r...
-
-</details>
-
-
----
-
-## using-neon
-
-
-**中文名**：Using Neon
-
-
-### 功能
-
-
-Guides and 最佳实践 for working with Neon 无服务器 PostgreSQL.
-
-
-**英文原文**：
-
-
-Guides and best practices for working with Neon Serverless Postgres.
-
-
-### 使用领域
-
-
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：using、neon
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：using、neon、guides、working、serverless、postgres、covers、getting、started、local、development、choosing。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon ...
+Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.
 
 </details>
 
@@ -4895,7 +4846,7 @@ Review UI code for Web Interface Guidelines compliance.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**asked to "评审 my UI", "check 无障碍", "审计 设计", "评审 UX", or "check my si**。
+- 在以下情况下可使用本技能：**asked to \"评审 my UI\", \"check 无障碍\", \"审计 设计\", \"评审 UX\", or \"ch**。
 
 - **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：web、guidelines、review、ui、code、interface、compliance、asked、my、check、accessibility、audit。
 
@@ -4904,35 +4855,35 @@ Review UI code for Web Interface Guidelines compliance.
 <details>
 <summary>英文描述（原文）</summary>
 
-Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my si...
+Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"ch...
 
 </details>
 
 
 ---
 
-## wordpress-penetration-testing
+## web-security-testing
 
 
-**中文名**：Wordpress Penetration 测试
+**中文名**：Web 安全 测试
 
 
 ### 功能
 
 
-适用于 the 用户 asks to "渗透测试 WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi...
+Web 应用 安全 测试 工作流 for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and 访问控制 issues.
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi...
+Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues.
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：wordpress、penetration
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：Web、安全
 
 
 ### 使用场景
@@ -4940,44 +4891,42 @@ This skill should be used when the user asks to "pentest WordPress sites", "scan
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks to "渗透测试 WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wordpress、penetration、testing、skill、should、used、user、asks、pentest、sites、scan、vulnerabilities。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：web、security、testing、application、owasp、top、10、vulnerabilities、including、injection、xss、authentication。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi...
+Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues.
 
 </details>
 
 
 ---
 
-## xss-html-injection
+## wiki-onboarding
 
 
-**中文名**：Xss HTML Injection
+**中文名**：Wiki Onboarding
 
 
 ### 功能
 
 
-适用于 the 用户 asks to "测试 for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp...
+生成s two complementary onboarding guides — a Principal-Level architectural deep-dive and a Zero-to-Hero contributor walkthrough.
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks to "test for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp...
+Generates two complementary onboarding guides — a Principal-Level architectural deep-dive and a Zero-to-Hero contributor walkthrough.
 
 
 ### 使用领域
 
 
-网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：xss、HTML、injection
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：wiki、onboarding
 
 
 ### 使用场景
@@ -4985,15 +4934,146 @@ This skill should be used when the user asks to "test for XSS vulnerabilities", 
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks to "测试 for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp**。
+- 在以下情况下可使用本技能：**the 用户 wants**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：xss、html、injection、cross、site、scripting、testing、skill、should、used、user、asks。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wiki、onboarding、generates、two、complementary、guides、principal、level、architectural、deep、dive、zero。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when the user asks to "test for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp...
+Generates two complementary onboarding guides — a Principal-Level architectural deep-dive and a Zero-to-Hero contributor walkthrough. Use when the user wants...
+
+</details>
+
+
+---
+
+## wiki-researcher
+
+
+**中文名**：Wiki Researcher
+
+
+### 功能
+
+
+Conducts 多-turn iterative deep research on specific topics within a codebase with zero tolerance for shallow 分析.
+
+
+**英文原文**：
+
+
+Conducts multi-turn iterative deep research on specific topics within a codebase with zero tolerance for shallow analysis.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：wiki、researcher
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 wants an in-dept**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wiki、researcher、conducts、multi、turn、iterative、deep、research、specific、topics、within、codebase。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Conducts multi-turn iterative deep research on specific topics within a codebase with zero tolerance for shallow analysis. Use when the user wants an in-dept...
+
+</details>
+
+
+---
+
+## wordpress
+
+
+**中文名**：Wordpress
+
+
+### 功能
+
+
+Complete WordPress development 工作流 covering theme development, plugin creation, WooCommerce 集成, 性能 优化, and 安全 hardening.
+
+
+**英文原文**：
+
+
+Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：wordpress
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wordpress、complete、development、covering、theme、plugin、creation、woocommerce、integration、performance、optimization、security。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening.
+
+</details>
+
+
+---
+
+## wordpress-plugin-development
+
+
+**中文名**：Wordpress Plugin Development
+
+
+### 功能
+
+
+WordPress plugin development 工作流 covering plugin 架构, hooks, admin interfaces, REST API, and 安全 最佳实践.
+
+
+**英文原文**：
+
+
+WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, and security best practices.
+
+
+### 使用领域
+
+
+网络安全、渗透测试、合规审计、安全编码、漏洞管理；相关标签：wordpress、plugin
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wordpress、plugin、development、covering、architecture、hooks、admin、interfaces、rest、api、security。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, and security best practices.
 
 </details>

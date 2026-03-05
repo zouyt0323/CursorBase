@@ -1,6 +1,6 @@
 # 基础设施与运维（infrastructure）
 
-共 83 个技能。
+共 115 个技能。
 
 
 ---
@@ -130,6 +130,139 @@ You are an API mocking expert specializing in realistic mock services for develo
 <summary>英文描述（原文）</summary>
 
 You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and e...
+
+</details>
+
+
+---
+
+## apify-actor-development
+
+
+**中文名**：Apify Actor Development
+
+
+### 功能
+
+
+Develop, 调试, and 部署 Apify Actors - 无服务器 云 programs for Web 抓取, 自动化, and 数据 processing.
+
+
+**英文原文**：
+
+
+Develop, debug, and deploy Apify Actors - serverless cloud programs for web scraping, automation, and data processing.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：apify、actor
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 new Actors, modifyin**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、actor、development、develop、debug、deploy、actors、serverless、cloud、programs、web、scraping。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Develop, debug, and deploy Apify Actors - serverless cloud programs for web scraping, automation, and data processing. Use when creating new Actors, modifyin...
+
+</details>
+
+
+---
+
+## apify-actorization
+
+
+**中文名**：Apify Actorization
+
+
+### 功能
+
+
+转换 existing projects into Apify Actors - 无服务器 云 programs.
+
+
+**英文原文**：
+
+
+Convert existing projects into Apify Actors - serverless cloud programs.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：apify、actorization
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、actorization、convert、existing、actors、serverless、cloud、programs、actorize、javascript、typescript、sdk。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Convert existing projects into Apify Actors - serverless cloud programs. Actorize JavaScript/TypeScript (SDK with Actor.init/exit), Python (async context man...
+
+</details>
+
+
+---
+
+## apify-brand-reputation-monitoring
+
+
+**中文名**：Apify Brand Reputation 监控
+
+
+### 功能
+
+
+Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok.
+
+
+**英文原文**：
+
+
+Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：apify、brand、reputation、监控
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**用户 a**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、brand、reputation、monitoring、track、reviews、ratings、sentiment、mentions、google、maps、booking。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok. Use when user a...
 
 </details>
 
@@ -267,28 +400,28 @@ AWS development with infrastructure automation and cloud architecture patterns
 
 ---
 
-## backend-architect
+## azd-deployment
 
 
-**中文名**：后端 架构师
+**中文名**：Azd 部署
 
 
 ### 功能
 
 
-专家 后端 架构师 专攻 scalable API 设计, 微服务s 架构, and distributed 系统.
+部署 容器ized applications to Azure 容器 Apps using Azure Developer CLI (azd).
 
 
 **英文原文**：
 
 
-Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.
+Deploy containerized applications to Azure Container Apps using Azure Developer CLI (azd).
 
 
 ### 使用领域
 
 
-云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：后端
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：azd、部署
 
 
 ### 使用场景
@@ -296,14 +429,759 @@ Expert backend architect specializing in scalable API design, microservices arch
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：backend、architect、specializing、scalable、api、microservices、architecture、distributed、masters、rest、graphql、grpc。
+- 在以下情况下可使用本技能：**配置或搭建 azd projects, 编写 Azure.yaml 配置**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azd、deployment、deploy、containerized、applications、azure、container、apps、developer、cli、setting、up。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems. Masters REST/GraphQL/gRPC APIs, event-driv...
+Deploy containerized applications to Azure Container Apps using Azure Developer CLI (azd). Use when setting up azd projects, writing azure.yaml configuration...
+
+</details>
+
+
+---
+
+## azure-ai-anomalydetector-java
+
+
+**中文名**：Azure 人工智能 Anomalydetector Java
+
+
+### 功能
+
+
+构建 anomaly detection applications with Azure 人工智能 Anomaly Detector SDK for Java.
+
+
+**英文原文**：
+
+
+Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、人工智能、anomalydetector、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 univariate/multivariate anomaly detection, 时间-serie**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、ai、anomalydetector、java、anomaly、detection、applications、detector、sdk、implementing、univariate、multivariate。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-serie...
+
+</details>
+
+
+---
+
+## azure-identity-dotnet
+
+
+**中文名**：Azure Identity Dotnet
+
+
+### 功能
+
+
+Azure Identity SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Identity SDK for .NET.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、identity、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、identity、dotnet、sdk、net、authentication、library、clients、microsoft、entra、id、defaultazurecredential。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Identity SDK for .NET. Authentication library for Azure SDK clients using Microsoft Entra ID. Use for DefaultAzureCredential, managed identity, service...
+
+</details>
+
+
+---
+
+## azure-identity-java
+
+
+**中文名**：Azure Identity Java
+
+
+### 功能
+
+
+Azure Identity Java SDK for authentication with Azure 服务.
+
+
+**英文原文**：
+
+
+Azure Identity Java SDK for authentication with Azure services.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、identity、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 DefaultAzureCredential, managed identity, 服务 principal, or any Azu**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、identity、java、sdk、authentication、implementing、defaultazurecredential、managed、principal、any、applic。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Identity Java SDK for authentication with Azure services. Use when implementing DefaultAzureCredential, managed identity, service principal, or any Azu...
+
+</details>
+
+
+---
+
+## azure-identity-py
+
+
+**中文名**：Azure Identity Py
+
+
+### 功能
+
+
+Azure Identity SDK for Python authentication.
+
+
+**英文原文**：
+
+
+Azure Identity SDK for Python authentication.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、identity、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、identity、py、sdk、python、authentication、defaultazurecredential、managed、principals、token、caching。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.
+
+</details>
+
+
+---
+
+## azure-identity-ts
+
+
+**中文名**：Azure Identity Ts
+
+
+### 功能
+
+
+Authenticate to Azure 服务 using Azure Identity SDK for JavaScript (@Azure/identity).
+
+
+**英文原文**：
+
+
+Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity).
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、identity、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**配置 authentication with DefaultAzureCredential, ma**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、identity、ts、authenticate、sdk、javascript、configuring、authentication、defaultazurecredential、managed、principals。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, ma...
+
+</details>
+
+
+---
+
+## azure-messaging-webpubsubservice-py
+
+
+**中文名**：Azure 消息通信 Webpubsubservice Py
+
+
+### 功能
+
+
+Azure Web PubSub 服务 SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Web PubSub Service SDK for Python.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、消息通信、webpubsubservice、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、messaging、webpubsubservice、py、web、pubsub、sdk、python、real、time、websocket、connections。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.
+
+</details>
+
+
+---
+
+## azure-mgmt-applicationinsights-dotnet
+
+
+**中文名**：Azure Mgmt Applicationinsights Dotnet
+
+
+### 功能
+
+
+Azure 应用 Insights SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Application Insights SDK for .NET.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、mgmt、applicationinsights、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、applicationinsights、dotnet、application、insights、sdk、net、performance、monitoring、observability、resource。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Application Insights SDK for .NET. Application performance monitoring and observability resource management.
+
+</details>
+
+
+---
+
+## azure-mgmt-arizeaiobservabilityeval-dotnet
+
+
+**中文名**：Azure Mgmt Arizeaiobservabilityeval Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for Arize 人工智能 可观测性 and Evaluation (.NET).
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、mgmt、arizeaiobservabilityeval、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、arizeaiobservabilityeval、dotnet、resource、manager、sdk、arize、ai、observability、evaluation、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).
+
+</details>
+
+
+---
+
+## azure-mgmt-botservice-dotnet
+
+
+**中文名**：Azure Mgmt Botservice Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for 机器人 服务 in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Bot Service in .NET.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、mgmt、botservice、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、botservice、dotnet、resource、manager、sdk、bot、net、plane、operations、creating。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Bot Service in .NET. Management plane operations for creating and managing Azure Bot resources, channels (Teams, DirectLine, S...
+
+</details>
+
+
+---
+
+## azure-mgmt-botservice-py
+
+
+**中文名**：Azure Mgmt Botservice Py
+
+
+### 功能
+
+
+Azure 机器人 服务 管理ment SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Bot Service Management SDK for Python.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、mgmt、botservice、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、botservice、py、bot、sdk、python、creating、managing、configuring、resources。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Bot Service Management SDK for Python. Use for creating, managing, and configuring Azure Bot Service resources.
+
+</details>
+
+
+---
+
+## azure-mgmt-weightsandbiases-dotnet
+
+
+**中文名**：Azure Mgmt Weightsandbiases Dotnet
+
+
+### 功能
+
+
+Azure Weights & Biases SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Weights & Biases SDK for .NET.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、mgmt、weightsandbiases、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、weightsandbiases、dotnet、weights、biases、sdk、net、ml、experiment、tracking、model。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketp...
+
+</details>
+
+
+---
+
+## azure-microsoft-playwright-testing-ts
+
+
+**中文名**：Azure Microsoft Playwright 测试 Ts
+
+
+### 功能
+
+
+Run Playwright tests at scale using Azure Playwright Workspaces (formerly Microsoft Playwright 测试ing).
+
+
+**英文原文**：
+
+
+Run Playwright tests at scale using Azure Playwright Workspaces (formerly Microsoft Playwright Testing).
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、microsoft、playwright、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**扩展 browser tests across 云-hosted b**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、microsoft、playwright、ts、testing、run、tests、scale、workspaces、formerly、scaling、browser。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Run Playwright tests at scale using Azure Playwright Workspaces (formerly Microsoft Playwright Testing). Use when scaling browser tests across cloud-hosted b...
+
+</details>
+
+
+---
+
+## azure-monitor-opentelemetry-ts
+
+
+**中文名**：Azure 监控 Opentelemetry Ts
+
+
+### 功能
+
+
+Instrument applications with Azure 监控 and OpenTelemetry for JavaScript (@Azure/监控-opentelemetry).
+
+
+**英文原文**：
+
+
+Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@azure/monitor-opentelemetry).
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、监控、opentelemetry、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**adding distributed tracing, metrics, and**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、opentelemetry、ts、instrument、applications、javascript、adding、distributed、tracing、metrics、logs。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@azure/monitor-opentelemetry). Use when adding distributed tracing, metrics, and...
+
+</details>
+
+
+---
+
+## azure-servicebus-dotnet
+
+
+**中文名**：Azure Servicebus Dotnet
+
+
+### 功能
+
+
+Azure 服务 Bus SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Service Bus SDK for .NET.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、servicebus、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、servicebus、dotnet、bus、sdk、net、enterprise、messaging、queues、topics、subscriptions、sessions。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.
+
+</details>
+
+
+---
+
+## azure-servicebus-py
+
+
+**中文名**：Azure Servicebus Py
+
+
+### 功能
+
+
+Azure 服务 Bus SDK for Python 消息通信.
+
+
+**英文原文**：
+
+
+Azure Service Bus SDK for Python messaging.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、servicebus、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、servicebus、py、bus、sdk、python、messaging、queues、topics、subscriptions、enterprise。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Service Bus SDK for Python messaging. Use for queues, topics, subscriptions, and enterprise messaging patterns.
+
+</details>
+
+
+---
+
+## azure-servicebus-ts
+
+
+**中文名**：Azure Servicebus Ts
+
+
+### 功能
+
+
+构建 消息通信 applications using Azure 服务 Bus SDK for JavaScript (@Azure/服务-bus).
+
+
+**英文原文**：
+
+
+Build messaging applications using Azure Service Bus SDK for JavaScript (@azure/service-bus).
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、servicebus、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 queues, topics/subscriptions, message ses**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、servicebus、ts、messaging、applications、bus、sdk、javascript、implementing、queues、topics、subscriptions。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build messaging applications using Azure Service Bus SDK for JavaScript (@azure/service-bus). Use when implementing queues, topics/subscriptions, message ses...
+
+</details>
+
+
+---
+
+## azure-storage-file-share-py
+
+
+**中文名**：Azure 存储 文件 Share Py
+
+
+### 功能
+
+
+Azure 存储 文件 Share SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Storage File Share SDK for Python.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Azure、存储、文件、share、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、file、share、py、sdk、python、smb、shares、directories、operations、cloud。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Storage File Share SDK for Python. Use for SMB file shares, directories, and file operations in the cloud.
 
 </details>
 
@@ -531,28 +1409,28 @@ Automate Box cloud storage operations including file upload/download, search, fo
 
 ---
 
-## c4-container
+## cdk-patterns
 
 
-**中文名**：C4 容器
+**中文名**：Cdk 模式
 
 
 ### 功能
 
 
-专家 C4 容器-level 文档 specialist.
+Common AWS CDK 模式 and constructs for building 云 基础设施 with TypeScript, Python, or Java.
 
 
 **英文原文**：
 
 
-Expert C4 Container-level documentation specialist.
+Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java.
 
 
 ### 使用领域
 
 
-云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：c4、容器
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：cdk
 
 
 ### 使用场景
@@ -560,14 +1438,102 @@ Expert C4 Container-level documentation specialist.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：c4、container、level、documentation、synthesizes、component、architecture、mapping、components、deployment、units、documenting。
+- 在以下情况下可使用本技能：**设计 reusable CDK stacks and L3 cons**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cdk、common、aws、constructs、building、cloud、infrastructure、typescript、python、java、designing、reusable。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert C4 Container-level documentation specialist. Synthesizes Component-level documentation into Container-level architecture, mapping components to deploy...
+Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 cons...
+
+</details>
+
+
+---
+
+## chrome-extension-developer
+
+
+**中文名**：Chrome Extension Developer
+
+
+### 功能
+
+
+专家 in building Chrome Extensions using Manifest V3.
+
+
+**英文原文**：
+
+
+Expert in building Chrome Extensions using Manifest V3.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：chrome、extension
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：chrome、extension、developer、building、extensions、manifest、v3、covers、background、scripts、workers、content。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service workers, content scripts, and cross-context communication.
+
+</details>
+
+
+---
+
+## cicd-automation-workflow-automate
+
+
+**中文名**：Cicd 自动化 工作流 自动化
+
+
+### 功能
+
+
+You are a 工作流 自动化 专家 专攻 creating efficient CI/CD pipelines, GitHub Actions workflows, and 自动化d development processes.
+
+
+**英文原文**：
+
+
+You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：cicd、自动化
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cicd、automate、automation、specializing、creating、efficient、ci、cd、pipelines、github、actions、automated。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Desig...
 
 </details>
 
@@ -605,7 +1571,7 @@ Creating interactive data visualisations using d3.js.
 
 - 在以下情况下可使用本技能：**创建 custom charts, graphs, 网络 diagrams, geographic visualisati**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：claude、d3js、skill、d3、viz、creating、interactive、data、visualisations、js、should、used。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：claude、d3js、skill、creating、interactive、data、visualisations、d3、js、should、used、custom。
 
 
 
@@ -613,6 +1579,92 @@ Creating interactive data visualisations using d3.js.
 <summary>英文描述（原文）</summary>
 
 Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisati...
+
+</details>
+
+
+---
+
+## cloud-architect
+
+
+**中文名**：云 架构师
+
+
+### 功能
+
+
+专家 云 架构师 专攻 AWS/Azure/GCP 多-云 基础设施 设计, 高级 IaC (Terraform/OpenTofu/CDK), FinOps cost 优化, and ...
+
+
+**英文原文**：
+
+
+Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and ...
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：云
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cloud、architect、specializing、aws、azure、gcp、multi、infrastructure、iac、terraform、opentofu、cdk。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and ...
+
+</details>
+
+
+---
+
+## cloud-devops
+
+
+**中文名**：云 DevOps
+
+
+### 功能
+
+
+云 基础设施 and DevOps 工作流 covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, 监控, and 云-原生 development.
+
+
+**英文原文**：
+
+
+Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：云、DevOps
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cloud、devops、infrastructure、covering、aws、azure、gcp、kubernetes、terraform、ci、cd、monitoring。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development.
 
 </details>
 
@@ -793,6 +1845,49 @@ You are a data pipeline architecture expert specializing in scalable, reliable, 
 
 ---
 
+## database-admin
+
+
+**中文名**：数据库 Admin
+
+
+### 功能
+
+
+专家 数据库 administrator 专攻 现代 云 databases, 自动化, and reliability 工程.
+
+
+**英文原文**：
+
+
+Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：数据库、admin
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：database、admin、administrator、specializing、cloud、databases、automation、reliability、engineering。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.
+
+</details>
+
+
+---
+
 ## database-cloud-optimization-cost-optimize
 
 
@@ -879,28 +1974,28 @@ Migration monitoring, CDC, and observability infrastructure
 
 ---
 
-## database-optimizer
+## deployment-engineer
 
 
-**中文名**：数据库 Optimizer
+**中文名**：部署 Engineer
 
 
 ### 功能
 
 
-专家 数据库 优化r 专攻 现代 性能 tuning, query 优化, and scalable architectures.
+专家 部署 engineer 专攻 现代 CI/CD pipelines, GitOps workflows, and 高级 部署 自动化.
 
 
 **英文原文**：
 
 
-Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
+Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
 
 
 ### 使用领域
 
 
-云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：数据库、optimizer
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：部署
 
 
 ### 使用场景
@@ -908,14 +2003,14 @@ Expert database optimizer specializing in modern performance tuning, query optim
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：database、optimizer、specializing、performance、tuning、query、optimization、scalable、architectures、masters、indexing、resolution。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：deployment、engineer、specializing、ci、cd、pipelines、gitops、automation。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolutio...
+Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
 
 </details>
 
@@ -1132,7 +2227,50 @@ Master Django 5.x with async views, DRF, Celery, and Django Channels.
 <details>
 <summary>英文描述（原文）</summary>
 
-Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment. Use ...
+Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment.
+
+</details>
+
+
+---
+
+## e2e-testing
+
+
+**中文名**：端到端 测试
+
+
+### 功能
+
+
+端到端 测试 工作流 with Playwright for browser 自动化, visual regression, cross-browser 测试, and CI/CD 集成.
+
+
+**英文原文**：
+
+
+End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：端到端
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：e2e、testing、playwright、browser、automation、visual、regression、cross、ci、cd、integration。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration.
 
 </details>
 
@@ -1469,14 +2607,14 @@ Master Flutter development with Dart 3, advanced widgets, and multi-platform dep
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：flutter、development、dart、widgets、multi、platform、deployment、state、animations、testing、performance、optimization。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：flutter、development、dart、widgets、multi、platform、deployment。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optim...
+Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment.
 
 </details>
 
@@ -1864,7 +3002,7 @@ Implement GitOps workflows with ArgoCD and Flux for automated, declarative Kuber
 
 - 在以下情况下可使用本技能：**实现 GitOp**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：gitops、argocd、flux、automated、declarative、kubernetes、deployments、continuous、reconciliation、implementing、automating、setting。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：gitops、argocd、flux、automated、declarative、kubernetes、deployments、continuous、reconciliation、implementing、automating、deplo。
 
 
 
@@ -1968,28 +3106,28 @@ Design, organize, and manage Helm charts for templating and packaging Kubernetes
 
 ---
 
-## hugging-face-cli
+## hybrid-cloud-architect
 
 
-**中文名**：Hugging Face CLI
+**中文名**：Hybrid 云 架构师
 
 
 ### 功能
 
 
-Execute Hugging Face Hub operations using the `hf` CLI.
+专家 hybrid 云 架构师 专攻 complex 多-云 solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
 
 
 **英文原文**：
 
 
-Execute Hugging Face Hub operations using the `hf` CLI.
+Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
 
 
 ### 使用领域
 
 
-云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：hugging、face、CLI
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：hybrid、云
 
 
 ### 使用场景
@@ -1997,16 +3135,14 @@ Execute Hugging Face Hub operations using the `hf` CLI.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 needs to download 模型/datasets/spaces, upload files to Hub repositories, 创建 **。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hugging、face、cli、execute、hub、operations、hf、user、download、models、datasets、spaces。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hybrid、cloud、architect、specializing、complex、multi、solutions、aws、azure、gcp、private、clouds。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Execute Hugging Face Hub operations using the `hf` CLI. Use when the user needs to download models/datasets/spaces, upload files to Hub repositories, create ...
+Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
 
 </details>
 
@@ -2236,6 +3372,92 @@ Design effective KPI dashboards with metrics selection, visualization best pract
 
 ---
 
+## kubernetes-architect
+
+
+**中文名**：Kubernetes 架构师
+
+
+### 功能
+
+
+专家 Kubernetes 架构师 专攻 云-原生 基础设施, 高级 GitOps workflows (ArgoCD/Flux), and 企业级 容器 编排.
+
+
+**英文原文**：
+
+
+Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Kubernetes
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：kubernetes、architect、specializing、cloud、native、infrastructure、gitops、argocd、flux、enterprise、container、orchestration。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.
+
+</details>
+
+
+---
+
+## kubernetes-deployment
+
+
+**中文名**：Kubernetes 部署
+
+
+### 功能
+
+
+Kubernetes 部署 工作流 for 容器 编排, Helm charts, 服务 mesh, and production-ready K8s configurations.
+
+
+**英文原文**：
+
+
+Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Kubernetes、部署
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：kubernetes、deployment、container、orchestration、helm、charts、mesh、k8s、configurations。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations.
+
+</details>
+
+
+---
+
 ## langfuse
 
 
@@ -2273,6 +3495,92 @@ Expert in Langfuse - the open-source LLM observability platform.
 <summary>英文描述（原文）</summary>
 
 Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datasets, and integration with LangChain, Lla...
+
+</details>
+
+
+---
+
+## lightning-channel-factories
+
+
+**中文名**：Lightning Channel Factories
+
+
+### 功能
+
+
+Technical reference on Lightning 网络 channel factories, 多-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks.
+
+
+**英文原文**：
+
+
+Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：lightning、channel、factories
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：lightning、channel、factories、technical、reference、network、multi、party、channels、lsp、architectures、bitcoin。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers D...
+
+</details>
+
+
+---
+
+## linux-troubleshooting
+
+
+**中文名**：Linux Troubleshooting
+
+
+### 功能
+
+
+Linux 系统 troubleshooting 工作流 for diagnosing and resolving 系统 issues, 性能 problems, and 服务 failures.
+
+
+**英文原文**：
+
+
+Linux system troubleshooting workflow for diagnosing and resolving system issues, performance problems, and service failures.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：linux、troubleshooting
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：linux、troubleshooting、diagnosing、resolving、issues、performance、problems、failures。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Linux system troubleshooting workflow for diagnosing and resolving system issues, performance problems, and service failures.
 
 </details>
 
@@ -2367,6 +3675,51 @@ Design and implement a complete ML pipeline for: $ARGUMENTS
 
 ---
 
+## manifest
+
+
+**中文名**：Manifest
+
+
+### 功能
+
+
+Install and 配置 the Manifest 可观测性 plugin for your agents.
+
+
+**英文原文**：
+
+
+Install and configure the Manifest observability plugin for your agents.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：manifest
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**配置或搭建 telemetry, 配置 API keys, or troubleshooting the plugin**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：manifest、install、configure、observability、plugin、agents、setting、up、telemetry、configuring、api、keys。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Install and configure the Manifest observability plugin for your agents. Use when setting up telemetry, configuring API keys, or troubleshooting the plugin.
+
+</details>
+
+
+---
+
 ## microservices-patterns
 
 
@@ -2448,7 +3801,7 @@ Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML framewor
 <details>
 <summary>英文描述（原文）</summary>
 
-Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitorin...
+Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring.
 
 </details>
 
@@ -2494,49 +3847,6 @@ Build end-to-end MLOps pipelines from data preparation through model training, v
 <summary>英文描述（原文）</summary>
 
 Build end-to-end MLOps pipelines from data preparation through model training, validation, and production deployment. Use when creating ML pipelines, impleme...
-
-</details>
-
-
----
-
-## mlops-engineer
-
-
-**中文名**：Mlops Engineer
-
-
-### 功能
-
-
-构建 comprehensive 机器学习 pipelines, experiment tracking, and 模型 registries with MLflow, Kubeflow, and 现代 MLOps tools.
-
-
-**英文原文**：
-
-
-Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools.
-
-
-### 使用领域
-
-
-云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：mlops
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mlops、engineer、ml、pipelines、experiment、tracking、model、registries、mlflow、kubeflow、implements、automated。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, dep...
 
 </details>
 
@@ -2773,13 +4083,13 @@ You are an SLO (Service Level Objective) expert specializing in implementing rel
 ### 功能
 
 
-专家 性能 engineer 专攻 现代 可观测性, 应用 优化, and scalable 系统 性能.
+专家 性能 engineer 专攻 现代 可观测性,
 
 
 **英文原文**：
 
 
-Expert performance engineer specializing in modern observability, application optimization, and scalable system performance.
+Expert performance engineer specializing in modern observability,
 
 
 ### 使用领域
@@ -2793,14 +4103,14 @@ Expert performance engineer specializing in modern observability, application op
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：performance、engineer、specializing、observability、application、optimization、scalable、masters、opentelemetry、distributed、tracing、load。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：performance、engineer、specializing、observability。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distribut...
+Expert performance engineer specializing in modern observability,
 
 </details>
 
@@ -2977,49 +4287,6 @@ Master network protocol reverse engineering including packet analysis, protocol 
 <summary>英文描述（原文）</summary>
 
 Master network protocol reverse engineering including packet analysis, protocol dissection, and custom protocol documentation. Use when analyzing network tra...
-
-</details>
-
-
----
-
-## readme
-
-
-**中文名**：README
-
-
-### 功能
-
-
-When the 用户 wants to 创建 or update a README.md 文件 for a 项目.
-
-
-**英文原文**：
-
-
-When the user wants to create or update a README.md file for a project.
-
-
-### 使用领域
-
-
-云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：README
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：readme、user、wants、update、md、file、says、write、document、documentation、asks、skill。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-When the user wants to create or update a README.md file for a project. Also use when the user says 'write readme,' 'create readme,' 'document this project,'...
 
 </details>
 
@@ -3245,6 +4512,94 @@ Master Temporal workflow orchestration with Python SDK. Implements durable workf
 
 ---
 
+## terraform-aws-modules
+
+
+**中文名**：Terraform AWS Modules
+
+
+### 功能
+
+
+Terraform module creation for AWS — reusable modules, 状态管理, and HCL 最佳实践.
+
+
+**英文原文**：
+
+
+Terraform module creation for AWS — reusable modules, state management, and HCL best practices.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Terraform、AWS、modules
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**构建 or 评审 Terraform AWS 基础设施**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：terraform、aws、modules、module、creation、reusable、state、hcl、building、reviewing、infrastructure。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure.
+
+</details>
+
+
+---
+
+## terraform-infrastructure
+
+
+**中文名**：Terraform 基础设施
+
+
+### 功能
+
+
+Terraform 基础设施即代码 工作流 for provisioning 云 resources, creating reusable modules, and managing 基础设施 at scale.
+
+
+**英文原文**：
+
+
+Terraform infrastructure as code workflow for provisioning cloud resources, creating reusable modules, and managing infrastructure at scale.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Terraform、基础设施
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：terraform、infrastructure、code、provisioning、cloud、resources、creating、reusable、modules、managing、scale。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Terraform infrastructure as code workflow for provisioning cloud resources, creating reusable modules, and managing infrastructure at scale.
+
+</details>
+
+
+---
+
 ## terraform-module-library
 
 
@@ -3327,6 +4682,49 @@ Terraform infrastructure as code best practices
 <summary>英文描述（原文）</summary>
 
 Terraform infrastructure as code best practices
+
+</details>
+
+
+---
+
+## terraform-specialist
+
+
+**中文名**：Terraform Specialist
+
+
+### 功能
+
+
+专家 Terraform/OpenTofu specialist mastering 高级 IaC 自动化, 状态管理, and 企业级 基础设施 模式.
+
+
+**英文原文**：
+
+
+Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：Terraform
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：terraform、opentofu、mastering、iac、automation、state、enterprise、infrastructure。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.
 
 </details>
 
@@ -3507,49 +4905,6 @@ Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, 
 
 ---
 
-## voice-agents
-
-
-**中文名**：Voice Agents
-
-
-### 功能
-
-
-Voice agents represent the frontier of 人工智能 interaction - humans speaking naturally with 人工智能 系统.
-
-
-**英文原文**：
-
-
-Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems.
-
-
-### 使用领域
-
-
-云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：voice、agents
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：voice、agents、represent、frontier、ai、interaction、humans、speaking、naturally、challenge、isn、just。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems. The challenge isn't just speech recognition and synthesis,...
-
-</details>
-
-
----
-
 ## wireshark-analysis
 
 
@@ -3581,7 +4936,7 @@ This skill should be used when the user asks to "analyze network traffic with Wi
 
 - 在以下情况下可使用本技能：**the 用户 asks to "分析 网络 traffic with Wireshark", "capture packets for troubleshooting", "filter PCAP files", "follow**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wireshark、network、traffic、analysis、skill、should、used、user、asks、analyze、capture、packets。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wireshark、analysis、skill、should、used、user、asks、analyze、network、traffic、capture、packets。
 
 
 
@@ -3632,5 +4987,48 @@ Workflow automation is the infrastructure that makes AI agents reliable.
 <summary>英文描述（原文）</summary>
 
 Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost...
+
+</details>
+
+
+---
+
+## x-twitter-scraper
+
+
+**中文名**：X Twitter 爬虫
+
+
+### 功能
+
+
+X (Twitter) 数据 platform skill — tweet 搜索, 用户 lookup, follower extraction, engagement metrics, giveaway draws, 监控, webhooks, 19 extraction too...
+
+
+**英文原文**：
+
+
+X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction too...
+
+
+### 使用领域
+
+
+云计算、容器化、CI/CD、基础设施即代码、监控与运维；相关标签：[twitter、x-api、抓取、MCP、social-media、data-extraction
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[twitter、x-api、scraping、mcp、social-media、data-extraction、giveaway、monitoring、webhooks]、twitter、scraper、data。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction too...
 
 </details>

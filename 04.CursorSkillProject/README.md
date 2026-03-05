@@ -29,10 +29,10 @@
 
 | 仓库 | 来源 | 技能数 |
 |------|------|--------|
-| `anthropics-skills` | [anthropics/skills](https://github.com/anthropics/skills) | 前端设计、MCP 构建、文档处理等 |
-| `antigravity-awesome-skills` | [antigravity-ai/awesome-agent-skills](https://github.com/antigravity-ai/awesome-agent-skills) | 100+ 技能（开发、架构、测试、安全等） |
-| `ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX 设计系统 |
-| `vm0-skills` | 社区 | 80+ 技能（GitHub、Figma、Supabase 等） |
+| `anthropics-skills` | [anthropics/skills](https://github.com/anthropics/skills) | 17 个技能（Claude API、前端设计、MCP 构建、文档处理等） |
+| `antigravity-awesome-skills` | [antigravity-ai/awesome-agent-skills](https://github.com/antigravity-ai/awesome-agent-skills) | 1945+ 技能（开发、架构、测试、安全等） |
+| `ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX 设计系统（v2.2.1） |
+| `vm0-skills` | [vm0-ai/vm0-skills](https://github.com/vm0-ai/vm0-skills) | 84 个技能（GitHub、Figma、Google、Vercel、X 等） |
 
 各仓库的分类索引见 `doc/` 下对应子目录的 README.md。
 

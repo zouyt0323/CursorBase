@@ -1,6 +1,6 @@
 # 测试与质量（testing）
 
-共 23 个技能。
+共 32 个技能。
 
 
 ---
@@ -265,28 +265,28 @@ Manage major dependency version upgrades with compatibility analysis, staged rol
 
 ---
 
-## pentest-commands
+## file-path-traversal
 
 
-**中文名**：渗透测试 Commands
+**中文名**：文件 Path Traversal
 
 
 ### 功能
 
 
-适用于 the 用户 asks to "run 渗透测试 commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s...
+适用于 the 用户 asks to "测试 for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through Web a...
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks to "run pentest commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s...
+This skill should be used when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web a...
 
 
 ### 使用领域
 
 
-单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：渗透测试、commands
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：文件、path、traversal
 
 
 ### 使用场景
@@ -294,16 +294,151 @@ This skill should be used when the user asks to "run pentest commands", "scan wi
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks to "run 渗透测试 commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s**。
+- 在以下情况下可使用本技能：**the 用户 asks to "测试 for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through Web a**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：pentest、commands、skill、should、used、user、asks、run、scan、nmap、metasploit、exploits。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：file、path、traversal、skill、should、used、user、asks、test、directory、exploit、vulnerabilities。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when the user asks to "run pentest commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s...
+This skill should be used when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web a...
+
+</details>
+
+
+---
+
+## html-injection-testing
+
+
+**中文名**：HTML Injection 测试
+
+
+### 功能
+
+
+适用于 the 用户 asks to "测试 for HTML injection", "inject HTML into Web pages", "perform HTML injection attacks", "deface Web applic...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "test for HTML injection", "inject HTML into web pages", "perform HTML injection attacks", "deface web applic...
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：HTML、injection
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "测试 for HTML injection", "inject HTML into Web pages", "perform HTML injection attacks", "deface Web applic**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：html、injection、testing、skill、should、used、user、asks、test、inject、web、pages。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "test for HTML injection", "inject HTML into web pages", "perform HTML injection attacks", "deface web applic...
+
+</details>
+
+
+---
+
+## idor-testing
+
+
+**中文名**：Idor 测试
+
+
+### 功能
+
+
+适用于 the 用户 asks to "测试 for insecure direct object references," "find IDOR vulnerabilities," "exploit broken 访问控制," "...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "test for insecure direct object references," "find IDOR vulnerabilities," "exploit broken access control," "...
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：idor
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "测试 for insecure direct object references," "find IDOR vulnerabilities," "exploit broken access control," "**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：idor、testing、skill、should、used、user、asks、test、insecure、direct、object、references。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "test for insecure direct object references," "find IDOR vulnerabilities," "exploit broken access control," "...
+
+</details>
+
+
+---
+
+## metasploit-framework
+
+
+**中文名**：Metasploit Framework
+
+
+### 功能
+
+
+适用于 the 用户 asks to "use Metasploit for 渗透测试", "exploit vulnerabilities with msfconsole", "创建 payloads with ms...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "use Metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with ms...
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：metasploit、framework
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "use Metasploit for penetration 测试", "exploit vulnerabilities with msfconsole", "创建 payloads with ms**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：metasploit、framework、skill、should、used、user、asks、penetration、testing、exploit、vulnerabilities、msfconsole。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "use Metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with ms...
 
 </details>
 
@@ -486,28 +621,28 @@ Test web applications with screen readers including VoiceOver, NVDA, and JAWS. U
 
 ---
 
-## startup-analyst
+## smtp-penetration-testing
 
 
-**中文名**：Startup Analyst
+**中文名**：Smtp Penetration 测试
 
 
 ### 功能
 
 
-专家 startup business analyst 专攻 market sizing, financial modeling, competitive 分析, and strategic 规划 for early-stage companies.
+适用于 the 用户 asks to "perform SMTP 渗透测试", "enumerate 邮件 users", "测试 for 开源 mail relays", "grab SMTP banners"...
 
 
 **英文原文**：
 
 
-Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
+This skill should be used when the user asks to "perform SMTP penetration testing", "enumerate email users", "test for open mail relays", "grab SMTP banners"...
 
 
 ### 使用领域
 
 
-单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：startup、analyst
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：smtp、penetration
 
 
 ### 使用场景
@@ -515,14 +650,61 @@ Expert startup business analyst specializing in market sizing, financial modelin
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：startup、analyst、business、specializing、market、sizing、financial、modeling、competitive、analysis、strategic、planning。
+- 在以下情况下可使用本技能：**the 用户 asks to "perform SMTP penetration 测试", "enumerate 邮件 users", "测试 for 开源 mail relays", "grab SMTP banners"**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：smtp、penetration、testing、skill、should、used、user、asks、perform、enumerate、email、users。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies. Us...
+This skill should be used when the user asks to "perform SMTP penetration testing", "enumerate email users", "test for open mail relays", "grab SMTP banners"...
+
+</details>
+
+
+---
+
+## ssh-penetration-testing
+
+
+**中文名**：Ssh Penetration 测试
+
+
+### 功能
+
+
+适用于 the 用户 asks to "渗透测试 SSH 服务", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "pentest SSH services", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi...
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：ssh、penetration
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "渗透测试 SSH 服务", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ssh、penetration、testing、skill、should、used、user、asks、pentest、enumerate、configurations、brute。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "pentest SSH services", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi...
 
 </details>
 
@@ -538,13 +720,13 @@ Expert startup business analyst specializing in market sizing, financial modelin
 ### 功能
 
 
-适用于 the 用户 asks about "key startup metrics", "SaaS metrics", "CAC and LTV", "单元 economics", "burn multiple", "rule of 40", "ma...
+适用于 the 用户 asks about \\\"key startup metrics", "SaaS metrics", "CAC and LTV", "单元 economics", "burn multiple", "rule of 40", ...
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks about "key startup metrics", "SaaS metrics", "CAC and LTV", "unit economics", "burn multiple", "rule of 40", "ma...
+This skill should be used when the user asks about \\\"key startup metrics", "SaaS metrics", "CAC and LTV", "unit economics", "burn multiple", "rule of 40", ...
 
 
 ### 使用领域
@@ -558,7 +740,7 @@ This skill should be used when the user asks about "key startup metrics", "SaaS 
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks about "key startup metrics", "SaaS metrics", "CAC and LTV", "单元 economics", "burn multiple", "rule of 40", "ma**。
+- 在以下情况下可使用本技能：**the 用户 asks about \\\"key startup metrics", "SaaS metrics", "CAC and LTV", "单元 economics", "burn multiple", "rule of 40", **。
 
 - **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：startup、metrics、framework、skill、should、used、user、asks、about、key、saas、cac。
 
@@ -567,7 +749,7 @@ This skill should be used when the user asks about "key startup metrics", "SaaS 
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when the user asks about "key startup metrics", "SaaS metrics", "CAC and LTV", "unit economics", "burn multiple", "rule of 40", "ma...
+This skill should be used when the user asks about \\\"key startup metrics", "SaaS metrics", "CAC and LTV", "unit economics", "burn multiple", "rule of 40", ...
 
 </details>
 
@@ -613,6 +795,49 @@ Use when encountering any bug, test failure, or unexpected behavior, before prop
 <summary>英文描述（原文）</summary>
 
 Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+
+</details>
+
+
+---
+
+## tdd-orchestrator
+
+
+**中文名**：TDD 测试驱动开发 Orchestrator
+
+
+### 功能
+
+
+Master TDD 测试驱动开发 orchestrator 专攻 red-green-重构 discipline, 多-智能体 工作流 coordination, and comprehensive 测试驱动 development 实践.
+
+
+**英文原文**：
+
+
+Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices.
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：TDD 测试驱动开发、orchestrator
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：tdd、orchestrator、specializing、red、green、refactor、discipline、multi、agent、coordination、test、driven。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices.
 
 </details>
 
@@ -928,6 +1153,49 @@ Run tests and systematically fix all failing tests using smart error grouping. U
 
 ---
 
+## testing-qa
+
+
+**中文名**：测试 Qa
+
+
+### 功能
+
+
+Comprehensive 测试 and QA 工作流 covering 单元 测试, 集成 测试, 端到端 测试, browser 自动化, and quality assurance.
+
+
+**英文原文**：
+
+
+Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance.
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：qa
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：qa、testing、covering、unit、integration、e2e、browser、automation、quality、assurance。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance.
+
+</details>
+
+
+---
+
 ## unit-testing-test-generate
 
 
@@ -1010,5 +1278,140 @@ Test smart contracts comprehensively using Hardhat and Foundry with unit tests, 
 <summary>英文描述（原文）</summary>
 
 Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, ...
+
+</details>
+
+
+---
+
+## wiki-qa
+
+
+**中文名**：Wiki Qa
+
+
+### 功能
+
+
+Answers questions about a 代码 repository using 源码 文件 分析.
+
+
+**英文原文**：
+
+
+Answers questions about a code repository using source file analysis.
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：wiki、qa
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks a question about how something works, wants to understand a comp**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wiki、qa、answers、questions、about、code、repository、source、file、analysis、user、asks。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Answers questions about a code repository using source file analysis. Use when the user asks a question about how something works, wants to understand a comp...
+
+</details>
+
+
+---
+
+## wordpress-penetration-testing
+
+
+**中文名**：Wordpress Penetration 测试
+
+
+### 功能
+
+
+适用于 the 用户 asks to "渗透测试 WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi...
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：wordpress、penetration
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "渗透测试 WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wordpress、penetration、testing、skill、should、used、user、asks、pentest、sites、scan、vulnerabilities。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi...
+
+</details>
+
+
+---
+
+## xss-html-injection
+
+
+**中文名**：Xss HTML Injection
+
+
+### 功能
+
+
+适用于 the 用户 asks to "测试 for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "test for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp...
+
+
+### 使用领域
+
+
+单元测试、集成测试、端到端测试、TDD、测试自动化；相关标签：xss、HTML、injection
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "测试 for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：xss、html、injection、skill、should、used、user、asks、test、vulnerabilities、perform、cross。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "test for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp...
 
 </details>

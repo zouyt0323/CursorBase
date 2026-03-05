@@ -1,6 +1,135 @@
 # 通用与综合（general）
 
-共 131 个技能。
+共 193 个技能。
+
+
+---
+
+## 00-andruia-consultant
+
+
+**中文名**：00 Andruia Consultant
+
+
+### 功能
+
+
+Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia.
+
+
+**英文原文**：
+
+
+Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：00、andruia、consultant
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：00、andruia、consultant、arquitecto、de、soluciones、principal、consultor、tecnol、gico、andru、ia。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español.
+
+</details>
+
+
+---
+
+## 10-andruia-skill-smith
+
+
+**中文名**：10 Andruia Skill Smith
+
+
+### 功能
+
+
+Ingeniero de Sistemas de Andru.ia.
+
+
+**英文原文**：
+
+
+Ingeniero de Sistemas de Andru.ia.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：10、andruia、skill、smith
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：10、andruia、skill、smith、ingeniero、de、sistemas、andru、ia、dise、redacta、despliega。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Ingeniero de Sistemas de Andru.ia. Diseña, redacta y despliega nuevas habilidades (skills) dentro del repositorio siguiendo el Estándar de Diamante.
+
+</details>
+
+
+---
+
+## 20-andruia-niche-intelligence
+
+
+**中文名**：20 Andruia Niche Intelligence
+
+
+### 功能
+
+
+Estratega de Inteligencia de Dominio de Andru.ia.
+
+
+**英文原文**：
+
+
+Estratega de Inteligencia de Dominio de Andru.ia.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：20、andruia、niche、intelligence
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：20、andruia、niche、intelligence、estratega、de、inteligencia、dominio、andru、ia、analiza、el。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho específico de un proyecto para inyectar conocimientos, regulaciones y estándares únicos de...
+
+</details>
 
 
 ---
@@ -271,6 +400,94 @@ Understand anti-reversing, obfuscation, and protection techniques encountered du
 
 ---
 
+## apify-lead-generation
+
+
+**中文名**：Apify Lead Generation
+
+
+### 功能
+
+
+生成s B2B/B2C leads by 抓取 Google Maps, websites, Instagram, TikTok, Facebook, LinkedIn, YouTube, and Google 搜索.
+
+
+**英文原文**：
+
+
+Generates B2B/B2C leads by scraping Google Maps, websites, Instagram, TikTok, Facebook, LinkedIn, YouTube, and Google Search.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：apify、lead、generation
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**用户 asks to find lead**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、lead、generation、generates、b2b、b2c、leads、scraping、google、maps、websites、instagram。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Generates B2B/B2C leads by scraping Google Maps, websites, Instagram, TikTok, Facebook, LinkedIn, YouTube, and Google Search. Use when user asks to find lead...
+
+</details>
+
+
+---
+
+## apify-trend-analysis
+
+
+**中文名**：Apify Trend 分析
+
+
+### 功能
+
+
+Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.
+
+
+**英文原文**：
+
+
+Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：apify、trend
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、trend、analysis、discover、track、emerging、trends、google、instagram、facebook、youtube、tiktok。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.
+
+</details>
+
+
+---
+
 ## app-builder
 
 
@@ -395,7 +612,7 @@ Senior embedded software engineer specializing in firmware and driver developmen
 <details>
 <summary>英文描述（原文）</summary>
 
-Senior embedded software engineer specializing in firmware and driver development for ARM Cortex-M microcontrollers (Teensy, STM32, nRF52, SAMD). Decades of ...
+Senior embedded software engineer specializing in firmware and driver development for ARM Cortex-M microcontrollers (Teensy, STM32, nRF52, SAMD).
 
 </details>
 
@@ -482,6 +699,92 @@ Mandatory skills, conventions, and behavioral rules for Avalonia UI development 
 <summary>英文描述（原文）</summary>
 
 Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.
+
+</details>
+
+
+---
+
+## aws-cost-cleanup
+
+
+**中文名**：AWS Cost Cleanup
+
+
+### 功能
+
+
+自动化d cleanup of unused AWS resources to reduce costs
+
+
+**英文原文**：
+
+
+Automated cleanup of unused AWS resources to reduce costs
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：AWS、cost、cleanup
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：aws、cost、cleanup、automated、unused、resources、reduce、costs。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Automated cleanup of unused AWS resources to reduce costs
+
+</details>
+
+
+---
+
+## aws-cost-optimizer
+
+
+**中文名**：AWS Cost Optimizer
+
+
+### 功能
+
+
+Comprehensive AWS cost 分析 and 优化 recommendations using AWS CLI and Cost Explorer
+
+
+**英文原文**：
+
+
+Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：AWS、cost、optimizer
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：aws、cost、optimizer、analysis、optimization、recommendations、cli、explorer。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer
 
 </details>
 
@@ -759,13 +1062,13 @@ How to use a Win32 build of BusyBox to run many of the standard UNIX command lin
 ### 功能
 
 
-Write efficient C 代码 with proper memory 管理ment, pointer arithmetic, and 系统 calls.
+Write efficient C 代码 with proper memory 管理ment, pointer
 
 
 **英文原文**：
 
 
-Write efficient C code with proper memory management, pointer arithmetic, and system calls.
+Write efficient C code with proper memory management, pointer
 
 
 ### 使用领域
@@ -779,14 +1082,14 @@ Write efficient C code with proper memory management, pointer arithmetic, and sy
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：c、pro、write、efficient、code、proper、memory、pointer、arithmetic、calls、embedded、kernel。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：c、pro、write、efficient、code、proper、memory、pointer。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critica...
+Write efficient C code with proper memory management, pointer
 
 </details>
 
@@ -830,6 +1133,49 @@ Create beautiful visual art in .png and .pdf documents using design philosophy.
 <summary>英文描述（原文）</summary>
 
 Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art...
+
+</details>
+
+
+---
+
+## carrier-relationship-management
+
+
+**中文名**：Carrier Relationship 管理
+
+
+### 功能
+
+
+Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier 性能, allocating freight, and maintaining strategic ca...
+
+
+**英文原文**：
+
+
+Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic ca...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：carrier、relationship
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：carrier、relationship、codified、expertise、managing、portfolios、negotiating、freight、rates、tracking、performance、allocating。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic ca...
 
 </details>
 
@@ -1037,14 +1383,14 @@ Master guide for using Claude Code effectively.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：claude、code、effectively、includes、configuration、prompting、thinking、keywords、debugging、techniques、interacting、agent。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：claude、code、effectively、includes、configuration、prompting、thinking、keywords、debugging、techniques、interacting、wit。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Master guide for using Claude Code effectively. Includes configuration templates, prompting strategies "Thinking" keywords, debugging techniques, and best pr...
+Master guide for using Claude Code effectively. Includes configuration templates, prompting strategies \"Thinking\" keywords, debugging techniques, and best ...
 
 </details>
 
@@ -1219,6 +1565,49 @@ Applies principles from Robert C.
 <summary>英文描述（原文）</summary>
 
 Applies principles from Robert C. Martin's 'Clean Code'. Use this skill when writing, reviewing, or refactoring code to ensure high quality, readability, and...
+
+</details>
+
+
+---
+
+## cloudflare-workers-expert
+
+
+**中文名**：Cloudflare Workers 专家
+
+
+### 功能
+
+
+专家 in Cloudflare Workers and the 边缘 Computing ecosystem.
+
+
+**英文原文**：
+
+
+Expert in Cloudflare Workers and the Edge Computing ecosystem.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：cloudflare、workers
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cloudflare、workers、edge、computing、ecosystem、covers、wrangler、kv、d1、durable、objects、r2。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert in Cloudflare Workers and the Edge Computing ecosystem. Covers Wrangler, KV, D1, Durable Objects, and R2 storage.
 
 </details>
 
@@ -1882,6 +2271,49 @@ Apply compaction, masking, and caching strategies
 
 ---
 
+## cpp-pro
+
+
+**中文名**：Cpp Pro
+
+
+### 功能
+
+
+Write idiomatic C++ 代码 with 现代 功能, RAII, 智能 pointers, and STL algorithms.
+
+
+**英文原文**：
+
+
+Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：cpp
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cpp、pro、write、idiomatic、code、features、raii、smart、pointers、stl、algorithms、move。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization.
+
+</details>
+
+
+---
+
 ## create-pr
 
 
@@ -2269,6 +2701,92 @@ Developer Experience specialist.
 <summary>英文描述（原文）</summary>
 
 Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when developme...
+
+</details>
+
+
+---
+
+## email-sequence
+
+
+**中文名**：邮件 Sequence
+
+
+### 功能
+
+
+When the 用户 wants to 创建 or 优化 an 邮件 sequence, drip campaign, 自动化d 邮件 flow, or lifecycle 邮件 program.
+
+
+**英文原文**：
+
+
+When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：邮件、sequence
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：email、sequence、user、wants、optimize、drip、campaign、automated、flow、lifecycle、program、mentions。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions...
+
+</details>
+
+
+---
+
+## energy-procurement
+
+
+**中文名**：Energy Procurement
+
+
+### 功能
+
+
+Codified expertise for electricity and gas procurement, tariff optimisation, demand charge 管理ment, renewable PPA evaluation, and 多-facility energy co...
+
+
+**英文原文**：
+
+
+Codified expertise for electricity and gas procurement, tariff optimisation, demand charge management, renewable PPA evaluation, and multi-facility energy co...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：energy、procurement
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：energy、procurement、codified、expertise、electricity、gas、tariff、optimisation、demand、charge、renewable、ppa。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for electricity and gas procurement, tariff optimisation, demand charge management, renewable PPA evaluation, and multi-facility energy co...
 
 </details>
 
@@ -2709,6 +3227,49 @@ Verify fix commits address audit findings without new bugs
 <summary>英文描述（原文）</summary>
 
 Verify fix commits address audit findings without new bugs
+
+</details>
+
+
+---
+
+## form-cro
+
+
+**中文名**：表单 Cro
+
+
+### 功能
+
+
+优化 any 表单 that is NOT signup or account registration — including lead capture, contact, demo request, 应用, survey, quote, and checkout forms.
+
+
+**英文原文**：
+
+
+Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：表单、cro
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：form、cro、optimize、any、signup、account、registration、including、lead、capture、contact、demo。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms.
 
 </details>
 
@@ -3231,28 +3792,28 @@ You are a PR optimization expert specializing in creating high-quality pull requ
 
 ---
 
-## imagen
+## git-pushing
 
 
-**中文名**：Imagen
+**中文名**：Git Pushing
 
 
 ### 功能
 
 
-
+Stage, commit, and push Git changes with conventional commit messages.
 
 
 **英文原文**：
 
 
-
+Stage, commit, and push git changes with conventional commit messages.
 
 
 ### 使用领域
 
 
-通用开发、调试、文档、代码规范、工具配置；相关标签：imagen
+通用开发、调试、文档、代码规范、工具配置；相关标签：Git、pushing
 
 
 ### 使用场景
@@ -3260,14 +3821,753 @@ You are a PR optimization expert specializing in creating high-quality pull requ
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：imagen。
+- 在以下情况下可使用本技能：**用户 wants to commit and push changes, mentions pushing to remote, or asks to**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：git、pushing、stage、commit、push、changes、conventional、messages、user、wants、mentions、remote。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
+Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes, mentions pushing to remote, or asks to...
 
+</details>
+
+
+---
+
+## github-issue-creator
+
+
+**中文名**：Github 问题 Creator
+
+
+### 功能
+
+
+转换 raw notes, 错误 logs, voice dictation, or screenshots into crisp GitHub-flavored markdown 问题 reports.
+
+
+**英文原文**：
+
+
+Convert raw notes, error logs, voice dictation, or screenshots into crisp GitHub-flavored markdown issue reports.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：github、问题、creator
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 pastes bug info, 错误 me**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：github、issue、creator、convert、raw、notes、error、logs、voice、dictation、screenshots、crisp。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Convert raw notes, error logs, voice dictation, or screenshots into crisp GitHub-flavored markdown issue reports. Use when the user pastes bug info, error me...
+
+</details>
+
+
+---
+
+## godot-4-migration
+
+
+**中文名**：Godot 4 迁移
+
+
+### 功能
+
+
+Specialized 指南 for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.
+
+
+**英文原文**：
+
+
+Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：godot、4、迁移
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：godot、4、migration、specialized、migrating、gdscript、covering、syntax、changes、tweens、exports。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.
+
+</details>
+
+
+---
+
+## haskell-pro
+
+
+**中文名**：Haskell Pro
+
+
+### 功能
+
+
+专家 Haskell engineer 专攻 高级 类型 系统, pure
+
+
+**英文原文**：
+
+
+Expert Haskell engineer specializing in advanced type systems, pure
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：haskell
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：haskell、pro、engineer、specializing、type、pure。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert Haskell engineer specializing in advanced type systems, pure
+
+</details>
+
+
+---
+
+## hierarchical-agent-memory
+
+
+**中文名**：Hierarchical 智能体 Memory
+
+
+### 功能
+
+
+Scoped CLAUDE.md memory 系统 that reduces context token spend.
+
+
+**英文原文**：
+
+
+Scoped CLAUDE.md memory system that reduces context token spend.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hierarchical、智能体、memory
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hierarchical、agent、memory、scoped、claude、md、reduces、context、token、spend、creates、directory。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Scoped CLAUDE.md memory system that reduces context token spend. Creates directory-level context files, tracks savings via dashboard, and routes agents to th...
+
+</details>
+
+
+---
+
+## hig-components-content
+
+
+**中文名**：Hig Components Content
+
+
+### 功能
+
+
+Apple Human Interface 指南 for content display components.
+
+
+**英文原文**：
+
+
+Apple Human Interface Guidelines for content display components.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components、content
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、content、apple、human、interface、guidelines、display。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple Human Interface Guidelines for content display components.
+
+</details>
+
+
+---
+
+## hig-components-controls
+
+
+**中文名**：Hig Components Controls
+
+
+### 功能
+
+
+Apple HIG guidance for selection and 输入 controls including pickers, toggles, sliders, steppers, segmented controls, combo boxes, text fields, text views, ...
+
+
+**英文原文**：
+
+
+Apple HIG guidance for selection and input controls including pickers, toggles, sliders, steppers, segmented controls, combo boxes, text fields, text views, ...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components、controls
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、controls、apple、guidance、selection、input、including、pickers、toggles、sliders、steppers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple HIG guidance for selection and input controls including pickers, toggles, sliders, steppers, segmented controls, combo boxes, text fields, text views, ...
+
+</details>
+
+
+---
+
+## hig-components-dialogs
+
+
+**中文名**：Hig Components Dialogs
+
+
+### 功能
+
+
+Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.
+
+
+**英文原文**：
+
+
+Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components、dialogs
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、dialogs、apple、guidance、presentation、including、alerts、action、sheets、popovers、digit。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.
+
+</details>
+
+
+---
+
+## hig-components-layout
+
+
+**中文名**：Hig Components Layout
+
+
+### 功能
+
+
+Apple Human Interface 指南 for layout and navigation components.
+
+
+**英文原文**：
+
+
+Apple Human Interface Guidelines for layout and navigation components.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components、layout
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、layout、apple、human、interface、guidelines、navigation。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple Human Interface Guidelines for layout and navigation components.
+
+</details>
+
+
+---
+
+## hig-components-menus
+
+
+**中文名**：Hig Components Menus
+
+
+### 功能
+
+
+Apple HIG guidance for menu and button components including menus, context menus, dock menus, edit menus, the menu bar, toolbars, action buttons, pop-up butt...
+
+
+**英文原文**：
+
+
+Apple HIG guidance for menu and button components including menus, context menus, dock menus, edit menus, the menu bar, toolbars, action buttons, pop-up butt...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components、menus
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、menus、apple、guidance、menu、button、including、context、dock、edit、bar。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple HIG guidance for menu and button components including menus, context menus, dock menus, edit menus, the menu bar, toolbars, action buttons, pop-up butt...
+
+</details>
+
+
+---
+
+## hig-components-search
+
+
+**中文名**：Hig Components 搜索
+
+
+### 功能
+
+
+Apple HIG guidance for navigation-related components including 搜索 fields, page controls, and path controls.
+
+
+**英文原文**：
+
+
+Apple HIG guidance for navigation-related components including search fields, page controls, and path controls.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components、搜索
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、search、apple、guidance、navigation、related、including、fields、page、controls、path。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple HIG guidance for navigation-related components including search fields, page controls, and path controls.
+
+</details>
+
+
+---
+
+## hig-components-status
+
+
+**中文名**：Hig Components Status
+
+
+### 功能
+
+
+Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.
+
+
+**英文原文**：
+
+
+Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components、status
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、status、apple、guidance、progress、ui、including、indicators、bars、activity、rings。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.
+
+</details>
+
+
+---
+
+## hig-components-system
+
+
+**中文名**：Hig Components 系统
+
+
+### 功能
+
+
+Apple HIG guidance for 系统 experience components: widgets, live activities, notifications, complications, home screen quick actions, top shelf, watch face...
+
+
+**英文原文**：
+
+
+Apple HIG guidance for system experience components: widgets, live activities, notifications, complications, home screen quick actions, top shelf, watch face...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、components
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、components、apple、guidance、experience、widgets、live、activities、notifications、complications、home、screen。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple HIG guidance for system experience components: widgets, live activities, notifications, complications, home screen quick actions, top shelf, watch face...
+
+</details>
+
+
+---
+
+## hig-foundations
+
+
+**中文名**：Hig Foundations
+
+
+### 功能
+
+
+Apple Human Interface 指南 设计 foundations.
+
+
+**英文原文**：
+
+
+Apple Human Interface Guidelines design foundations.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、foundations
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、foundations、apple、human、interface、guidelines。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple Human Interface Guidelines design foundations.
+
+</details>
+
+
+---
+
+## hig-platforms
+
+
+**中文名**：Hig Platforms
+
+
+### 功能
+
+
+Apple Human Interface 指南 for platform-specific 设计.
+
+
+**英文原文**：
+
+
+Apple Human Interface Guidelines for platform-specific design.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig、platforms
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、platforms、apple、human、interface、guidelines、platform、specific。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple Human Interface Guidelines for platform-specific design.
+
+</details>
+
+
+---
+
+## hig-project-context
+
+
+**中文名**：Hig 项目 Context
+
+
+### 功能
+
+
+创建 or update a shared Apple 设计 context document that other HIG skills use to tailor guidance.
+
+
+**英文原文**：
+
+
+Create or update a shared Apple design context document that other HIG skills use to tailor guidance.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hig
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、context、update、shared、apple、document、other、skills、tailor、guidance。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Create or update a shared Apple design context document that other HIG skills use to tailor guidance.
+
+</details>
+
+
+---
+
+## hugging-face-cli
+
+
+**中文名**：Hugging Face CLI
+
+
+### 功能
+
+
+Execute Hugging Face Hub operations using the `hf` CLI.
+
+
+**英文原文**：
+
+
+Execute Hugging Face Hub operations using the `hf` CLI.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hugging、face、CLI
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 needs to download 模型/datasets/spaces, upload files to Hub repositories, 创建 **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hugging、face、cli、execute、hub、operations、hf、user、download、models、datasets、spaces。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Execute Hugging Face Hub operations using the `hf` CLI. Use when the user needs to download models/datasets/spaces, upload files to Hub repositories, create ...
+
+</details>
+
+
+---
+
+## hugging-face-jobs
+
+
+**中文名**：Hugging Face Jobs
+
+
+### 功能
+
+
+适用于 users want to run any workload on Hugging Face Jobs 基础设施.
+
+
+**英文原文**：
+
+
+This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：hugging、face、jobs
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**users want to run any workload on Hugging Face Jobs 基础设施**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hugging、face、jobs、skill、should、used、users、want、run、any、workload、infrastructure。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure. Covers UV scripts, Docker-based jobs, hardware selection, ...
 
 </details>
 
@@ -3360,6 +4660,178 @@ Expert in building portfolios that actually land jobs and clients - not just sho
 
 ---
 
+## internal-comms-anthropic
+
+
+**中文名**：Internal Comms Anthropic
+
+
+### 功能
+
+
+A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
+
+
+**英文原文**：
+
+
+A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：internal、comms、anthropic
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：internal、comms、anthropic、set、resources、me、write、all、kinds、communications、formats、my。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenev...
+
+</details>
+
+
+---
+
+## internal-comms-community
+
+
+**中文名**：Internal Comms Community
+
+
+### 功能
+
+
+A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
+
+
+**英文原文**：
+
+
+A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：internal、comms、community
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：internal、comms、community、set、resources、me、write、all、kinds、communications、formats、my。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenev...
+
+</details>
+
+
+---
+
+## inventory-demand-planning
+
+
+**中文名**：Inventory Demand 规划
+
+
+### 功能
+
+
+Codified expertise for demand forecasting, safety stock optimisation, replenishment 规划, and promotional lift estimation at 多-location retailers.
+
+
+**英文原文**：
+
+
+Codified expertise for demand forecasting, safety stock optimisation, replenishment planning, and promotional lift estimation at multi-location retailers.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：inventory、demand、规划
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：inventory、demand、planning、codified、expertise、forecasting、safety、stock、optimisation、replenishment、promotional、lift。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for demand forecasting, safety stock optimisation, replenishment planning, and promotional lift estimation at multi-location retailers.
+
+</details>
+
+
+---
+
+## julia-pro
+
+
+**中文名**：Julia Pro
+
+
+### 功能
+
+
+Master Julia 1.10+ with 现代 功能, 性能 优化, multiple dispatch, and production-ready 实践.
+
+
+**英文原文**：
+
+
+Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：julia
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：julia、pro、10、features、performance、optimization、multiple、dispatch。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.
+
+</details>
+
+
+---
+
 ## last30days
 
 
@@ -3440,6 +4912,49 @@ Refactor legacy codebases, migrate outdated frameworks, and implement gradual mo
 <summary>英文描述（原文）</summary>
 
 Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compati...
+
+</details>
+
+
+---
+
+## lightning-factory-explainer
+
+
+**中文名**：Lightning Factory Explainer
+
+
+### 功能
+
+
+Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeou...
+
+
+**英文原文**：
+
+
+Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeou...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：lightning、factory、explainer
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：lightning、factory、explainer、explain、bitcoin、channel、factories、superscalar、protocol、scalable、onboarding、shared。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeou...
 
 </details>
 
@@ -3608,7 +5123,7 @@ This skill should be used when the user asks to "create bash scripts", "automate
 
 - 在以下情况下可使用本技能：**the 用户 asks to "创建 bash scripts", "自动化 Linux tasks", "监控 系统 resources", "备份 files", "manage users", or**。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：linux、shell、scripting、scripts、skill、should、used、user、asks、bash、automate、tasks。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：linux、shell、scripting、skill、should、used、user、asks、bash、scripts、automate、tasks。
 
 
 
@@ -3616,6 +5131,135 @@ This skill should be used when the user asks to "create bash scripts", "automate
 <summary>英文描述（原文）</summary>
 
 This skill should be used when the user asks to "create bash scripts", "automate Linux tasks", "monitor system resources", "backup files", "manage users", or...
+
+</details>
+
+
+---
+
+## logistics-exception-management
+
+
+**中文名**：Logistics Exception 管理
+
+
+### 功能
+
+
+Codified expertise for 处理 freight exceptions, shipment delays, damages, losses, and carrier disputes.
+
+
+**英文原文**：
+
+
+Codified expertise for handling freight exceptions, shipment delays, damages, losses, and carrier disputes.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：logistics、exception
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：logistics、exception、codified、expertise、handling、freight、exceptions、shipment、delays、damages、losses、carrier。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for handling freight exceptions, shipment delays, damages, losses, and carrier disputes. Informed by logistics professionals with 15+ year...
+
+</details>
+
+
+---
+
+## mcp-builder
+
+
+**中文名**：MCP 构建器
+
+
+### 功能
+
+
+指南 for creating 高-quality MCP (模型 Context Protocol) servers that enable LLMs to interact with external 服务 through well-designed tools.
+
+
+**英文原文**：
+
+
+Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：MCP、构建器
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mcp、builder、creating、high、quality、model、context、protocol、servers、enable、llms、interact。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use whe...
+
+</details>
+
+
+---
+
+## mcp-builder-ms
+
+
+**中文名**：MCP 构建器 Ms
+
+
+### 功能
+
+
+指南 for creating 高-quality MCP (模型 Context Protocol) servers that enable LLMs to interact with external 服务 through well-designed tools.
+
+
+**英文原文**：
+
+
+Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：MCP、构建器、ms
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mcp、builder、ms、creating、high、quality、model、context、protocol、servers、enable、llms。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use whe...
 
 </details>
 
@@ -3665,6 +5309,49 @@ Design short-term, long-term, and graph-based memory architectures
 
 ---
 
+## mermaid-expert
+
+
+**中文名**：Mermaid 专家
+
+
+### 功能
+
+
+创建 Mermaid diagrams for flowcharts, sequences, ERDs, and architectures.
+
+
+**英文原文**：
+
+
+Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：mermaid
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mermaid、diagrams、flowcharts、sequences、erds、architectures、masters、syntax、all、diagram、types、styling。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.
+
+</details>
+
+
+---
+
 ## micro-saas-launcher
 
 
@@ -3708,6 +5395,49 @@ Expert in launching small, focused SaaS products fast - the indie hacker approac
 
 ---
 
+## minecraft-bukkit-pro
+
+
+**中文名**：Minecraft Bukkit Pro
+
+
+### 功能
+
+
+Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.
+
+
+**英文原文**：
+
+
+Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：minecraft、bukkit
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：minecraft、bukkit、pro、server、plugin、development、spigot、paper、apis。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.
+
+</details>
+
+
+---
+
 ## monorepo-management
 
 
@@ -3745,6 +5475,51 @@ Master monorepo management with Turborepo, Nx, and pnpm workspaces to build effi
 <summary>英文描述（原文）</summary>
 
 Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable multi-package repositories with optimized builds and dependen...
+
+</details>
+
+
+---
+
+## n8n-mcp-tools-expert
+
+
+**中文名**：N8n MCP Tools 专家
+
+
+### 功能
+
+
+专家 指南 for using n8n-MCP MCP tools effectively.
+
+
+**英文原文**：
+
+
+Expert guide for using n8n-mcp MCP tools effectively.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：n8n、MCP
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**searching for nodes, validating configurations, accessing templates, 管理 workflows, or us**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：n8n、mcp、effectively、searching、nodes、validating、configurations、accessing、managing、any、provides、sele。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or us...
 
 </details>
 
@@ -3970,6 +5745,49 @@ Automatically hunt for high-impact OSS contribution opportunities in trending re
 
 ---
 
+## page-cro
+
+
+**中文名**：Page Cro
+
+
+### 功能
+
+
+分析 and 优化 individual pages for conversion 性能.
+
+
+**英文原文**：
+
+
+Analyze and optimize individual pages for conversion performance.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：page、cro
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：page、cro、analyze、optimize、individual、pages、conversion、performance。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Analyze and optimize individual pages for conversion performance.
+
+</details>
+
+
+---
+
 ## paid-ads
 
 
@@ -4052,6 +5870,137 @@ Integrate PayPal payment processing with support for express checkout, subscript
 <summary>英文描述（原文）</summary>
 
 Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processin...
+
+</details>
+
+
+---
+
+## paywall-upgrade-cro
+
+
+**中文名**：Paywall 升级 Cro
+
+
+### 功能
+
+
+When the 用户 wants to 创建 or 优化 in-应用 paywalls, 升级 screens, upsell modals, or 功能 gates.
+
+
+**英文原文**：
+
+
+When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：paywall、升级、cro
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：paywall、upgrade、cro、user、wants、optimize、app、paywalls、screens、upsell、modals、feature。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions "paywall," "upgr...
+
+</details>
+
+
+---
+
+## pdf-official
+
+
+**中文名**：Pdf Official
+
+
+### 功能
+
+
+Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and 处理 forms.
+
+
+**英文原文**：
+
+
+Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：pdf、official
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：pdf、official、manipulation、toolkit、extracting、text、tables、creating、new、pdfs、merging、splitting。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs ...
+
+</details>
+
+
+---
+
+## pentest-commands
+
+
+**中文名**：渗透测试 Commands
+
+
+### 功能
+
+
+适用于 the 用户 asks to "run 渗透测试 commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "run pentest commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：渗透测试、commands
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "run 渗透测试 commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：pentest、commands、skill、should、used、user、asks、run、scan、nmap、metasploit、exploits。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "run pentest commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s...
 
 </details>
 
@@ -4365,6 +6314,94 @@ This skill should be used when the user asks to "escalate privileges", "get root
 
 ---
 
+## production-scheduling
+
+
+**中文名**：Production Scheduling
+
+
+### 功能
+
+
+Codified expertise for production scheduling, job sequencing, line balancing, changeover optimisation, and bottleneck resolution in discrete and batch manufa...
+
+
+**英文原文**：
+
+
+Codified expertise for production scheduling, job sequencing, line balancing, changeover optimisation, and bottleneck resolution in discrete and batch manufa...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：production、scheduling
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：production、scheduling、codified、expertise、job、sequencing、line、balancing、changeover、optimisation、bottleneck、resolution。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for production scheduling, job sequencing, line balancing, changeover optimisation, and bottleneck resolution in discrete and batch manufa...
+
+</details>
+
+
+---
+
+## professional-proofreader
+
+
+**中文名**：Professional Proofreader
+
+
+### 功能
+
+
+适用于 a 用户 asks to "proofread", "评审 and correct", "fix grammar", "改进 readability while keeping my voice", and to proofread a document 文件 and ...
+
+
+**英文原文**：
+
+
+Use when a user asks to "proofread", "review and correct", "fix grammar", "improve readability while keeping my voice", and to proofread a document file and ...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：professional、proofreader
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**a 用户 asks to "proofread", "评审 and correct", "fix grammar", "改进 readability while keeping my voice", and to proofread a document 文件 and **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：professional、proofreader、user、asks、proofread、review、correct、fix、grammar、improve、readability、while。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Use when a user asks to "proofread", "review and correct", "fix grammar", "improve readability while keeping my voice", and to proofread a document file and ...
+
+</details>
+
+
+---
+
 ## prompt-engineer
 
 
@@ -4386,7 +6423,7 @@ Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Cha
 ### 使用领域
 
 
-通用开发、调试、文档、代码规范、工具配置；相关标签：prompt-engineering、优化、frameworks、ai-enhancement
+通用开发、调试、文档、代码规范、工具配置；相关标签：[prompt-engineering、优化、frameworks、ai-enhancement]
 
 
 ### 使用场景
@@ -4394,7 +6431,7 @@ Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Cha
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：prompt-engineering、optimization、frameworks、ai-enhancement、prompt、engineer、transforms、user、prompts、optimized、rtf、risen。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[prompt-engineering、optimization、frameworks、ai-enhancement]、prompt、engineer、transforms、user、prompts、optimized、rtf、risen。
 
 
 
@@ -4451,6 +6488,92 @@ Curated collection of high-quality prompts for various use cases. Includes role-
 
 ---
 
+## quality-nonconformance
+
+
+**中文名**：Quality Nonconformance
+
+
+### 功能
+
+
+Codified expertise for quality control, non-conformance investigation, root cause 分析, corrective action, and supplier quality 管理ment in regulated m...
+
+
+**英文原文**：
+
+
+Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated m...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：quality、nonconformance
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：quality、nonconformance、codified、expertise、control、non、conformance、investigation、root、cause、analysis、corrective。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated m...
+
+</details>
+
+
+---
+
+## readme
+
+
+**中文名**：README
+
+
+### 功能
+
+
+When the 用户 wants to 创建 or update a README.md 文件 for a 项目.
+
+
+**英文原文**：
+
+
+When the user wants to create or update a README.md file for a project.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：README
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：readme、user、wants、update、md、file、says、write、document、documentation、asks、he。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+When the user wants to create or update a README.md file for a project. Also use when the user says 'write readme,' 'create readme,' 'document this project,'...
+
+</details>
+
+
+---
+
 ## receiving-code-review
 
 
@@ -4496,6 +6619,51 @@ Use when receiving code review feedback, before implementing suggestions, especi
 
 ---
 
+## red-team-tools
+
+
+**中文名**：Red Team Tools
+
+
+### 功能
+
+
+适用于 the 用户 asks to "follow red team methodology", "perform bug bounty hunting", "自动化 reconnaissance", "hunt for XSS vulnera...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "follow red team methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt for XSS vulnera...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：red、team
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "follow red team methodology", "perform bug bounty hunting", "自动化 reconnaissance", "hunt for XSS vulnera**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：red、team、skill、should、used、user、asks、follow、methodology、perform、bug、bounty。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "follow red team methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt for XSS vulnera...
+
+</details>
+
+
+---
+
 ## referral-program
 
 
@@ -4525,7 +6693,7 @@ When the user wants to create, optimize, or analyze a referral program, affiliat
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：referral、program、user、wants、optimize、analyze、affiliate、word、mouth、mentions、ambassador、viral。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：referral、program、user、wants、optimize、analyze、affiliate、word、mouth、mentions、ambassador。
 
 
 
@@ -4584,6 +6752,92 @@ Use when completing tasks, implementing major features, or before merging to ver
 
 ---
 
+## returns-reverse-logistics
+
+
+**中文名**：Returns Reverse Logistics
+
+
+### 功能
+
+
+Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims 管理ment.
+
+
+**英文原文**：
+
+
+Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：returns、reverse、logistics
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：returns、reverse、logistics、codified、expertise、authorisation、receipt、inspection、disposition、decisions、refund、processing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.
+
+</details>
+
+
+---
+
+## reverse-engineer
+
+
+**中文名**：Reverse Engineer
+
+
+### 功能
+
+
+专家 reverse engineer 专攻 binary 分析, disassembly, decompilation, and software 分析.
+
+
+**英文原文**：
+
+
+Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：reverse
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：reverse、engineer、specializing、binary、analysis、disassembly、decompilation、software、masters、ida、pro、ghidra。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis. Masters IDA Pro, Ghidra, radare2, x64dbg, and mod...
+
+</details>
+
+
+---
+
 ## search-specialist
 
 
@@ -4593,13 +6847,13 @@ Use when completing tasks, implementing major features, or before merging to ver
 ### 功能
 
 
-专家 Web researcher using 高级 搜索 techniques and synthesis.
+专家 Web researcher using 高级 搜索 techniques and
 
 
 **英文原文**：
 
 
-Expert web researcher using advanced search techniques and synthesis.
+Expert web researcher using advanced search techniques and
 
 
 ### 使用领域
@@ -4613,14 +6867,57 @@ Expert web researcher using advanced search techniques and synthesis.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：search、web、researcher、techniques、synthesis、masters、operators、result、filtering、multi、source、verification。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：search、web、researcher、techniques。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles comp...
+Expert web researcher using advanced search techniques and
+
+</details>
+
+
+---
+
+## shader-programming-glsl
+
+
+**中文名**：Shader Programming Glsl
+
+
+### 功能
+
+
+专家 指南 for writing efficient GLSL shaders (Vertex/Fragment) for Web and game engines, covering syntax, uniforms, and common effects.
+
+
+**英文原文**：
+
+
+Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：shader、programming、glsl
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：shader、programming、glsl、writing、efficient、shaders、vertex、fragment、web、game、engines、covering。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects.
 
 </details>
 
@@ -4715,6 +7012,51 @@ Master ShellCheck static analysis configuration and usage for shell script quali
 
 ---
 
+## shodan-reconnaissance
+
+
+**中文名**：Shodan Reconnaissance
+
+
+### 功能
+
+
+适用于 the 用户 asks to "搜索 for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable 服务 usin...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to "search for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable services usin...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：shodan、reconnaissance
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to "搜索 for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable 服务 usin**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：shodan、reconnaissance、skill、should、used、user、asks、search、exposed、devices、internet、perform。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to "search for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable services usin...
+
+</details>
+
+
+---
+
 ## signup-flow-cro
 
 
@@ -4758,6 +7100,51 @@ When the user wants to optimize signup, registration, account creation, or trial
 
 ---
 
+## skill-creator
+
+
+**中文名**：Skill Creator
+
+
+### 功能
+
+
+适用于 the 用户 asks to 创建 a new skill, 构建 a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with ...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to create a new skill, build a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with ...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：[automation、scaffolding、skill-creation、meta-skill]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to 创建 a new skill, 构建 a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[automation、scaffolding、skill-creation、meta-skill]、skill、creator、should、used、user、asks、new、custom。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to create a new skill, build a skill, make a custom skill, develop a CLI skill, or wants to extend the CLI with ...
+
+</details>
+
+
+---
+
 ## skill-rails-upgrade
 
 
@@ -4795,6 +7182,51 @@ Analyze Rails apps and provide upgrade assessments
 <summary>英文描述（原文）</summary>
 
 Analyze Rails apps and provide upgrade assessments
+
+</details>
+
+
+---
+
+## skill-router
+
+
+**中文名**：Skill Router
+
+
+### 功能
+
+
+适用于 the 用户 is unsure which skill to use or where to start.
+
+
+**英文原文**：
+
+
+Use when the user is unsure which skill to use or where to start.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：skill、router
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 is unsure which skill to use or where to start**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：skill、router、user、unsure、which、where、start、interviews、targeted、questions、recommends、installed。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Use when the user is unsure which skill to use or where to start. Interviews the user with targeted questions and recommends the best skill(s) from the insta...
 
 </details>
 
@@ -4977,6 +7409,51 @@ Lab environment for Claude superpowers
 
 ---
 
+## team-composition-analysis
+
+
+**中文名**：Team Composition 分析
+
+
+### 功能
+
+
+适用于 the 用户 asks to \\\"计划 team structure", "determine hiring needs", "设计 org chart", "calculate compensation", "计划 equit...
+
+
+**英文原文**：
+
+
+This skill should be used when the user asks to \\\"plan team structure", "determine hiring needs", "design org chart", "calculate compensation", "plan equit...
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：team、composition
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks to \\\"计划 team structure", "determine hiring needs", "设计 org chart", "calculate compensation", "计划 equit**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：team、composition、analysis、skill、should、used、user、asks、plan、structure、determine、hiring。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+This skill should be used when the user asks to \\\"plan team structure", "determine hiring needs", "design org chart", "calculate compensation", "plan equit...
+
+</details>
+
+
+---
+
 ## theme-factory
 
 
@@ -5029,13 +7506,13 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 ### 功能
 
 
-Three.js skills for creating 3D elements and interactive experiences
+创建 3D scenes, interactive experiences, and visual effects using Three.js.
 
 
 **英文原文**：
 
 
-Three.js skills for creating 3D elements and interactive experiences
+Create 3D scenes, interactive experiences, and visual effects using Three.js.
 
 
 ### 使用领域
@@ -5049,14 +7526,16 @@ Three.js skills for creating 3D elements and interactive experiences
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：threejs、skills、three、js、creating、3d、elements、interactive、experiences。
+- 在以下情况下可使用本技能：**用户 requests 3D graphics, WebGL experiences, 3D visualizations, anima**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：threejs、skills、3d、scenes、interactive、experiences、visual、effects、three、js、user、requests。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Three.js skills for creating 3D elements and interactive experiences
+Create 3D scenes, interactive experiences, and visual effects using Three.js. Use when user requests 3D graphics, WebGL experiences, 3D visualizations, anima...
 
 </details>
 
@@ -5144,7 +7623,7 @@ Creates step-by-step tutorials and educational content from code.
 <details>
 <summary>英文描述（原文）</summary>
 
-Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. U...
+Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples.
 
 </details>
 
@@ -5223,14 +7702,14 @@ Create interface designs, wireframes, and design systems.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ui、ux、designer、interface、designs、wireframes、masters、user、research、accessibility、standards、specializes。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：ui、ux、designer、interface、designs、wireframes、masters、user、research、accessibility、standards。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design toke...
+Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools.
 
 </details>
 
@@ -5458,6 +7937,49 @@ Use when about to claim work is complete, fixed, or passing, before committing o
 
 ---
 
+## videodb
+
+
+**中文名**：Videodb
+
+
+### 功能
+
+
+视频 and 音频 perception, 索引, and editing.
+
+
+**英文原文**：
+
+
+Video and audio perception, indexing, and editing.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：[video、editing、transcription、subtitles、搜索、流处理
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[video、editing、transcription、subtitles、search、streaming、ai-generation、media、live-streams、desktop-capture]、videodb、video。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add o...
+
+</details>
+
+
+---
+
 ## web-performance-optimization
 
 
@@ -5495,6 +8017,184 @@ Optimize website and web application performance including loading speed, Core W
 <summary>英文描述（原文）</summary>
 
 Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance
+
+</details>
+
+
+---
+
+## wiki-architect
+
+
+**中文名**：Wiki 架构师
+
+
+### 功能
+
+
+分析s 代码 repositories and 生成s hierarchical 文档 structures with onboarding guides.
+
+
+**英文原文**：
+
+
+Analyzes code repositories and generates hierarchical documentation structures with onboarding guides.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：wiki
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 wants to 创建 a wiki, 生成 文档**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wiki、architect、analyzes、code、repositories、generates、hierarchical、documentation、structures、onboarding、guides、user。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Analyzes code repositories and generates hierarchical documentation structures with onboarding guides. Use when the user wants to create a wiki, generate doc...
+
+</details>
+
+
+---
+
+## wiki-changelog
+
+
+**中文名**：Wiki 变更日志
+
+
+### 功能
+
+
+分析s Git commit history and 生成s structured changelogs categorized by change 类型.
+
+
+**英文原文**：
+
+
+Analyzes git commit history and generates structured changelogs categorized by change type.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：wiki、变更日志
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**the 用户 asks about recent changes, wants a 变更日志, o**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wiki、changelog、analyzes、git、commit、history、generates、structured、changelogs、categorized、change、type。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Analyzes git commit history and generates structured changelogs categorized by change type. Use when the user asks about recent changes, wants a changelog, o...
+
+</details>
+
+
+---
+
+## wiki-page-writer
+
+
+**中文名**：Wiki Page Writer
+
+
+### 功能
+
+
+生成s rich technical 文档 pages with dark-mode Mermaid diagrams, 源码 代码 citations, and first-principles depth.
+
+
+**英文原文**：
+
+
+Generates rich technical documentation pages with dark-mode Mermaid diagrams, source code citations, and first-principles depth.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：wiki、page、writer
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**编写 documentati**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wiki、page、writer、generates、rich、technical、documentation、pages、dark、mode、mermaid、diagrams。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Generates rich technical documentation pages with dark-mode Mermaid diagrams, source code citations, and first-principles depth. Use when writing documentati...
+
+</details>
+
+
+---
+
+## wiki-vitepress
+
+
+**中文名**：Wiki Vitepress
+
+
+### 功能
+
+
+Packages 生成d wiki Markdown into a VitePress static site with dark theme, dark-mode Mermaid diagrams with click-to-zoom, and production 构建 输出.
+
+
+**英文原文**：
+
+
+Packages generated wiki Markdown into a VitePress static site with dark theme, dark-mode Mermaid diagrams with click-to-zoom, and production build output.
+
+
+### 使用领域
+
+
+通用开发、调试、文档、代码规范、工具配置；相关标签：wiki、vitepress
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wiki、vitepress、packages、generated、markdown、static、site、dark、theme、mode、mermaid、diagrams。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Packages generated wiki Markdown into a VitePress static site with dark theme, dark-mode Mermaid diagrams with click-to-zoom, and production build output. Us...
 
 </details>
 
@@ -5700,7 +8400,7 @@ Extract transcripts from YouTube videos and generate comprehensive, detailed sum
 ### 使用领域
 
 
-通用开发、调试、文档、代码规范、工具配置；相关标签：视频、summarization、transcription、youtube、content-analysis
+通用开发、调试、文档、代码规范、工具配置；相关标签：[video、summarization、transcription、youtube、content-analysis]
 
 
 ### 使用场景
@@ -5708,7 +8408,7 @@ Extract transcripts from YouTube videos and generate comprehensive, detailed sum
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：video、summarization、transcription、youtube、content-analysis、summarizer、extract、transcripts、videos、generate、detailed、summaries。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[video、summarization、transcription、youtube、content-analysis]、summarizer、extract、transcripts、videos、generate、detailed、summaries。
 
 
 

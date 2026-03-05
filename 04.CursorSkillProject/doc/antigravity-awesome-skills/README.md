@@ -8,15 +8,15 @@
 | 文件 | 说明 |
 |------|------|
 | [00_分类索引.md](00_分类索引.md) | 按 CATALOG 的 9 大分类总览，含各分类技能数量与链接 |
-| skills_architecture.md | **架构与设计**（63 个） |
-| skills_business.md | **商业与营销**（38 个） |
-| skills_data-ai.md | **数据与 AI**（99 个） |
-| skills_development.md | **开发与实现**（83 个） |
-| skills_general.md | **通用与综合**（131 个） |
-| skills_infrastructure.md | **基础设施与运维**（83 个） |
-| skills_security.md | **安全与合规**（114 个） |
-| skills_testing.md | **测试与质量**（23 个） |
-| skills_workflow.md | **工作流与协作**（81 个） |
+| skills_architecture.md | **架构与设计**（67 个） |
+| skills_business.md | **商业与营销**（43 个） |
+| skills_data-ai.md | **数据与 AI**（179 个） |
+| skills_development.md | **开发与实现**（146 个） |
+| skills_general.md | **通用与综合**（193 个） |
+| skills_infrastructure.md | **基础设施与运维**（115 个） |
+| skills_security.md | **安全与合规**（116 个） |
+| skills_testing.md | **测试与质量**（32 个） |
+| skills_workflow.md | **工作流与协作**（87 个） |
 | [Android_开发相关_Skills.md](Android_开发相关_Skills.md) | **Android 开发**：适用于 Android 系统开发的技能汇总 |
 | [如何使用_Skills.md](如何使用_Skills.md) | 手把手教程：如何安装与使用 Cursor Skills |
 
@@ -44,5 +44,5 @@
 
 ## 统计
 
-- **总技能数**：715
+- **总技能数**：978
 - **分类数**：9（architecture, business, data-ai, development, general, infrastructure, security, testing, workflow）

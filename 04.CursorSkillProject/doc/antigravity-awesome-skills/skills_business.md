@@ -1,6 +1,92 @@
 # 商业与营销（business）
 
-共 38 个技能。
+共 43 个技能。
+
+
+---
+
+## apify-competitor-intelligence
+
+
+**中文名**：Apify Competitor Intelligence
+
+
+### 功能
+
+
+分析 competitor strategies, content, 定价, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.
+
+
+**英文原文**：
+
+
+Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：apify、competitor、intelligence
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、competitor、intelligence、analyze、content、pricing、ads、market、positioning、google、maps、booking。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.
+
+</details>
+
+
+---
+
+## apify-market-research
+
+
+**中文名**：Apify Market Research
+
+
+### 功能
+
+
+分析 market conditions, geographic opportunities, 定价, consumer behavior, and product 校验 across Google Maps, Facebook, Instagram, Booking.com,...
+
+
+**英文原文**：
+
+
+Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com,...
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：apify、market、research
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、market、research、analyze、conditions、geographic、opportunities、pricing、consumer、behavior、product、validation。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com,...
+
+</details>
 
 
 ---
@@ -14,13 +100,13 @@
 ### 功能
 
 
-适用于 the 用户 asks to "分析 competitors", "assess competitive landscape", "identify differentiation", "evaluate market positioni...
+适用于 the 用户 asks to \\\"分析 competitors", "assess competitive landscape", "identify differentiation", "evaluate market positi...
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks to "analyze competitors", "assess competitive landscape", "identify differentiation", "evaluate market positioni...
+This skill should be used when the user asks to \\\"analyze competitors", "assess competitive landscape", "identify differentiation", "evaluate market positi...
 
 
 ### 使用领域
@@ -34,7 +120,7 @@ This skill should be used when the user asks to "analyze competitors", "assess c
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks to "分析 competitors", "assess competitive landscape", "identify differentiation", "evaluate market positioni**。
+- 在以下情况下可使用本技能：**the 用户 asks to \\\"分析 competitors", "assess competitive landscape", "identify differentiation", "evaluate market positi**。
 
 - **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：competitive、landscape、skill、should、used、user、asks、analyze、competitors、assess、identify、differentiation。
 
@@ -43,7 +129,50 @@ This skill should be used when the user asks to "analyze competitors", "assess c
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when the user asks to "analyze competitors", "assess competitive landscape", "identify differentiation", "evaluate market positioni...
+This skill should be used when the user asks to \\\"analyze competitors", "assess competitive landscape", "identify differentiation", "evaluate market positi...
+
+</details>
+
+
+---
+
+## competitor-alternatives
+
+
+**中文名**：Competitor Alternatives
+
+
+### 功能
+
+
+When the 用户 wants to 创建 competitor comparison or alternative pages for SEO 搜索引擎优化 and sales enablement.
+
+
+**英文原文**：
+
+
+When the user wants to create competitor comparison or alternative pages for SEO and sales enablement.
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：competitor、alternatives
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：competitor、alternatives、user、wants、comparison、alternative、pages、seo、sales、enablement、mentions、page。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'v...
 
 </details>
 
@@ -233,13 +362,13 @@ When the user wants to edit, review, or improve existing marketing copy. Also us
 ### 功能
 
 
-适用于 writing, rewriting, or improving marketing copy for any page (homepage, landing page, 定价, 功能, product, or about page).
+Write rigorous, conversion-focused marketing copy for landing pages and emails.
 
 
 **英文原文**：
 
 
-Use this skill when writing, rewriting, or improving marketing copy for any page (homepage, landing page, pricing, feature, product, or about page).
+Write rigorous, conversion-focused marketing copy for landing pages and emails.
 
 
 ### 使用领域
@@ -253,16 +382,14 @@ Use this skill when writing, rewriting, or improving marketing copy for any page
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**编写, re编写, or 改进 marketing copy for any page (homepage, landing page, 定价, 功能, product, or about page)**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：copywriting、skill、writing、rewriting、improving、marketing、copy、any、page、homepage、landing、pricing。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：copywriting、write、rigorous、conversion、marketing、copy、landing、pages、emails、enforces、brief、confirmation。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Use this skill when writing, rewriting, or improving marketing copy for any page (homepage, landing page, pricing, feature, product, or about page). This ski...
+Write rigorous, conversion-focused marketing copy for landing pages and emails. Enforces brief confirmation and strict no-fabrication rules.
 
 </details>
 
@@ -351,6 +478,49 @@ Implement DeFi protocols with production-ready templates for staking, AMMs, gove
 <summary>英文描述（原文）</summary>
 
 Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applicat...
+
+</details>
+
+
+---
+
+## email-systems
+
+
+**中文名**：邮件 系统
+
+
+### 功能
+
+
+邮件 has the highest ROI of any marketing channel.
+
+
+**英文原文**：
+
+
+Email has the highest ROI of any marketing channel.
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：邮件
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：email、highest、roi、any、marketing、channel、36、every、spent、yet、most、startups。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, ...
 
 </details>
 
@@ -524,7 +694,95 @@ Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and lea
 <details>
 <summary>英文描述（原文）</summary>
 
-Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdic...
+Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.
+
+</details>
+
+
+---
+
+## linkedin-cli
+
+
+**中文名**：Linkedin CLI
+
+
+### 功能
+
+
+适用于 automating LinkedIn via CLI: fetch profiles, 搜索 people/companies, send messages, 管理 connections, 创建 posts, and Sales Navigator.
+
+
+**英文原文**：
+
+
+Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator.
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：linkedin、CLI
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**自动化 LinkedIn via CLI: fetch profiles, 搜索 people/companies, send messages, manage connections, 创建 posts, and Sales Navigator**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：linkedin、cli、automating、via、fetch、profiles、search、people、companies、send、messages、connections。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator.
+
+</details>
+
+
+---
+
+## local-legal-seo-audit
+
+
+**中文名**：Local Legal SEO 搜索引擎优化 审计
+
+
+### 功能
+
+
+审计 and 改进 local SEO 搜索引擎优化 for law firms, attorneys, forensic experts and legal/professional 服务 sites with local presence, focusing on GBP, directorie...
+
+
+**英文原文**：
+
+
+Audit and improve local SEO for law firms, attorneys, forensic experts and legal/professional services sites with local presence, focusing on GBP, directorie...
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：local、legal、SEO 搜索引擎优化、审计
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：local、legal、seo、audit、improve、law、firms、attorneys、forensic、experts、professional、sites。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Audit and improve local SEO for law firms, attorneys, forensic experts and legal/professional services sites with local presence, focusing on GBP, directorie...
 
 </details>
 
@@ -540,13 +798,13 @@ Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and lea
 ### 功能
 
 
-适用于 the 用户 asks to "calculate TAM", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "what's ...
+适用于 the 用户 asks to \\\"calculate TAM\\\", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "w...
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "what's ...
+This skill should be used when the user asks to \\\"calculate TAM\\\", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "w...
 
 
 ### 使用领域
@@ -560,7 +818,7 @@ This skill should be used when the user asks to "calculate TAM", "determine SAM"
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks to "calculate TAM", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "what's **。
+- 在以下情况下可使用本技能：**the 用户 asks to \\\"calculate TAM\\\", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "w**。
 
 - **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：market、sizing、analysis、skill、should、used、user、asks、calculate、tam、determine、sam。
 
@@ -569,7 +827,7 @@ This skill should be used when the user asks to "calculate TAM", "determine SAM"
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "what's ...
+This skill should be used when the user asks to \\\"calculate TAM\\\", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "w...
 
 </details>
 
@@ -699,94 +957,6 @@ Expert in building and selling Notion templates as a business - not just making 
 <summary>英文描述（原文）</summary>
 
 Expert in building and selling Notion templates as a business - not just making templates, but building a sustainable digital product business. Covers templa...
-
-</details>
-
-
----
-
-## page-cro
-
-
-**中文名**：Page Cro
-
-
-### 功能
-
-
-分析 and 优化 individual pages for conversion 性能.
-
-
-**英文原文**：
-
-
-Analyze and optimize individual pages for conversion performance.
-
-
-### 使用领域
-
-
-商业策略、市场营销、SEO、内容创作、客户运营；相关标签：page、cro
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 wants to 改进 conversion rates, diagnose why a page is underperforming**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：page、cro、analyze、optimize、individual、pages、conversion、performance、user、wants、improve、rates。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Analyze and optimize individual pages for conversion performance. Use when the user wants to improve conversion rates, diagnose why a page is underperforming...
-
-</details>
-
-
----
-
-## paywall-upgrade-cro
-
-
-**中文名**：Paywall 升级 Cro
-
-
-### 功能
-
-
-When the 用户 wants to 创建 or 优化 in-应用 paywalls, 升级 screens, upsell modals, or 功能 gates.
-
-
-**英文原文**：
-
-
-When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates.
-
-
-### 使用领域
-
-
-商业策略、市场营销、SEO、内容创作、客户运营；相关标签：paywall、升级、cro
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：paywall、upgrade、cro、user、wants、optimize、app、paywalls、screens、upsell、modals、feature。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions "paywall," "upgr...
 
 </details>
 
@@ -961,6 +1131,49 @@ Expert in building immersive scroll-driven experiences - parallax storytelling, 
 <summary>英文描述（原文）</summary>
 
 Expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, interactive narratives, and cinematic web experiences. Lik...
+
+</details>
+
+
+---
+
+## seo-audit
+
+
+**中文名**：SEO 搜索引擎优化 审计
+
+
+### 功能
+
+
+Diagnose and 审计 SEO 搜索引擎优化 issues affecting crawlability, indexation, rankings, and organic 性能.
+
+
+**英文原文**：
+
+
+Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：SEO 搜索引擎优化、审计
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：seo、audit、diagnose、issues、affecting、crawlability、indexation、rankings、organic、performance。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
 
 </details>
 
@@ -1218,7 +1431,7 @@ Core principles of SEO including E-E-A-T, Core Web Vitals, technical foundations
 <details>
 <summary>英文描述（原文）</summary>
 
-Core principles of SEO including E-E-A-T, Core Web Vitals, technical foundations, content quality, and how modern search engines evaluate pages. This skill e...
+Core principles of SEO including E-E-A-T, Core Web Vitals, technical foundations, content quality, and how modern search engines evaluate pages.
 
 </details>
 
@@ -1397,6 +1610,49 @@ Analyzes and optimizes content structure including header hierarchy, suggests sc
 
 ---
 
+## startup-analyst
+
+
+**中文名**：Startup Analyst
+
+
+### 功能
+
+
+专家 startup business analyst 专攻 market sizing, financial modeling, competitive 分析, and strategic 规划 for early-stage companies.
+
+
+**英文原文**：
+
+
+Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
+
+
+### 使用领域
+
+
+商业策略、市场营销、SEO、内容创作、客户运营；相关标签：startup、analyst
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：startup、analyst、business、specializing、market、sizing、financial、modeling、competitive、analysis、strategic、planning。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
+
+</details>
+
+
+---
+
 ## startup-business-analyst-business-case
 
 
@@ -1535,13 +1791,13 @@ Generate comprehensive market opportunity analysis with TAM/SAM/SOM calculations
 ### 功能
 
 
-适用于 the 用户 asks to "创建 financial projections", "构建 a financial 模型", "forecast revenue", "calculate burn rate", "estima...
+适用于 the 用户 asks to \\\"创建 financial projections", "构建 a financial 模型", "forecast revenue", "calculate burn rate", "est...
 
 
 **英文原文**：
 
 
-This skill should be used when the user asks to "create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "estima...
+This skill should be used when the user asks to \\\"create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "est...
 
 
 ### 使用领域
@@ -1555,7 +1811,7 @@ This skill should be used when the user asks to "create financial projections", 
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**the 用户 asks to "创建 financial projections", "构建 a financial 模型", "forecast revenue", "calculate burn rate", "estima**。
+- 在以下情况下可使用本技能：**the 用户 asks to \\\"创建 financial projections", "构建 a financial 模型", "forecast revenue", "calculate burn rate", "est**。
 
 - **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：startup、financial、modeling、skill、should、used、user、asks、projections、model、forecast、revenue。
 
@@ -1564,52 +1820,7 @@ This skill should be used when the user asks to "create financial projections", 
 <details>
 <summary>英文描述（原文）</summary>
 
-This skill should be used when the user asks to "create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "estima...
-
-</details>
-
-
----
-
-## team-composition-analysis
-
-
-**中文名**：Team Composition 分析
-
-
-### 功能
-
-
-适用于 the 用户 asks to "计划 team structure", "determine hiring needs", "设计 org chart", "calculate compensation", "计划 equity a...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "plan team structure", "determine hiring needs", "design org chart", "calculate compensation", "plan equity a...
-
-
-### 使用领域
-
-
-商业策略、市场营销、SEO、内容创作、客户运营；相关标签：team、composition
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "计划 team structure", "determine hiring needs", "设计 org chart", "calculate compensation", "计划 equity a**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：team、composition、analysis、skill、should、used、user、asks、plan、structure、determine、hiring。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "plan team structure", "determine hiring needs", "design org chart", "calculate compensation", "plan equity a...
+This skill should be used when the user asks to \\\"create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "est...
 
 </details>
 

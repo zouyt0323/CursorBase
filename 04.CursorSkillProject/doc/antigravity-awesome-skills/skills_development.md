@@ -1,6 +1,6 @@
 # 开发与实现（development）
 
-共 83 个技能。
+共 146 个技能。
 
 
 ---
@@ -91,6 +91,92 @@ Expert patterns for Algolia search implementation, indexing strategies, React In
 
 ---
 
+## android-jetpack-compose-expert
+
+
+**中文名**：Android Jetpack Compose 专家
+
+
+### 功能
+
+
+专家 guidance for building 现代 Android UIs with Jetpack Compose, covering 状态管理, navigation, 性能, and Material 设计 3.
+
+
+**英文原文**：
+
+
+Expert guidance for building modern Android UIs with Jetpack Compose, covering state management, navigation, performance, and Material Design 3.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Android、jetpack、compose
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：android、jetpack、compose、guidance、building、uis、covering、state、navigation、performance、material。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert guidance for building modern Android UIs with Jetpack Compose, covering state management, navigation, performance, and Material Design 3.
+
+</details>
+
+
+---
+
+## android_ui_verification
+
+
+**中文名**：Android UI Verification
+
+
+### 功能
+
+
+自动化d 端到端 UI 测试 and verification on an Android Emulator using ADB.
+
+
+**英文原文**：
+
+
+Automated end-to-end UI testing and verification on an Android Emulator using ADB.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：android_ui_verification
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：android_ui_verification、android、ui、verification、automated、testing、emulator、adb。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Automated end-to-end UI testing and verification on an Android Emulator using ADB.
+
+</details>
+
+
+---
+
 ## api-design-principles
 
 
@@ -130,6 +216,49 @@ Master REST and GraphQL API design principles to build intuitive, scalable, and 
 <summary>英文描述（原文）</summary>
 
 Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, revie...
+
+</details>
+
+
+---
+
+## api-documentation
+
+
+**中文名**：API 文档
+
+
+### 功能
+
+
+API 文档 工作流 for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API 文档.
+
+
+**英文原文**：
+
+
+API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：API、文档
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：api、documentation、generating、openapi、specs、creating、developer、guides、maintaining。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.
 
 </details>
 
@@ -355,6 +484,618 @@ Master Python asyncio, concurrent programming, and async/await patterns for high
 
 ---
 
+## azure-appconfiguration-java
+
+
+**中文名**：Azure Appconfiguration Java
+
+
+### 功能
+
+
+Azure 应用 配置 SDK for Java.
+
+
+**英文原文**：
+
+
+Azure App Configuration SDK for Java.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、appconfiguration、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、appconfiguration、java、app、configuration、sdk、centralized、application、key、value、settings、feature。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure App Configuration SDK for Java. Centralized application configuration management with key-value settings, feature flags, and snapshots.
+
+</details>
+
+
+---
+
+## azure-appconfiguration-py
+
+
+**中文名**：Azure Appconfiguration Py
+
+
+### 功能
+
+
+Azure 应用 配置 SDK for Python.
+
+
+**英文原文**：
+
+
+Azure App Configuration SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、appconfiguration、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、appconfiguration、py、app、configuration、sdk、python、centralized、feature、flags、dynamic、settings。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure App Configuration SDK for Python. Use for centralized configuration management, feature flags, and dynamic settings.
+
+</details>
+
+
+---
+
+## azure-appconfiguration-ts
+
+
+**中文名**：Azure Appconfiguration Ts
+
+
+### 功能
+
+
+构建 applications using Azure 应用 配置 SDK for JavaScript (@Azure/应用-配置).
+
+
+**英文原文**：
+
+
+Build applications using Azure App Configuration SDK for JavaScript (@azure/app-configuration).
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、appconfiguration、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**使用或处理 配置 settings, 功能 flags, **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、appconfiguration、ts、applications、app、configuration、sdk、javascript、working、settings、feature、flags。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build applications using Azure App Configuration SDK for JavaScript (@azure/app-configuration). Use when working with configuration settings, feature flags, ...
+
+</details>
+
+
+---
+
+## azure-communication-callingserver-java
+
+
+**中文名**：Azure Communication Callingserver Java
+
+
+### 功能
+
+
+Azure Communication 服务 CallingServer (遗留) Java SDK.
+
+
+**英文原文**：
+
+
+Azure Communication Services CallingServer (legacy) Java SDK.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、communication、callingserver、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、communication、callingserver、java、legacy、sdk、note、deprecated、callautomation、instead、new、skill。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is deprecated. Use azure-communication-callautomation instead for new projects....
+
+</details>
+
+
+---
+
+## azure-communication-chat-java
+
+
+**中文名**：Azure Communication 聊天 Java
+
+
+### 功能
+
+
+构建 实时 聊天 applications with Azure Communication 服务 聊天 Java SDK.
+
+
+**英文原文**：
+
+
+Build real-time chat applications with Azure Communication Services Chat Java SDK.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、communication、聊天、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 聊天 threads, 消息通信, participants, read receipts**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、communication、chat、java、real、time、applications、sdk、implementing、threads、messaging、participants。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, messaging, participants, read receipts...
+
+</details>
+
+
+---
+
+## azure-communication-common-java
+
+
+**中文名**：Azure Communication Common Java
+
+
+### 功能
+
+
+Azure Communication 服务 common utilities for Java.
+
+
+**英文原文**：
+
+
+Azure Communication Services common utilities for Java.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、communication、common、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**使用或处理 CommunicationTokenCredential, 用户 identifiers, token refresh, or shared authen**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、communication、common、java、utilities、working、communicationtokencredential、user、identifiers、token、refresh、shared。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authen...
+
+</details>
+
+
+---
+
+## azure-communication-sms-java
+
+
+**中文名**：Azure Communication Sms Java
+
+
+### 功能
+
+
+Send SMS messages with Azure Communication 服务 SMS Java SDK.
+
+
+**英文原文**：
+
+
+Send SMS messages with Azure Communication Services SMS Java SDK.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、communication、sms、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 SMS notifications, alerts, OTP delivery, bulk 消息通信, or delivery **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、communication、sms、java、send、messages、sdk、implementing、notifications、alerts、otp、delivery。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery ...
+
+</details>
+
+
+---
+
+## azure-compute-batch-java
+
+
+**中文名**：Azure 计算 Batch Java
+
+
+### 功能
+
+
+Azure Batch SDK for Java.
+
+
+**英文原文**：
+
+
+Azure Batch SDK for Java.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、计算、batch、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、compute、batch、java、sdk、run、large、scale、parallel、hpc、jobs、pools。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.
+
+</details>
+
+
+---
+
+## azure-containerregistry-py
+
+
+**中文名**：Azure Containerregistry Py
+
+
+### 功能
+
+
+Azure 容器 Registry SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Container Registry SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、containerregistry、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、containerregistry、py、container、registry、sdk、python、managing、images、artifacts、repositories。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Container Registry SDK for Python. Use for managing container images, artifacts, and repositories.
+
+</details>
+
+
+---
+
+## azure-eventgrid-dotnet
+
+
+**中文名**：Azure Eventgrid Dotnet
+
+
+### 功能
+
+
+Azure 事件 Grid SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Event Grid SDK for .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、eventgrid、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventgrid、dotnet、event、grid、sdk、net、client、library、publishing、consuming、events。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Event Grid SDK for .NET. Client library for publishing and consuming events with Azure Event Grid. Use for event-driven architectures, pub/sub messagin...
+
+</details>
+
+
+---
+
+## azure-eventgrid-java
+
+
+**中文名**：Azure Eventgrid Java
+
+
+### 功能
+
+
+构建 事件驱动 applications with Azure 事件 Grid SDK for Java.
+
+
+**英文原文**：
+
+
+Build event-driven applications with Azure Event Grid SDK for Java.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、eventgrid、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**publishing events, 实现 pub/sub 模式, or 集成 with Azure serv**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventgrid、java、event、driven、applications、grid、sdk、publishing、events、implementing、pub。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure serv...
+
+</details>
+
+
+---
+
+## azure-eventgrid-py
+
+
+**中文名**：Azure Eventgrid Py
+
+
+### 功能
+
+
+Azure 事件 Grid SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Event Grid SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、eventgrid、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventgrid、py、event、grid、sdk、python、publishing、events、handling、cloudevents、driven。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.
+
+</details>
+
+
+---
+
+## azure-eventhub-dotnet
+
+
+**中文名**：Azure Eventhub Dotnet
+
+
+### 功能
+
+
+Azure 事件 Hubs SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure Event Hubs SDK for .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、eventhub、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventhub、dotnet、event、hubs、sdk、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Event Hubs SDK for .NET.
+
+</details>
+
+
+---
+
+## azure-eventhub-py
+
+
+**中文名**：Azure Eventhub Py
+
+
+### 功能
+
+
+Azure 事件 Hubs SDK for Python 流处理.
+
+
+**英文原文**：
+
+
+Azure Event Hubs SDK for Python streaming.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、eventhub、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、eventhub、py、event、hubs、sdk、python、streaming、high、throughput、ingestion、producers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Event Hubs SDK for Python streaming. Use for high-throughput event ingestion, producers, consumers, and checkpointing.
+
+</details>
+
+
+---
+
 ## azure-functions
 
 
@@ -398,6 +1139,1220 @@ Expert patterns for Azure Functions development including isolated worker model,
 
 ---
 
+## azure-identity-rust
+
+
+**中文名**：Azure Identity Rust
+
+
+### 功能
+
+
+Azure Identity SDK for Rust authentication.
+
+
+**英文原文**：
+
+
+Azure Identity SDK for Rust authentication.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、identity、Rust
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、identity、rust、sdk、authentication、developertoolscredential、managedidentitycredential、clientsecretcredential、token。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Identity SDK for Rust authentication. Use for DeveloperToolsCredential, ManagedIdentityCredential, ClientSecretCredential, and token-based authentication.
+
+</details>
+
+
+---
+
+## azure-keyvault-certificates-rust
+
+
+**中文名**：Azure Keyvault Certificates Rust
+
+
+### 功能
+
+
+Azure Key Vault Certificates SDK for Rust.
+
+
+**英文原文**：
+
+
+Azure Key Vault Certificates SDK for Rust.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、keyvault、certificates、Rust
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、keyvault、certificates、rust、key、vault、sdk、creating、importing、managing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.
+
+</details>
+
+
+---
+
+## azure-keyvault-keys-rust
+
+
+**中文名**：Azure Keyvault Keys Rust
+
+
+### 功能
+
+
+Azure Key Vault Keys SDK for Rust.
+
+
+**英文原文**：
+
+
+Azure Key Vault Keys SDK for Rust.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、keyvault、keys、Rust
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、keyvault、keys、rust、key、vault、sdk、creating、managing、cryptographic、triggers、keyclient。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Key Vault Keys SDK for Rust. Use for creating, managing, and using cryptographic keys. Triggers: "keyvault keys rust", "KeyClient rust", "create key ru...
+
+</details>
+
+
+---
+
+## azure-keyvault-keys-ts
+
+
+**中文名**：Azure Keyvault Keys Ts
+
+
+### 功能
+
+
+管理 cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@Azure/keyvault-keys).
+
+
+**英文原文**：
+
+
+Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys).
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、keyvault、keys、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建, encrypting/decrypting, signing, or rotatin**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、keyvault、keys、ts、cryptographic、key、vault、sdk、javascript、creating、encrypting、decrypting。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotatin...
+
+</details>
+
+
+---
+
+## azure-messaging-webpubsub-java
+
+
+**中文名**：Azure 消息通信 Webpubsub Java
+
+
+### 功能
+
+
+构建 实时 Web applications with Azure Web PubSub SDK for Java.
+
+
+**英文原文**：
+
+
+Build real-time web applications with Azure Web PubSub SDK for Java.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、消息通信、webpubsub、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 WebSocket-基于 消息通信, live updates, 聊天 applications, or ser**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、messaging、webpubsub、java、real、time、web、applications、pubsub、sdk、implementing、websocket。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or ser...
+
+</details>
+
+
+---
+
+## azure-mgmt-apicenter-dotnet
+
+
+**中文名**：Azure Mgmt Apicenter Dotnet
+
+
+### 功能
+
+
+Azure API Center SDK for .NET.
+
+
+**英文原文**：
+
+
+Azure API Center SDK for .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、mgmt、apicenter、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、apicenter、dotnet、api、center、sdk、net、centralized、inventory、governance、versioning。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure API Center SDK for .NET. Centralized API inventory management with governance, versioning, and discovery.
+
+</details>
+
+
+---
+
+## azure-mgmt-apicenter-py
+
+
+**中文名**：Azure Mgmt Apicenter Py
+
+
+### 功能
+
+
+Azure API Center 管理ment SDK for Python.
+
+
+**英文原文**：
+
+
+Azure API Center Management SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、mgmt、apicenter、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、apicenter、py、api、center、sdk、python、managing、inventory、metadata、governance。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure API Center Management SDK for Python. Use for managing API inventory, metadata, and governance across your organization.
+
+</details>
+
+
+---
+
+## azure-mgmt-apimanagement-dotnet
+
+
+**中文名**：Azure Mgmt Apimanagement Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for API 管理ment in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for API Management in .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、mgmt、apimanagement、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、apimanagement、dotnet、resource、manager、sdk、api、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for API Management in .NET.
+
+</details>
+
+
+---
+
+## azure-mgmt-apimanagement-py
+
+
+**中文名**：Azure Mgmt Apimanagement Py
+
+
+### 功能
+
+
+Azure API 管理ment SDK for Python.
+
+
+**英文原文**：
+
+
+Azure API Management SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、mgmt、apimanagement、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、apimanagement、py、api、sdk、python、managing、apim、apis、products、subscriptions。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.
+
+</details>
+
+
+---
+
+## azure-mgmt-fabric-dotnet
+
+
+**中文名**：Azure Mgmt Fabric Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for Fabric in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Fabric in .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、mgmt、fabric、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、fabric、dotnet、resource、manager、sdk、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Fabric in .NET.
+
+</details>
+
+
+---
+
+## azure-mgmt-fabric-py
+
+
+**中文名**：Azure Mgmt Fabric Py
+
+
+### 功能
+
+
+Azure Fabric 管理ment SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Fabric Management SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、mgmt、fabric、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、fabric、py、sdk、python、managing、microsoft、capacities、resources。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.
+
+</details>
+
+
+---
+
+## azure-mgmt-mongodbatlas-dotnet
+
+
+**中文名**：Azure Mgmt Mongodbatlas Dotnet
+
+
+### 功能
+
+
+管理 MongoDB Atlas Organizations as Azure ARM resources using Azure.Resource管理r.MongoDBAtlas SDK.
+
+
+**英文原文**：
+
+
+Manage MongoDB Atlas Organizations as Azure ARM resources using Azure.ResourceManager.MongoDBAtlas SDK.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、mgmt、mongodbatlas、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建, updating, listing, or deleting Mon**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、mgmt、mongodbatlas、dotnet、mongodb、atlas、organizations、arm、resources、resourcemanager、sdk、creating。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Manage MongoDB Atlas Organizations as Azure ARM resources using Azure.ResourceManager.MongoDBAtlas SDK. Use when creating, updating, listing, or deleting Mon...
+
+</details>
+
+
+---
+
+## azure-monitor-opentelemetry-exporter-java
+
+
+**中文名**：Azure 监控 Opentelemetry Exporter Java
+
+
+### 功能
+
+
+Azure 监控 OpenTelemetry Exporter for Java.
+
+
+**英文原文**：
+
+
+Azure Monitor OpenTelemetry Exporter for Java.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、监控、opentelemetry、exporter、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、opentelemetry、exporter、java、export、traces、metrics、logs、application、insights。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Monitor OpenTelemetry Exporter for Java. Export OpenTelemetry traces, metrics, and logs to Azure Monitor/Application Insights.
+
+</details>
+
+
+---
+
+## azure-monitor-opentelemetry-exporter-py
+
+
+**中文名**：Azure 监控 Opentelemetry Exporter Py
+
+
+### 功能
+
+
+Azure 监控 OpenTelemetry Exporter for Python.
+
+
+**英文原文**：
+
+
+Azure Monitor OpenTelemetry Exporter for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、监控、opentelemetry、exporter、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、opentelemetry、exporter、py、python、low、level、export、application、insights。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Monitor OpenTelemetry Exporter for Python. Use for low-level OpenTelemetry export to Application Insights.
+
+</details>
+
+
+---
+
+## azure-monitor-opentelemetry-py
+
+
+**中文名**：Azure 监控 Opentelemetry Py
+
+
+### 功能
+
+
+Azure 监控 OpenTelemetry Distro for Python.
+
+
+**英文原文**：
+
+
+Azure Monitor OpenTelemetry Distro for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、监控、opentelemetry、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、monitor、opentelemetry、py、distro、python、one、line、application、insights、setup、auto。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application Insights setup with auto-instrumentation.
+
+</details>
+
+
+---
+
+## azure-resource-manager-durabletask-dotnet
+
+
+**中文名**：Azure Resource 管理器 Durabletask Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for Durable 任务 Scheduler in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Durable Task Scheduler in .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、resource、管理器、durabletask、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、resource、manager、durabletask、dotnet、sdk、durable、task、scheduler、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Durable Task Scheduler in .NET.
+
+</details>
+
+
+---
+
+## azure-resource-manager-playwright-dotnet
+
+
+**中文名**：Azure Resource 管理器 Playwright Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for Microsoft Playwright 测试ing in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Microsoft Playwright Testing in .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、resource、管理器、playwright、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、resource、manager、playwright、dotnet、sdk、microsoft、testing、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Microsoft Playwright Testing in .NET.
+
+</details>
+
+
+---
+
+## azure-resource-manager-redis-dotnet
+
+
+**中文名**：Azure Resource 管理器 Redis Dotnet
+
+
+### 功能
+
+
+Azure Resource 管理r SDK for Redis in .NET.
+
+
+**英文原文**：
+
+
+Azure Resource Manager SDK for Redis in .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、resource、管理器、Redis、dotnet
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、resource、manager、redis、dotnet、sdk、net。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Resource Manager SDK for Redis in .NET.
+
+</details>
+
+
+---
+
+## azure-speech-to-text-rest-py
+
+
+**中文名**：Azure Speech To Text REST Py
+
+
+### 功能
+
+
+Azure Speech to Text REST API for short 音频 (Python).
+
+
+**英文原文**：
+
+
+Azure Speech to Text REST API for short audio (Python).
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、speech、to、text、REST、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、speech、to、text、rest、py、api、short、audio、python、simple、recognition。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Speech to Text REST API for short audio (Python). Use for simple speech recognition of audio files up to 60 seconds without the Speech SDK.
+
+</details>
+
+
+---
+
+## azure-storage-blob-java
+
+
+**中文名**：Azure 存储 Blob Java
+
+
+### 功能
+
+
+构建 blob 存储 applications with Azure 存储 Blob SDK for Java.
+
+
+**英文原文**：
+
+
+Build blob storage applications with Azure Storage Blob SDK for Java.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、存储、blob、Java
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**uploading, downloading, or 管理 files in Azure Blob 存储, 使用或处理 **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、blob、java、applications、sdk、uploading、downloading、managing、files、working、containers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build blob storage applications with Azure Storage Blob SDK for Java. Use when uploading, downloading, or managing files in Azure Blob Storage, working with ...
+
+</details>
+
+
+---
+
+## azure-storage-blob-py
+
+
+**中文名**：Azure 存储 Blob Py
+
+
+### 功能
+
+
+Azure Blob 存储 SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Blob Storage SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、存储、blob、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、blob、py、sdk、python、uploading、downloading、listing、blobs、managing、containers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.
+
+</details>
+
+
+---
+
+## azure-storage-blob-rust
+
+
+**中文名**：Azure 存储 Blob Rust
+
+
+### 功能
+
+
+Azure Blob 存储 SDK for Rust.
+
+
+**英文原文**：
+
+
+Azure Blob Storage SDK for Rust.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、存储、blob、Rust
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、blob、rust、sdk、uploading、downloading、managing、blobs、containers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Blob Storage SDK for Rust. Use for uploading, downloading, and managing blobs and containers.
+
+</details>
+
+
+---
+
+## azure-storage-blob-ts
+
+
+**中文名**：Azure 存储 Blob Ts
+
+
+### 功能
+
+
+Azure Blob 存储 JavaScript/TypeScript SDK (@Azure/存储-blob) for blob operations.
+
+
+**英文原文**：
+
+
+Azure Blob Storage JavaScript/TypeScript SDK (@azure/storage-blob) for blob operations.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、存储、blob、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、blob、ts、javascript、typescript、sdk、operations、uploading、downloading、listing、managing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Blob Storage JavaScript/TypeScript SDK (@azure/storage-blob) for blob operations. Use for uploading, downloading, listing, and managing blobs and conta...
+
+</details>
+
+
+---
+
+## azure-storage-file-share-ts
+
+
+**中文名**：Azure 存储 文件 Share Ts
+
+
+### 功能
+
+
+Azure 文件 Share JavaScript/TypeScript SDK (@Azure/存储-文件-share) for SMB 文件 share operations.
+
+
+**英文原文**：
+
+
+Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、存储、文件、share、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、file、share、ts、javascript、typescript、sdk、smb、operations。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.
+
+</details>
+
+
+---
+
+## azure-storage-queue-py
+
+
+**中文名**：Azure 存储 消息队列 Py
+
+
+### 功能
+
+
+Azure 消息队列 存储 SDK for Python.
+
+
+**英文原文**：
+
+
+Azure Queue Storage SDK for Python.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、存储、消息队列、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、queue、py、sdk、python、reliable、message、queuing、task、distribution、asynchronous。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Queue Storage SDK for Python. Use for reliable message queuing, task distribution, and asynchronous processing.
+
+</details>
+
+
+---
+
+## azure-storage-queue-ts
+
+
+**中文名**：Azure 存储 消息队列 Ts
+
+
+### 功能
+
+
+Azure 消息队列 存储 JavaScript/TypeScript SDK (@Azure/存储-消息队列) for message 消息队列 operations.
+
+
+**英文原文**：
+
+
+Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、存储、消息队列、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、storage、queue、ts、javascript、typescript、sdk、message、operations、sending、receiving、peeking。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages...
+
+</details>
+
+
+---
+
+## azure-web-pubsub-ts
+
+
+**中文名**：Azure Web Pubsub Ts
+
+
+### 功能
+
+
+构建 实时 消息通信 applications using Azure Web PubSub SDKs for JavaScript (@Azure/Web-pubsub, @Azure/Web-pubsub-client).
+
+
+**英文原文**：
+
+
+Build real-time messaging applications using Azure Web PubSub SDKs for JavaScript (@azure/web-pubsub, @azure/web-pubsub-client).
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Azure、Web、pubsub、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**实现 WebSoc**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：azure、web、pubsub、ts、real、time、messaging、applications、sdks、javascript、client、implementing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build real-time messaging applications using Azure Web PubSub SDKs for JavaScript (@azure/web-pubsub, @azure/web-pubsub-client). Use when implementing WebSoc...
+
+</details>
+
+
+---
+
+## backend-architect
+
+
+**中文名**：后端 架构师
+
+
+### 功能
+
+
+专家 后端 架构师 专攻 scalable API 设计, 微服务s 架构, and distributed 系统.
+
+
+**英文原文**：
+
+
+Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：后端
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：backend、architect、specializing、scalable、api、microservices、architecture、distributed。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.
+
+</details>
+
+
+---
+
 ## backend-dev-guidelines
 
 
@@ -435,6 +2390,49 @@ Opinionated backend development standards for Node.js + Express + TypeScript mic
 <summary>英文描述（原文）</summary>
 
 Opinionated backend development standards for Node.js + Express + TypeScript microservices. Covers layered architecture, BaseController pattern, dependency i...
+
+</details>
+
+
+---
+
+## bevy-ecs-expert
+
+
+**中文名**：Bevy Ecs 专家
+
+
+### 功能
+
+
+Master Bevy's Entity Component 系统 (ECS) in Rust, covering 系统, Queries, Resources, and parallel scheduling.
+
+
+**英文原文**：
+
+
+Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：bevy、ecs
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：bevy、ecs、entity、component、rust、covering、queries、resources、parallel、scheduling。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling.
 
 </details>
 
@@ -658,6 +2656,51 @@ Automatically fetch latest library/framework documentation for Claude Code via C
 
 ---
 
+## copilot-sdk
+
+
+**中文名**：Copilot SDK
+
+
+### 功能
+
+
+构建 applications powered by GitHub Copilot using the Copilot SDK.
+
+
+**英文原文**：
+
+
+Build applications powered by GitHub Copilot using the Copilot SDK.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Copilot、SDK
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**创建 programmatic integrations with Copilot across Node.js/TypeScript, Pytho**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：copilot、sdk、applications、powered、github、creating、programmatic、integrations、node、js、typescript、python。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build applications powered by GitHub Copilot using the Copilot SDK. Use when creating programmatic integrations with Copilot across Node.js/TypeScript, Pytho...
+
+</details>
+
+
+---
+
 ## csharp-pro
 
 
@@ -695,6 +2738,184 @@ Write modern C# code with advanced features like records, pattern matching, and 
 <summary>英文描述（原文）</summary>
 
 Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and...
+
+</details>
+
+
+---
+
+## dbos-golang
+
+
+**中文名**：Dbos Golang
+
+
+### 功能
+
+
+DBOS Go SDK for building reliable, fault-tolerant applications with durable workflows.
+
+
+**英文原文**：
+
+
+DBOS Go SDK for building reliable, fault-tolerant applications with durable workflows.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：dbos、golang
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**编写 Go 代码 with DBOS, 创建 workflows and **。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：dbos、golang、go、sdk、building、reliable、fault、tolerant、applications、durable、skill、writing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+DBOS Go SDK for building reliable, fault-tolerant applications with durable workflows. Use this skill when writing Go code with DBOS, creating workflows and ...
+
+</details>
+
+
+---
+
+## dbos-python
+
+
+**中文名**：Dbos Python
+
+
+### 功能
+
+
+DBOS Python SDK for building reliable, fault-tolerant applications with durable workflows.
+
+
+**英文原文**：
+
+
+DBOS Python SDK for building reliable, fault-tolerant applications with durable workflows.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：dbos、Python
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**编写 Python 代码 with DBOS, 创建 workfl**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：dbos、python、sdk、building、reliable、fault、tolerant、applications、durable、skill、writing、code。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+DBOS Python SDK for building reliable, fault-tolerant applications with durable workflows. Use this skill when writing Python code with DBOS, creating workfl...
+
+</details>
+
+
+---
+
+## dbos-typescript
+
+
+**中文名**：Dbos TypeScript
+
+
+### 功能
+
+
+DBOS TypeScript SDK for building reliable, fault-tolerant applications with durable workflows.
+
+
+**英文原文**：
+
+
+DBOS TypeScript SDK for building reliable, fault-tolerant applications with durable workflows.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：dbos、TypeScript
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**编写 TypeScript 代码 with DBOS, creatin**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：dbos、typescript、sdk、building、reliable、fault、tolerant、applications、durable、skill、writing、code。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+DBOS TypeScript SDK for building reliable, fault-tolerant applications with durable workflows. Use this skill when writing TypeScript code with DBOS, creatin...
+
+</details>
+
+
+---
+
+## development
+
+
+**中文名**：Development
+
+
+### 功能
+
+
+Comprehensive Web, 移动端, and 后端 development 工作流 bundling 前端, 后端, 全-栈, and 移动端 development skills for 端到端 应用 ...
+
+
+**英文原文**：
+
+
+Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application ...
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：development、web、mobile、backend、bundling、frontend、full、stack、skills、application、delivery。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application ...
 
 </details>
 
@@ -744,6 +2965,49 @@ Specialized skill for building production-ready Discord bots. Covers Discord.js 
 
 ---
 
+## documentation
+
+
+**中文名**：文档
+
+
+### 功能
+
+
+文档 generation 工作流 covering API 文档, 架构 文档, README files, 代码 comments, and technical writing.
+
+
+**英文原文**：
+
+
+Documentation generation workflow covering API docs, architecture docs, README files, code comments, and technical writing.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：文档
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：documentation、generation、covering、api、docs、architecture、readme、files、code、comments、technical、writing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Documentation generation workflow covering API docs, architecture docs, README files, code comments, and technical writing.
+
+</details>
+
+
+---
+
 ## dotnet-architect
 
 
@@ -780,7 +3044,7 @@ Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterprise application patterns. Masters async/await, dependenc...
+Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterprise application patterns.
 
 </details>
 
@@ -909,7 +3173,52 @@ Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2.
 <details>
 <summary>英文描述（原文）</summary>
 
-Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns. Use PROA...
+Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns.
+
+</details>
+
+
+---
+
+## fastapi-router-py
+
+
+**中文名**：FastAPI Router Py
+
+
+### 功能
+
+
+创建 FastAPI routers with CRUD operations, authentication dependencies, and proper response 模型.
+
+
+**英文原文**：
+
+
+Create FastAPI routers with CRUD operations, authentication dependencies, and proper response models.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：FastAPI、router、py
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**构建 REST API endpoints, 创建 new rout**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：fastapi、router、py、routers、crud、operations、authentication、dependencies、proper、response、models、building。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Create FastAPI routers with CRUD operations, authentication dependencies, and proper response models. Use when building REST API endpoints, creating new rout...
 
 </details>
 
@@ -1175,7 +3484,7 @@ Build React components, implement responsive layouts, and handle client-side sta
 <details>
 <summary>英文描述（原文）</summary>
 
-Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture...
+Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture.
 
 </details>
 
@@ -1313,6 +3622,96 @@ Mobile game development principles. Touch input, battery, performance, app store
 
 ---
 
+## gemini-api-dev
+
+
+**中文名**：Gemini API Dev
+
+
+### 功能
+
+
+适用于 building applications with Gemini 模型, Gemini API, working with multimodal content (text, images, 音频, 视频), 实现ing function...
+
+
+**英文原文**：
+
+
+Use this skill when building applications with Gemini models, Gemini API, working with multimodal content (text, images, audio, video), implementing function...
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：gemini、API、dev
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**构建 applications with Gemini 模型, Gemini API, 使用或处理 multimodal content (text, images, 音频, 视频), 实现 function**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：gemini、api、dev、skill、building、applications、models、working、multimodal、content、text、images。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Use this skill when building applications with Gemini models, Gemini API, working with multimodal content (text, images, audio, video), implementing function...
+
+</details>
+
+
+---
+
+## gemini-api-integration
+
+
+**中文名**：Gemini API 集成
+
+
+### 功能
+
+
+适用于 integrating Google Gemini API into projects.
+
+
+**英文原文**：
+
+
+Use when integrating Google Gemini API into projects.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：gemini、API、集成
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**集成 Google Gemini API into projects**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：gemini、api、integration、integrating、google、covers、model、selection、multimodal、inputs、streaming、function。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Use when integrating Google Gemini API into projects. Covers model selection, multimodal inputs, streaming, function calling, and production best practices.
+
+</details>
+
+
+---
+
 ## go-concurrency-patterns
 
 
@@ -1401,6 +3800,49 @@ Expert capability for robust, stealthy, and efficient browser automation using P
 
 ---
 
+## go-rod-master
+
+
+**中文名**：Go Rod Master
+
+
+### 功能
+
+
+Comprehensive 指南 for browser 自动化 and Web 抓取 with Go-rod (Chrome DevTools Protocol) including stealth anti-机器人-detection 模式.
+
+
+**英文原文**：
+
+
+Comprehensive guide for browser automation and web scraping with go-rod (Chrome DevTools Protocol) including stealth anti-bot-detection patterns.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Go、rod、master
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：go、rod、master、browser、automation、web、scraping、chrome、devtools、protocol、including、stealth。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Comprehensive guide for browser automation and web scraping with go-rod (Chrome DevTools Protocol) including stealth anti-bot-detection patterns.
+
+</details>
+
+
+---
+
 ## golang-pro
 
 
@@ -1430,14 +3872,14 @@ Master Go 1.21+ with modern patterns, advanced concurrency, performance optimiza
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：golang、pro、go、21、concurrency、performance、optimization、microservices、latest、ecosystem、including、generics。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：golang、pro、go、21、concurrency、performance、optimization、microservices。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem i...
+Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices.
 
 </details>
 
@@ -1566,7 +4008,7 @@ Master modern JavaScript with ES6+, async patterns, and Node.js APIs.
 <details>
 <summary>英文描述（原文）</summary>
 
-Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility. Use PROACTIVELY for Java...
+Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility.
 
 </details>
 
@@ -1702,6 +4144,49 @@ When the user wants to plan a product launch, feature announcement, or release s
 
 ---
 
+## m365-agents-ts
+
+
+**中文名**：M365 Agents Ts
+
+
+### 功能
+
+
+Microsoft 365 Agents SDK for TypeScript/Node.js.
+
+
+**英文原文**：
+
+
+Microsoft 365 Agents SDK for TypeScript/Node.js.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：m365、agents、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：m365、agents、ts、microsoft、365、sdk、typescript、node、js。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Microsoft 365 Agents SDK for TypeScript/Node.js.
+
+</details>
+
+
+---
+
 ## makepad-skills
 
 
@@ -1739,49 +4224,6 @@ Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging
 <summary>英文描述（原文）</summary>
 
 Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.
-
-</details>
-
-
----
-
-## mcp-builder
-
-
-**中文名**：MCP 构建器
-
-
-### 功能
-
-
-指南 for creating 高-quality MCP (模型 Context Protocol) servers that enable LLMs to interact with external 服务 through well-designed tools.
-
-
-**英文原文**：
-
-
-Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools.
-
-
-### 使用领域
-
-
-软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：MCP、构建器
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：mcp、builder、creating、high、quality、model、context、protocol、servers、enable、llms、interact。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use whe...
 
 </details>
 
@@ -1827,6 +4269,49 @@ Implement memory-safe programming with RAII, ownership, smart pointers, and reso
 <summary>英文描述（原文）</summary>
 
 Implement memory-safe programming with RAII, ownership, smart pointers, and resource management across Rust, C++, and C. Use when writing safe systems code, ...
+
+</details>
+
+
+---
+
+## microsoft-azure-webjobs-extensions-authentication-events-dotnet
+
+
+**中文名**：Microsoft Azure Webjobs Extensions Authentication Events Dotnet
+
+
+### 功能
+
+
+Microsoft Entra Authentication Events SDK for .NET.
+
+
+**英文原文**：
+
+
+Microsoft Entra Authentication Events SDK for .NET.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：microsoft、Azure、webjobs、extensions、authentication、events
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：microsoft、azure、webjobs、extensions、authentication、events、dotnet、entra、sdk、net、functions、triggers。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.
 
 </details>
 
@@ -2226,6 +4711,49 @@ You are a Python project architecture expert specializing in scaffolding product
 
 ---
 
+## python-fastapi-development
+
+
+**中文名**：Python FastAPI Development
+
+
+### 功能
+
+
+Python FastAPI 后端 development with async 模式, SQLAlchemy, Pydantic, authentication, and production API 模式.
+
+
+**英文原文**：
+
+
+Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：Python、FastAPI
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：python、fastapi、development、backend、async、sqlalchemy、pydantic、authentication、api。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns.
+
+</details>
+
+
+---
+
 ## python-packaging
 
 
@@ -2447,6 +4975,139 @@ Implement comprehensive testing strategies with pytest, fixtures, mocking, and t
 
 ---
 
+## react-best-practices
+
+
+**中文名**：React 最佳 实践
+
+
+### 功能
+
+
+React and Next.js 性能 优化 指南 from Vercel 工程.
+
+
+**英文原文**：
+
+
+React and Next.js performance optimization guidelines from Vercel Engineering.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：React、最佳、实践
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**编写, 评审, or 重构 React/Next.j**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：react、best、practices、next、js、performance、optimization、guidelines、vercel、engineering、skill、should。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.j...
+
+</details>
+
+
+---
+
+## react-flow-architect
+
+
+**中文名**：React Flow 架构师
+
+
+### 功能
+
+
+专家 ReactFlow 架构师 for building interactive graph applications with hierarchical Node-边缘 系统, 性能 优化, and 自动-layout integra...
+
+
+**英文原文**：
+
+
+Expert ReactFlow architect for building interactive graph applications with hierarchical node-edge systems, performance optimization, and auto-layout integra...
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：React、flow
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：react、flow、architect、reactflow、building、interactive、graph、applications、hierarchical、node、edge、performance。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert ReactFlow architect for building interactive graph applications with hierarchical node-edge systems, performance optimization, and auto-layout integra...
+
+</details>
+
+
+---
+
+## react-flow-node-ts
+
+
+**中文名**：React Flow Node Ts
+
+
+### 功能
+
+
+创建 React Flow Node components with TypeScript 类型, handles, and Zustand 集成.
+
+
+**英文原文**：
+
+
+Create React Flow node components with TypeScript types, handles, and Zustand integration.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：React、flow、Node、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**构建 custom nodes for React Flow canvas, 创建 vis**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：react、flow、node、ts、components、typescript、types、zustand、integration、building、custom、nodes。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Create React Flow node components with TypeScript types, handles, and Zustand integration. Use when building custom nodes for React Flow canvas, creating vis...
+
+</details>
+
+
+---
+
 ## react-modernization
 
 
@@ -2531,6 +5192,49 @@ Build production React Native apps with Expo, navigation, native modules, offlin
 <summary>英文描述（原文）</summary>
 
 Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-platform patterns. Use when developing mobile apps, impleme...
+
+</details>
+
+
+---
+
+## react-nextjs-development
+
+
+**中文名**：React Nextjs Development
+
+
+### 功能
+
+
+React and Next.js 14+ 应用 development with 应用 Router, Server Components, TypeScript, Tailwind CSS, and 现代 前端 模式.
+
+
+**英文原文**：
+
+
+React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：React、nextjs
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：react、nextjs、development、next、js、14、application、app、router、server、components、typescript。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns.
 
 </details>
 
@@ -2828,14 +5532,14 @@ Master Rust 1.75+ with modern async patterns, advanced type system features, and
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：rust、pro、75、async、type、features、programming、latest、ecosystem、including、tokio、axum。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：rust、pro、75、async、type、features、programming。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem in...
+Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.
 
 </details>
 
@@ -2879,51 +5583,6 @@ Comprehensive fullstack development skill for building complete web applications
 <summary>英文描述（原文）</summary>
 
 Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaf...
-
-</details>
-
-
----
-
-## shodan-reconnaissance
-
-
-**中文名**：Shodan Reconnaissance
-
-
-### 功能
-
-
-适用于 the 用户 asks to "搜索 for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable 服务 usin...
-
-
-**英文原文**：
-
-
-This skill should be used when the user asks to "search for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable services usin...
-
-
-### 使用领域
-
-
-软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：shodan、reconnaissance
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- 在以下情况下可使用本技能：**the 用户 asks to "搜索 for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable 服务 usin**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：shodan、reconnaissance、pentesting、skill、should、used、user、asks、search、exposed、devices、internet。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-This skill should be used when the user asks to "search for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable services usin...
 
 </details>
 
@@ -3009,7 +5668,7 @@ Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Pol
 <details>
 <summary>英文描述（原文）</summary>
 
-Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid. TRIGGER: "shopify", "shopify app", "checkout extension",...
+Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
 
 </details>
 
@@ -3317,6 +5976,49 @@ Test Temporal workflows with pytest, time-skipping, and mocking strategies. Cove
 
 ---
 
+## twilio-communications
+
+
+**中文名**：Twilio Communications
+
+
+### 功能
+
+
+构建 communication 功能 with Twilio: SMS 消息通信, voice calls, WhatsApp Business API, and 用户 verification (2FA).
+
+
+**英文原文**：
+
+
+Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA).
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：twilio、communications
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：twilio、communications、communication、features、sms、messaging、voice、calls、whatsapp、business、api、user。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simpl...
+
+</details>
+
+
+---
+
 ## typescript-advanced-types
 
 
@@ -3432,14 +6134,14 @@ Master TypeScript with advanced types, generics, and strict type safety.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：typescript、pro、types、generics、strict、type、safety、complex、decorators、enterprise、grade、proactively。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：typescript、pro、types、generics、strict、type、safety、complex、decorators、enterprise、grade。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTI...
+Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns.
 
 </details>
 
@@ -3614,5 +6316,50 @@ Toolkit for interacting with and testing local web applications using Playwright
 <summary>英文描述（原文）</summary>
 
 Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing...
+
+</details>
+
+
+---
+
+## zustand-store-ts
+
+
+**中文名**：Zustand Store Ts
+
+
+### 功能
+
+
+创建 Zustand stores with TypeScript, subscribeWithSelector middleware, and proper 状态/action separation.
+
+
+**英文原文**：
+
+
+Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation.
+
+
+### 使用领域
+
+
+软件开发、前后端框架、API 设计、编程语言与工具链；相关标签：zustand、store、ts
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**构建 React 状态 管理, creati**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：zustand、store、ts、stores、typescript、subscribewithselector、middleware、proper、state、action、separation、building。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation. Use when building React state management, creati...
 
 </details>

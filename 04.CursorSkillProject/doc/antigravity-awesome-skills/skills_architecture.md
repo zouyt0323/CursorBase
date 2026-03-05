@@ -1,6 +1,6 @@
 # 架构与设计（architecture）
 
-共 63 个技能。
+共 67 个技能。
 
 
 ---
@@ -41,7 +41,7 @@ Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Componen
 <details>
 <summary>英文描述（原文）</summary>
 
-Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patterns. Use PROACTIV...
+Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patterns.
 
 </details>
 
@@ -93,6 +93,49 @@ Master modern Angular state management with Signals, NgRx, and RxJS. Use when se
 
 ---
 
+## apify-audience-analysis
+
+
+**中文名**：Apify Audience 分析
+
+
+### 功能
+
+
+Understand audience demographics, preferences, behavior 模式, and engagement quality across Facebook, Instagram, YouTube, and TikTok.
+
+
+**英文原文**：
+
+
+Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：apify、audience
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：apify、audience、analysis、understand、demographics、preferences、behavior、engagement、quality、facebook、instagram、youtube。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.
+
+</details>
+
+
+---
+
 ## architect-review
 
 
@@ -102,13 +145,13 @@ Master modern Angular state management with Signals, NgRx, and RxJS. Use when se
 ### 功能
 
 
-Master software 架构师 专攻 现代 架构 模式, 整洁架构, 微服务s, 事件驱动 系统, and 领域驱动设计.
+Master software 架构师 专攻 现代 架构
 
 
 **英文原文**：
 
 
-Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD.
+Master software architect specializing in modern architecture
 
 
 ### 使用领域
@@ -122,14 +165,14 @@ Master software architect specializing in modern architecture patterns, clean ar
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：architect、review、software、specializing、architecture、clean、microservices、event、driven、ddd、reviews、designs。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：architect、review、software、specializing、architecture。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system desi...
+Master software architect specializing in modern architecture
 
 </details>
 
@@ -226,49 +269,6 @@ Write and maintain Architecture Decision Records (ADRs) following best practices
 
 ---
 
-## automate-whatsapp
-
-
-**中文名**：自动化 Whatsapp
-
-
-### 功能
-
-
-构建 WhatsApp automations with Kapso workflows: 配置 WhatsApp triggers, edit 工作流 graphs, 管理 executions, 部署 functions, and use databases/in...
-
-
-**英文原文**：
-
-
-Build WhatsApp automations with Kapso workflows: configure WhatsApp triggers, edit workflow graphs, manage executions, deploy functions, and use databases/in...
-
-
-### 使用领域
-
-
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：自动化、whatsapp
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：automate、whatsapp、automations、kapso、configure、triggers、edit、graphs、executions、deploy、functions、databases。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Build WhatsApp automations with Kapso workflows: configure WhatsApp triggers, edit workflow graphs, manage executions, deploy functions, and use databases/in...
-
-</details>
-
-
----
-
 ## avalonia-viewmodels-zafiro
 
 
@@ -357,6 +357,49 @@ Bash/Linux terminal patterns. Critical commands, piping, error handling, scripti
 
 ---
 
+## bash-scripting
+
+
+**中文名**：Bash Scripting
+
+
+### 功能
+
+
+Bash scripting 工作流 for creating production-ready shell scripts with defensive 模式, 错误处理, and 测试.
+
+
+**英文原文**：
+
+
+Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：bash、scripting
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：bash、scripting、creating、shell、scripts、defensive、error、handling、testing。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing.
+
+</details>
+
+
+---
+
 ## binary-analysis-patterns
 
 
@@ -411,13 +454,13 @@ Master binary analysis patterns including disassembly, decompilation, control fl
 ### 功能
 
 
-Use this skill before any creative or constructive work (功能, components, 架构, behavior changes, or functionality).
+Use before creative or constructive work (功能, 架构, behavior).
 
 
 **英文原文**：
 
 
-Use this skill before any creative or constructive work (features, components, architecture, behavior changes, or functionality).
+Use before creative or constructive work (features, architecture, behavior).
 
 
 ### 使用领域
@@ -431,14 +474,14 @@ Use this skill before any creative or constructive work (features, components, a
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：brainstorming、skill、before、any、creative、constructive、work、features、components、architecture、behavior、changes。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：brainstorming、before、creative、constructive、work、features、architecture、behavior、transforms、vague、ideas、validated。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Use this skill before any creative or constructive work (features, components, architecture, behavior changes, or functionality). This skill transforms vague...
+Use before creative or constructive work (features, architecture, behavior). Transforms vague ideas into validated designs through disciplined reasoning and ...
 
 </details>
 
@@ -603,7 +646,7 @@ Expert C4 Component-level documentation specialist.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：c4、component、level、documentation、synthesizes、code、architecture、defining、boundaries、interfaces、relationships、creates。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：c4、component、level、documentation、synthesizes、code、architecture、defining、boundaries、interfaces、relationships。
 
 
 
@@ -611,6 +654,49 @@ Expert C4 Component-level documentation specialist.
 <summary>英文描述（原文）</summary>
 
 Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Component-level architecture, defining component boundaries,...
+
+</details>
+
+
+---
+
+## c4-container
+
+
+**中文名**：C4 容器
+
+
+### 功能
+
+
+专家 C4 容器-level 文档 specialist.
+
+
+**英文原文**：
+
+
+Expert C4 Container-level documentation specialist.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：c4、容器
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：c4、container、level、documentation。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Expert C4 Container-level documentation specialist.
 
 </details>
 
@@ -703,6 +789,51 @@ Automate Calendly scheduling, event management, invitee tracking, availability c
 
 ---
 
+## cloudformation-best-practices
+
+
+**中文名**：Cloudformation 最佳 实践
+
+
+### 功能
+
+
+CloudFormation template 优化, nested stacks, drift detection, and production-ready 模式.
+
+
+**英文原文**：
+
+
+CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：cloudformation、最佳、实践
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- 在以下情况下可使用本技能：**编写 or 评审 CF templates**。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cloudformation、best、practices、optimization、nested、stacks、drift、detection、writing、reviewing、cf。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates.
+
+</details>
+
+
+---
+
 ## code-refactoring-refactor-clean
 
 
@@ -783,49 +914,6 @@ You are a code refactoring expert specializing in clean code principles, SOLID d
 <summary>英文描述（原文）</summary>
 
 You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and r...
-
-</details>
-
-
----
-
-## competitor-alternatives
-
-
-**中文名**：Competitor Alternatives
-
-
-### 功能
-
-
-When the 用户 wants to 创建 competitor comparison or alternative pages for SEO 搜索引擎优化 and sales enablement.
-
-
-**英文原文**：
-
-
-When the user wants to create competitor comparison or alternative pages for SEO and sales enablement.
-
-
-### 使用领域
-
-
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：competitor、alternatives
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：competitor、alternatives、user、wants、comparison、alternative、pages、seo、sales、enablement、mentions、page。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'v...
 
 </details>
 
@@ -920,49 +1008,6 @@ Core component library and design system patterns. Use when building UI, using d
 
 ---
 
-## cpp-pro
-
-
-**中文名**：Cpp Pro
-
-
-### 功能
-
-
-Write idiomatic C++ 代码 with 现代 功能, RAII, 智能 pointers, and STL algorithms.
-
-
-**英文原文**：
-
-
-Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms.
-
-
-### 使用领域
-
-
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：cpp
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：cpp、pro、write、idiomatic、code、features、raii、smart、pointers、stl、algorithms、move。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use...
-
-</details>
-
-
----
-
 ## cqrs-implementation
 
 
@@ -1002,6 +1047,135 @@ Implement Command Query Responsibility Segregation for scalable architectures.
 <summary>英文描述（原文）</summary>
 
 Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or bu...
+
+</details>
+
+
+---
+
+## ddd-context-mapping
+
+
+**中文名**：领域驱动设计 Context Mapping
+
+
+### 功能
+
+
+Map relationships between bounded contexts and define 集成 contracts using 领域驱动设计 context mapping 模式.
+
+
+**英文原文**：
+
+
+Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：[ddd、context-map、anti-corruption-layer、integration]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[ddd、context-map、anti-corruption-layer、integration]、ddd、context、mapping、map、relationships、between、bounded、contexts。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns.
+
+</details>
+
+
+---
+
+## ddd-strategic-design
+
+
+**中文名**：领域驱动设计 Strategic 设计
+
+
+### 功能
+
+
+设计 领域驱动设计 strategic artifacts including subdomains, bounded contexts, and ubiquitous language for complex business domains.
+
+
+**英文原文**：
+
+
+Design DDD strategic artifacts including subdomains, bounded contexts, and ubiquitous language for complex business domains.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：[ddd、strategic-design、bounded-context、ubiquitous-language]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[ddd、strategic-design、bounded-context、ubiquitous-language]、ddd、strategic、artifacts、including、subdomains、bounded、contexts、ubiquitous。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Design DDD strategic artifacts including subdomains, bounded contexts, and ubiquitous language for complex business domains.
+
+</details>
+
+
+---
+
+## ddd-tactical-patterns
+
+
+**中文名**：领域驱动设计 Tactical 模式
+
+
+### 功能
+
+
+Apply 领域驱动设计 tactical 模式 in 代码 using entities, value objects, aggregates, repositories, and 领域 events with explicit invariants.
+
+
+**英文原文**：
+
+
+Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：[ddd、tactical、aggregates、value-objects、domain-events]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[ddd、tactical、aggregates、value-objects、domain-events]、ddd、apply、code、entities、value、objects、repositories。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants.
 
 </details>
 
@@ -1096,6 +1270,49 @@ Creates comprehensive technical documentation from existing codebases. Analyzes 
 
 ---
 
+## domain-driven-design
+
+
+**中文名**：领域 驱动 设计
+
+
+### 功能
+
+
+计划 and route 领域-驱动 设计 work from strategic modeling to tactical 实现ation and evented 架构 模式.
+
+
+**英文原文**：
+
+
+Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and evented architecture patterns.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：[ddd、领域、bounded-context、architecture]
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：[ddd、domain、bounded-context、architecture]、driven、plan、route、work、strategic、modeling、tactical、evented。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and evented architecture patterns.
+
+</details>
+
+
+---
+
 ## elixir-pro
 
 
@@ -1132,50 +1349,7 @@ Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix Li
 <details>
 <summary>英文描述（原文）</summary>
 
-Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PR...
-
-</details>
-
-
----
-
-## email-systems
-
-
-**中文名**：邮件 系统
-
-
-### 功能
-
-
-邮件 has the highest ROI of any marketing channel.
-
-
-**英文原文**：
-
-
-Email has the highest ROI of any marketing channel.
-
-
-### 使用领域
-
-
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：邮件
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：email、highest、roi、any、marketing、channel、36、every、spent、yet、most、startups。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, ...
+Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.
 
 </details>
 
@@ -1218,7 +1392,7 @@ Search logs and codebases for error patterns, stack traces, and anomalies.
 <details>
 <summary>英文描述（原文）</summary>
 
-Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when ...
+Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes.
 
 </details>
 
@@ -1444,28 +1618,28 @@ Master Godot 4 GDScript patterns including signals, scenes, state machines, and 
 
 ---
 
-## haskell-pro
+## hig-inputs
 
 
-**中文名**：Haskell Pro
+**中文名**：Hig Inputs
 
 
 ### 功能
 
 
-专家 Haskell engineer 专攻 高级 类型 系统, pure functional 设计, and 高-reliability software.
+Apple HIG guidance for 输入 methods and interaction 模式: gestures, Apple Pencil, keyboards, game controllers, pointers, Digital Crown, eye tracking, fo...
 
 
 **英文原文**：
 
 
-Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reliability software.
+Apple HIG guidance for input methods and interaction patterns: gestures, Apple Pencil, keyboards, game controllers, pointers, Digital Crown, eye tracking, fo...
 
 
 ### 使用领域
 
 
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：haskell
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：hig、inputs
 
 
 ### 使用场景
@@ -1473,14 +1647,57 @@ Expert Haskell engineer specializing in advanced type systems, pure functional d
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：haskell、pro、engineer、specializing、type、pure、functional、high、reliability、software、proactively、level。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、inputs、apple、guidance、input、methods、interaction、gestures、pencil、keyboards、game、controllers。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reliability software. Use PROACTIVELY for type-level programm...
+Apple HIG guidance for input methods and interaction patterns: gestures, Apple Pencil, keyboards, game controllers, pointers, Digital Crown, eye tracking, fo...
+
+</details>
+
+
+---
+
+## hig-patterns
+
+
+**中文名**：Hig 模式
+
+
+### 功能
+
+
+Apple Human Interface 指南 interaction and UX 模式.
+
+
+**英文原文**：
+
+
+Apple Human Interface Guidelines interaction and UX patterns.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：hig
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：hig、apple、human、interface、guidelines、interaction、ux。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+Apple Human Interface Guidelines interaction and UX patterns.
 
 </details>
 
@@ -1573,28 +1790,28 @@ Inngest expert for serverless-first background jobs, event-driven workflows, and
 
 ---
 
-## julia-pro
+## kotlin-coroutines-expert
 
 
-**中文名**：Julia Pro
+**中文名**：Kotlin Coroutines 专家
 
 
 ### 功能
 
 
-Master Julia 1.10+ with 现代 功能, 性能 优化, multiple dispatch, and production-ready 实践.
+专家 模式 for Kotlin Coroutines and Flow, covering structured concurrency, 错误处理, and 测试.
 
 
 **英文原文**：
 
 
-Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.
+Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing.
 
 
 ### 使用领域
 
 
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：julia
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：Kotlin、coroutines
 
 
 ### 使用场景
@@ -1602,57 +1819,14 @@ Master Julia 1.10+ with modern features, performance optimization, multiple disp
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：julia、pro、10、features、performance、optimization、multiple、dispatch、ecosystem、including、package、scientific。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：kotlin、coroutines、flow、covering、structured、concurrency、error、handling、testing。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices. Expert in the Julia ecosystem including...
-
-</details>
-
-
----
-
-## minecraft-bukkit-pro
-
-
-**中文名**：Minecraft Bukkit Pro
-
-
-### 功能
-
-
-Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.
-
-
-**英文原文**：
-
-
-Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.
-
-
-### 使用领域
-
-
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：minecraft、bukkit
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：minecraft、bukkit、pro、server、plugin、development、spigot、paper、apis、specializes、event、driven。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation...
+Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing.
 
 </details>
 
@@ -1745,28 +1919,28 @@ Master orchestrator, peer-to-peer, and hierarchical multi-agent architectures
 
 ---
 
-## n8n-mcp-tools-expert
+## nerdzao-elite
 
 
-**中文名**：N8n MCP Tools 专家
+**中文名**：Nerdzao Elite
 
 
 ### 功能
 
 
-专家 指南 for using n8n-MCP MCP tools effectively.
+Senior Elite Software Engineer (15+) and Senior Product Designer.
 
 
 **英文原文**：
 
 
-Expert guide for using n8n-mcp MCP tools effectively.
+Senior Elite Software Engineer (15+) and Senior Product Designer.
 
 
 ### 使用领域
 
 
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：n8n、MCP
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：nerdzao、elite
 
 
 ### 使用场景
@@ -1774,59 +1948,14 @@ Expert guide for using n8n-mcp MCP tools effectively.
 
 以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
 
-- 在以下情况下可使用本技能：**searching for nodes, validating configurations, accessing templates, 管理 workflows, or us**。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：n8n、mcp、effectively、searching、nodes、validating、configurations、accessing、managing、any、provides、selection。
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：nerdzao、elite、senior、software、engineer、15、product、designer、full、planning、architecture、tdd。
 
 
 
 <details>
 <summary>英文描述（原文）</summary>
 
-Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or us...
-
-</details>
-
-
----
-
-## nestjs-expert
-
-
-**中文名**：Nestjs 专家
-
-
-### 功能
-
-
-Nest.js framework 专家 专攻 module 架构, 依赖注入, middleware, guards, interceptors, 测试 with Jest/Supertest, TypeORM/Mo...
-
-
-**英文原文**：
-
-
-Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mo...
-
-
-### 使用领域
-
-
-系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：nestjs
-
-
-### 使用场景
-
-
-以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
-
-- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：nestjs、nest、js、framework、specializing、module、architecture、dependency、injection、middleware、guards、interceptors。
-
-
-
-<details>
-<summary>英文描述（原文）</summary>
-
-Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mo...
+Senior Elite Software Engineer (15+) and Senior Product Designer. Full workflow with planning, architecture, TDD, clean code, and pixel-perfect UX validation.
 
 </details>
 
@@ -2623,6 +2752,49 @@ Conduct WCAG 2.2 accessibility audits with automated testing, manual verificatio
 <summary>英文描述（原文）</summary>
 
 Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance. Use when auditing websites for accessibility, fi...
+
+</details>
+
+
+---
+
+## wordpress-theme-development
+
+
+**中文名**：Wordpress Theme Development
+
+
+### 功能
+
+
+WordPress theme development 工作流 covering theme 架构, template hierarchy, custom post 类型, block editor support, and 响应式设计.
+
+
+**英文原文**：
+
+
+WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, and responsive design.
+
+
+### 使用领域
+
+
+系统架构、技术选型、架构决策与文档、事件驱动与领域设计；相关标签：wordpress、theme
+
+
+### 使用场景
+
+
+以下为推荐使用本技能的典型场景及触发方式，满足任一即可考虑启用。
+
+- **触发关键词**：在对话或任务中出现以下任一关键词时，本技能可能被自动启用：wordpress、theme、development、covering、architecture、hierarchy、custom、post、types、block、editor、responsive。
+
+
+
+<details>
+<summary>英文描述（原文）</summary>
+
+WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, and responsive design.
 
 </details>
 

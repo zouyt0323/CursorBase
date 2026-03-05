@@ -8,7 +8,7 @@
 
 为 Cursor IDE 使用者提供「一站式」参考、模板和资源链接：
 
-- **规则（Rules）**：Top 50 分类索引 + awesome-cursorrules 1200+ 规则
+- **规则（Rules）**：Top 50 分类索引 + awesome-cursorrules 1235+ 规则 + Android RTL 适配指南
 - **提示词（Prompts）**：工作流、Android、UI/UX 设计、视频制作等场景
 - **技能（Skills）**：4 大开源技能仓库的文档索引 + 内置 Android 式样生成技能 + 生成脚本
 - **子代理（SubAgent）**：概念、配置、学习路径与 50+ 资源站
@@ -65,7 +65,7 @@
 | `04.CursorSkillProject/skills/anthropics-skills` | [anthropics/skills](https://github.com/anthropics/skills) | `git clone https://github.com/anthropics/skills.git 04.CursorSkillProject/skills/anthropics-skills` |
 | `04.CursorSkillProject/skills/antigravity-awesome-skills` | [antigravity-ai/awesome-agent-skills](https://github.com/antigravity-ai/awesome-agent-skills) | `git clone https://github.com/antigravity-ai/awesome-agent-skills.git 04.CursorSkillProject/skills/antigravity-awesome-skills` |
 | `04.CursorSkillProject/skills/ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git 04.CursorSkillProject/skills/ui-ux-pro-max` |
-| `04.CursorSkillProject/skills/vm0-skills` | [anthropics/skills 或 vm0 社区](https://github.com/) | `git clone <url> 04.CursorSkillProject/skills/vm0-skills` |
+| `04.CursorSkillProject/skills/vm0-skills` | [vm0-ai/vm0-skills](https://github.com/vm0-ai/vm0-skills) | `git clone https://github.com/vm0-ai/vm0-skills.git 04.CursorSkillProject/skills/vm0-skills` |
 
 ---
 
