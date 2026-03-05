@@ -28,6 +28,7 @@
 | [`05.CursorSubAgentProject`](05.CursorSubAgentProject/) | SubAgent 学习与资源 | 子代理概念与配置、Top 50 资源网站 |
 | [`06.CursorMCPProject`](06.CursorMCPProject/) | MCP 服务配置指南 | 18 个已安装 MCP 详解、TOP 20 热门排行、7 个推荐安装指南 |
 | [`07.CursorPlanProject`](07.CursorPlanProject/) | Plan Mode 完全指南 | 核心功能、最佳实践、提示词模板、Cloud Agent、Hooks、版本演进 |
+| [`08.CursorMemoryProject`](08.CursorMemoryProject/) | AI 记忆与知识库方案 | NAS 部署、Memory MCP、Qdrant 向量搜索、跨设备同步 |
 
 ---
 
