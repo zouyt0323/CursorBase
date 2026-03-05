@@ -8,13 +8,13 @@
 
 | 文件 | 说明 |
 |------|------|
-| [Cursor-MCP服务总览.md](./Cursor-MCP服务总览.md) | 当前已安装的 **15 个** MCP 服务的详细文档（安装、配置、工具列表、使用示例、故障排查） |
+| [Cursor-MCP服务总览.md](./Cursor-MCP服务总览.md) | 当前已安装的 **18 个** MCP 服务的详细文档（安装、配置、工具列表、使用示例、故障排查） |
 | [MCP收集网站与热门服务.md](./MCP收集网站与热门服务.md) | **10 大** MCP 收集网站 + 使用率 **TOP 20** 热门服务排行 |
 | [推荐MCP安装与使用指南.md](./推荐MCP安装与使用指南.md) | **7 个**推荐新增安装的 MCP 服务详细指南 |
 | [中科创达 Lark MCP安装指南.md](./中科创达%20Lark%20MCP安装指南.md) | 中科创达企业飞书 MCP 服务配置指南 |
 | [interactive-feedback-mcp 中文支持](./interactive-feedback-mcp-chinese-support/) | interactive-feedback-mcp Linux 下中文输入支持改造方案 |
 
-## 已安装的 MCP 服务（15 个）
+## 已安装的 MCP 服务（18 个）
 
 | # | 服务 | 功能 | 来源 | 连接方式 |
 |---|------|------|------|--------|
@@ -32,7 +32,10 @@
 | 12 | github | GitHub 集成 | Anthropic 官方 | 本地 (npx + Token) |
 | 13 | figma-remote | Figma 官方远程 MCP | Figma 官方 | **远程** (HTTP URL + OAuth) |
 | 14 | android-mcp | Android 设备控制 | [CursorTouch](https://github.com/CursorTouch/Android-MCP) | 本地 (Python/uvx) |
-| 15 | **sequential-thinking** | **结构化逐步推理** | **Anthropic 官方** | **本地 (npx)** |
+| 15 | sequential-thinking | 结构化逐步推理 | Anthropic 官方 | 本地 (npx) |
+| 16 | memory | 持久化记忆（知识图谱） | Anthropic 官方 | 本地 (npx) |
+| 17 | fetch | 网页内容获取 | Anthropic 官方 | 本地 (Python/uvx) |
+| 18 | **exa** | **AI 智能搜索** | **[Exa AI](https://exa.ai/)** | **本地 (npx + API Key)** |
 
 ## 热门 MCP 服务 TOP 5（按访问量/下载量，2026.03 更新）
 

@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "packages": {
+    "@prpm/creating-cursor-rules#cursor": {
+      "version": "1.0.3",
+      "resolved": "https://registry.prpm.dev/api/v1/packages/%40prpm%2Fcreating-cursor-rules/1.0.3.tar.gz",
+      "integrity": "sha256-d3b80de5f1a5af3c1faa3c39256769dfe2870fc550243e56cf02b47f96880a9b",
+      "format": "cursor",
+      "subtype": "rule",
+      "sourceFormat": "cursor",
+      "sourceSubtype": "rule",
+      "installedPath": ".cursor/rules/creating-cursor-rules.mdc"
+    }
+  },
+  "generated": "2026-03-05T07:47:26.783Z"
+}

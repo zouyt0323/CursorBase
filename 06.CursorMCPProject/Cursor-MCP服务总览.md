@@ -1,6 +1,6 @@
 # Cursor MCP 服务总览
 
-> 本文整理了当前 Cursor 中已安装的全部 **15 个** MCP（Model Context Protocol）服务，包括安装方案、配置详情和使用方法。
+> 本文整理了当前 Cursor 中已安装的全部 **18 个** MCP（Model Context Protocol）服务，包括安装方案、配置详情和使用方法。
 >
 > 配置文件路径：`~/.cursor/mcp.json`
 >
@@ -25,7 +25,10 @@
 13. [figma-remote — Figma 官方远程 MCP](#13-figma-remote--figma-官方远程-mcp)
 14. [android-mcp — Android 设备控制](#14-android-mcp--android-设备控制)
 15. [sequential-thinking — 结构化逐步推理](#15-sequential-thinking--结构化逐步推理)
-16. [通用维护指南](#通用维护指南)
+16. [memory — 持久化记忆](#16-memory--持久化记忆)
+17. [fetch — 网页内容获取](#17-fetch--网页内容获取)
+18. [exa — AI 智能搜索](#18-exa--ai-智能搜索)
+19. [通用维护指南](#通用维护指南)
 
 ---
 
@@ -362,6 +365,116 @@ uvx android-mcp --help
 
 ---
 
+## 16. memory — 持久化记忆
+
+| 项目 | 说明 |
+|------|------|
+| **npm** | [@modelcontextprotocol/server-memory](https://www.npmjs.com/package/@modelcontextprotocol/server-memory) |
+| **GitHub** | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) |
+| **功能** | 基于知识图谱的持久化记忆系统，跨对话保存实体、关系和观察 |
+| **来源** | Anthropic 官方 |
+
+### 配置
+
+```json
+"memory": {
+  "command": "npx",
+  "args": ["-y", "@modelcontextprotocol/server-memory"]
+}
+```
+
+### 工具列表（8 个）
+
+| 工具 | 说明 |
+|------|------|
+| `create_entities` | 创建实体节点 |
+| `delete_entities` | 删除实体节点 |
+| `create_relations` | 创建关系边 |
+| `delete_relations` | 删除关系边 |
+| `add_observations` | 添加观察记录 |
+| `delete_observations` | 删除观察记录 |
+| `search_nodes` | 搜索知识图谱 |
+| `read_graph` | 读取完整图谱 |
+
+### 使用方式
+
+```
+> 记住我的项目使用 Python 3.12 和 FastAPI 框架
+> 回忆一下我之前告诉你的项目技术栈
+```
+
+---
+
+## 17. fetch — 网页内容获取
+
+| 项目 | 说明 |
+|------|------|
+| **PyPI** | [mcp-server-fetch](https://pypi.org/project/mcp-server-fetch/) |
+| **GitHub** | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) |
+| **功能** | 获取网页内容并转换为 Markdown，帮助 AI 访问和处理网页信息 |
+| **来源** | Anthropic 官方 |
+
+### 配置
+
+```json
+"fetch": {
+  "command": "uvx",
+  "args": ["mcp-server-fetch"]
+}
+```
+
+### 工具列表（1 个）
+
+| 工具 | 说明 |
+|------|------|
+| `fetch` | 获取 URL 内容，转换为 Markdown/JSON/纯文本 |
+
+### 特点
+
+- 遵循 `robots.txt` 规则
+- 自动 HTML 转 Markdown
+- 支持自定义 User-Agent
+- 可配置最大内容长度
+
+---
+
+## 18. exa — AI 智能搜索
+
+| 项目 | 说明 |
+|------|------|
+| **npm** | [exa-mcp-server](https://www.npmjs.com/package/exa-mcp-server) |
+| **GitHub** | [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) |
+| **功能** | Exa AI 智能搜索引擎，支持网页搜索、代码搜索、公司研究、人物搜索 |
+| **来源** | [Exa AI](https://exa.ai/) |
+
+### 配置
+
+```json
+"exa": {
+  "command": "npx",
+  "args": ["-y", "exa-mcp-server"],
+  "env": {
+    "EXA_API_KEY": "your-api-key"
+  }
+}
+```
+
+### 工具列表
+
+| 工具 | 说明 |
+|------|------|
+| `web_search` | 网页搜索 |
+| `code_search` | 代码搜索 |
+| `company_research` | 公司信息搜索 |
+| `people_search` | 人物搜索 |
+| `crawl` | 网页爬取 |
+
+### API Key 获取
+
+在 [Exa Dashboard](https://dashboard.exa.ai/api-keys) 注册并获取 API Key。
+
+---
+
 ## 通用维护指南
 
 ### 配置文件位置
@@ -389,6 +502,9 @@ uvx android-mcp --help
 | figma-remote | 无（远程服务） | HTTP URL 直连 | mcp.figma.com（OAuth 认证） |
 | android-mcp | Python 3.10+ (uvx) | uvx | ADB + Android 10+ |
 | sequential-thinking | Node.js | npx | 无（本地推理） |
+| memory | Node.js | npx | 无（本地知识图谱） |
+| fetch | Python (uvx) | uvx | 互联网（获取网页） |
+| exa | Node.js | npx | Exa AI API (API Key) |
 
 ### 常见问题排查
 
