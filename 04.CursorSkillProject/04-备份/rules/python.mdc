@@ -1,0 +1,268 @@
+---
+description: "Python 开发综合规范：编码风格、设计模式、性能优化、安全、测试"
+globs: ["**/*.py", "**/*.pyi"]
+alwaysApply: false
+---
+# Python 开发综合规范
+
+## 1. 核心原则
+
+- **迭代交付**：以小而垂直的功能切片交付。
+- **先理解再编码**：编码前分析现有模式。
+- **测试驱动**：先写测试或与实现同步编写，所有代码必须有测试。
+- **质量门禁**：每次变更须通过 lint、类型检查、安全扫描和测试，失败构建不得合并。
+- **简洁可读**：代码清晰简单，避免过度技巧，模块单一职责。
+- **组合优于继承**：优先组合，接口/契约优于直接实现调用。
+- **显式错误处理**：健壮的错误处理，快速失败并记录有意义信息。
+- **API 契约**：变更 API 时同步更新文档和调用方。
+- **可测试性**：方案是否易于隔离测试？
+- **可读性**：其他开发者是否容易理解？
+- **一致性**：是否与代码库现有模式一致？
+- **简洁性**：是否为最简方案？
+- **可逆性**：是否易于修改或替换？
+
+## 2. 编码风格
+
+### 2.1 基本规范
+
+- 遵循 **PEP 8**
+- 所有函数签名使用 **类型注解**
+- 模块级常量使用大写（如 `MAX_ITERATIONS = 100`）
+- `__all__`、`__version__` 等放在模块 docstring 之后、import 之前
+
+### 2.2 不可变性
+
+优先使用不可变数据结构：
+
+```python
+from dataclasses import dataclass
+
+@dataclass(frozen=True)
+class User:
+    name: str
+    email: str
+
+from typing import NamedTuple
+
+class Point(NamedTuple):
+    x: float
+    y: float
+```
+
+### 2.3 格式化工具
+
+- **black**：代码格式化
+- **isort**：import 排序
+- **ruff**：lint
+- **mypy / pyright**：类型检查
+- 编辑 `.py` 文件后建议运行 black/ruff 格式化、mypy/pyright 类型检查
+- 避免在代码中遗留 `print()`，使用 `logging` 模块
+
+## 3. 代码组织
+
+### 3.1 目录结构
+
+- **Flat is better than nested**：从简单结构开始，按需重构
+- 使用 **src 布局** 分离应用代码与项目文件
+- 典型结构：
+
+```
+project_name/
+├── src/
+│   ├── package_name/
+│   │   ├── __init__.py
+│   │   ├── module1.py
+│   │   └── module2.py
+│   └── main.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_module1.py
+│   └── test_module2.py
+├── pyproject.toml
+├── requirements.txt
+└── README.md
+```
+
+### 3.2 命名
+
+- 模块：小写 + 下划线（`my_module.py`）
+- 包：小写（`my_package`）
+- 测试：`test_` 前缀（`test_my_module.py`）
+
+### 3.3 模块组织
+
+- **单一职责**：每个模块有明确职责
+- **import 顺序**：标准库 → 第三方 → 本地
+- 优先使用绝对导入，必要时使用显式相对导入（`from . import sibling_module`）
+
+### 3.4 架构建议
+
+- **分层架构**：展示层、业务逻辑、数据访问分离
+- **六边形/清洁架构**：业务逻辑与数据库、框架解耦
+- **依赖注入**：提高可测试性、降低耦合
+
+## 4. 设计模式与最佳实践
+
+### 4.1 Protocol（鸭子类型）
+
+```python
+from typing import Protocol
+
+class Repository(Protocol):
+    def find_by_id(self, id: str) -> dict | None: ...
+    def save(self, entity: dict) -> dict: ...
+```
+
+### 4.2 Dataclass 作为 DTO
+
+```python
+from dataclasses import dataclass
+
+@dataclass
+class CreateUserRequest:
+    name: str
+    email: str
+    age: int | None = None
+```
+
+### 4.3 常用模式
+
+- **Context Manager**：用 `with` 管理资源（文件、连接等）
+- **Generator**：惰性求值、节省内存的迭代
+- **Factory / Strategy / Observer**：按需选用
+- **Decorator**：动态扩展行为
+
+### 4.4 状态管理
+
+- 优先无状态函数
+- 使用不可变数据结构
+- 显式管理状态，避免全局变量
+- 异步场景用 `contextvars` 管理请求级状态
+
+### 4.5 错误处理
+
+- 捕获具体异常，避免宽泛的 `Exception`
+- 用 `try...except...finally` 保证清理
+- 用 Context Manager 管理资源
+- 记录完整 traceback
+- 自定义异常类表达特定错误
+- 不用异常做控制流
+
+### 4.6 反模式
+
+- God Class、散弹式修改、重复代码
+- 魔法数字/字符串 → 使用命名常量
+- 过早优化
+
+## 5. 性能优化
+
+- **Profiling**：用 `cProfile` 定位瓶颈
+- **数据结构**：`set` 做成员测试，`dict` 做查找
+- **列表推导与生成器**：简洁且高效
+- **NumPy 向量化**：数值计算优先向量化
+- **缓存**：`functools.lru_cache` 或 Redis/Memcached
+- **字符串拼接**：用 `''.join(iterable)`
+- **内存**：`__slots__` 减少内存，generator 处理大数据
+- **内存分析**：`memory_profiler` 排查泄漏
+
+## 6. 安全规范
+
+### 6.1 密钥管理
+
+```python
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+api_key = os.environ["OPENAI_API_KEY"]  # 缺失时抛出 KeyError
+```
+
+禁止在代码中硬编码密钥，使用环境变量或安全配置。
+
+### 6.2 安全扫描
+
+```bash
+bandit -r src/
+```
+
+### 6.3 常见漏洞防护
+
+- **SQL 注入**：参数化查询或 ORM
+- **XSS**：校验输入、转义输出
+- **CSRF**：CSRF token
+- **命令注入**：避免用用户输入直接执行命令
+- **路径遍历**：校验文件路径
+- **Pickle**：不反序列化不可信数据，用 JSON/Protocol Buffers
+- **依赖**：定期审计和更新依赖
+
+### 6.4 输入校验
+
+- 白名单校验
+- 正则校验格式
+- 类型与长度校验
+- 使用 `pydantic`、`cerberus` 等库
+
+## 7. 测试规范
+
+### 7.1 框架与覆盖率
+
+- 使用 **pytest**
+- 覆盖率目标 **≥80%**（关键路径建议 >90%）
+
+```bash
+pytest --cov=src --cov-report=term-missing
+```
+
+### 7.2 测试分类（pytest.mark）
+
+```python
+import pytest
+
+@pytest.mark.unit
+def test_calculate_total():
+    ...
+
+@pytest.mark.integration
+def test_database_connection():
+    ...
+```
+
+### 7.3 组织与策略
+
+- 测试放在独立 `tests/` 目录，结构镜像源码
+- 单元测试：隔离测试函数、类、模块
+- 集成测试：测试模块/组件交互
+- 使用 fixtures 做 setup/teardown
+- 用 `unittest.mock` 模拟外部依赖
+- 依赖注入便于 mock
+
+### 7.4 断言与边界
+
+- 测试边界条件和异常路径
+- 验证异常在预期场景下被正确抛出
+
+## 8. 常见陷阱
+
+- **可变默认参数**：`def f(items=[])` 错误，应 `def f(items: list | None = None)`
+- **`==` vs `is`**：`==` 比较值，`is` 比较对象身份
+- **浮点精度**：注意浮点运算精度限制
+- **Unicode**：正确处理 Unicode，读写文件时指定编码
+- **时区**：正确处理时区
+- **try 块过大**：尽量缩小 try 范围
+- **吞掉异常**：必须处理或记录异常
+- **虚拟环境**：使用 venv/virtualenv 避免依赖冲突
+
+## 9. 工具链
+
+| 用途     | 工具                          |
+|----------|-------------------------------|
+| 格式化   | black, isort                  |
+| Lint     | ruff, flake8, pylint          |
+| 类型检查 | mypy, pyright                 |
+| 安全扫描 | bandit                        |
+| 测试     | pytest                        |
+| Profiling| cProfile, memory_profiler      |
+| 配置     | pyproject.toml (PEP 518/621)  |
+
+- 使用 **pre-commit** 在提交前运行 formatter 和 linter
+- 依赖用 `requirements.txt` 或 `pyproject.toml` 管理，并锁定版本以保证可复现构建

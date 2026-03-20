@@ -1,0 +1,59 @@
+---
+description: Android JNI 跨语言导航辅助规则 — 帮助在 Java native 方法和 C/C++ JNI 实现之间快速跳转
+globs: ["**/*.java", "**/*.c", "**/*.cpp", "**/*.h", "**/*.cc"]
+alwaysApply: false
+---
+
+# Android JNI 跨语言导航
+
+当用户在 Android/AOSP 工程中查询 JNI 相关代码时，使用以下策略帮助定位跨语言对应关系。
+
+## JNI 命名约定
+
+### 静态注册
+Java native 方法 `com.example.MyClass.nativeInit()` 对应的 C 函数名为：
+```
+Java_com_example_MyClass_nativeInit
+```
+规则：`Java_` + 包名中 `.` 替换为 `_` + `_` + 类名 + `_` + 方法名
+
+### 动态注册
+通过 `JNI_OnLoad` 中调用 `RegisterNatives` 注册，C 函数名可以是任意名称。
+查找方式：搜索 `JNINativeMethod` 数组和 `RegisterNatives` 调用。
+
+## 搜索策略
+
+当用户询问某个 Java native 方法的 C 实现时：
+
+1. **提取类全限定名**：从 Java 文件的 `package` 声明和类名组合
+2. **搜索静态注册**：用 Grep 搜索 `Java_包名_类名_方法名` 模式（包名中 `.` 替换为 `_`）
+3. **搜索动态注册**：搜索包含类路径字符串（如 `"com/example/MyClass"`）的 C/C++ 文件
+4. **搜索 RegisterNatives**：查找 `RegisterNatives` 调用附近的 `JNINativeMethod` 数组
+
+当用户询问某个 C JNI 函数对应的 Java 类时：
+
+1. **解析函数名**：如果以 `Java_` 开头，将 `_` 还原为 `.` 得到类路径
+2. **搜索 native 声明**：在 Java 文件中搜索 `native` 关键字 + 方法名
+
+## AOSP 常见 JNI 位置
+
+| Java 层 | JNI C/C++ 层 |
+|----------|-------------|
+| `frameworks/base/core/java/` | `frameworks/base/core/jni/` |
+| `frameworks/base/services/core/java/` | `frameworks/base/services/core/jni/` |
+| `frameworks/base/media/java/` | `frameworks/base/media/jni/` |
+| `packages/apps/*/src/` | `packages/apps/*/jni/` |
+
+## JNI 辅助脚本
+
+项目中提供了 `jni-helper.sh` 脚本，可通过终端执行：
+```bash
+# 查找 Java native 方法的 C 实现
+./jni-helper.sh find-native com.android.server.SystemServer
+
+# 从 C 函数名反查 Java 类
+./jni-helper.sh find-java Java_com_android_server_SystemServer_nativeInit
+
+# 扫描目录下所有 JNI 映射
+./jni-helper.sh scan frameworks/base/core/jni/
+```

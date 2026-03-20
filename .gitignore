@@ -35,9 +35,29 @@ node_modules/
 .git
 .worktrees/
 
+# 二进制文件（不上传到 GitHub）
+*.zip
+*.tar.gz
+*.docx
+*.pdf
+*.vsix
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
 # 内嵌的 Git 子仓库（请单独 clone 或作为 submodule 添加）
-02.CursorRuleProject/awesome-cursorrules/
-04.CursorSkillProject/skills/anthropics-skills/
-04.CursorSkillProject/skills/antigravity-awesome-skills/
-04.CursorSkillProject/skills/ui-ux-pro-max/
-04.CursorSkillProject/skills/vm0-skills/
+02.CursorRuleProject/02-第三方规则/awesome-cursorrules/
+04.CursorSkillProject/03-第三方技能/
+06.CursorMCPProject/android-mcp/
+
+# 备份中的嵌入式仓库和缓存
+04.CursorSkillProject/04-备份/skills/claude-seo/
+04.CursorSkillProject/04-备份/skills/notebooklm-skill/
+04.CursorSkillProject/04-备份/installed-*/skills/claude-seo/
+04.CursorSkillProject/04-备份/installed-*/skills/notebooklm-skill/
+09.CursorPluginProject/backup-*/plugins/cache/
+
+# Playwright
+.playwright-mcp/

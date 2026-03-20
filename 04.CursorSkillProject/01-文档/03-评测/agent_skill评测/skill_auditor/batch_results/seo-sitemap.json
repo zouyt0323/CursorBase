@@ -1,0 +1,355 @@
+{
+  "skill_name": "seo-sitemap",
+  "skill_path": "/home/tsdl/.cursor/skills/claude-seo/skills/seo-sitemap",
+  "timestamp": "2026-03-15 16:24:12",
+  "skill_md_lines": 104,
+  "total_weighted": 85.5,
+  "grade": "A",
+  "bonus_score": 2,
+  "dimensions": [
+    {
+      "name": "上下文效率",
+      "weight": 25,
+      "raw_score": 17,
+      "max_score": 17,
+      "percentage": 100.0,
+      "weighted_score": 25.0,
+      "checks": [
+        {
+          "name": "YAML Frontmatter ≤ 100 词",
+          "passed": true,
+          "score": 4,
+          "max_score": 4,
+          "detail": "当前 32 词（PPT P4: 第1级元数据约100词）"
+        },
+        {
+          "name": "Markdown 正文 < 5000 词",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "当前 373 词（PPT P4: 第2级正文<5000词）"
+        },
+        {
+          "name": "正文行数控制（黄金法则 ≤ 500 行）",
+          "passed": true,
+          "score": 5,
+          "max_score": 5,
+          "detail": "当前 96 行（PPT P7: 将正文严格控制在500行以内）"
+        },
+        {
+          "name": "代码示例占比 ≥ 15%",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "代码比例: 22.9%（PPT P9: 代码示例沟通效率远高于冗长文字解释）"
+        },
+        {
+          "name": "不含通用编程常识",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "PPT P3: 不要教 Agent 如何写基本的 Python 循环"
+        }
+      ]
+    },
+    {
+      "name": "结构合规性",
+      "weight": 20,
+      "raw_score": 18,
+      "max_score": 21,
+      "percentage": 85.7,
+      "weighted_score": 17.1,
+      "checks": [
+        {
+          "name": "SKILL.md 存在",
+          "passed": true,
+          "score": 4,
+          "max_score": 4,
+          "detail": "PPT P5: 必需的主文件"
+        },
+        {
+          "name": "YAML Frontmatter 存在",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "PPT P7: YAML Frontmatter（触发器）占 15%"
+        },
+        {
+          "name": "name 字段存在",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "PPT P7: 包含 Skill 标识符"
+        },
+        {
+          "name": "description 字段存在",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "PPT P7: 包含触发条件和功能描述"
+        },
+        {
+          "name": "使用标准捆绑资源目录",
+          "passed": false,
+          "score": 0,
+          "max_score": 3,
+          "detail": "检测到: （PPT P5: scripts/ + references/ + assets/）"
+        },
+        {
+          "name": "正文在 500 行内无需强制分离",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "正文 96 行，无需分离"
+        },
+        {
+          "name": ">100 行参考文件有目录",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "合规"
+        },
+        {
+          "name": "name 使用小写+连字符",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "name: seo-sitemap"
+        }
+      ]
+    },
+    {
+      "name": "Description SEO",
+      "weight": 15,
+      "raw_score": 12,
+      "max_score": 15,
+      "percentage": 80.0,
+      "weighted_score": 12.0,
+      "checks": [
+        {
+          "name": "Description 声明做什么",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "PPT P8: 必须明确声明'做什么'"
+        },
+        {
+          "name": "Description 声明什么时候用",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "PPT P8: 必须明确声明'什么时候用'"
+        },
+        {
+          "name": "Description 覆盖同义词",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "同义词组匹配: 0（PPT P8: 穷举用户可能使用的所有同义词）"
+        },
+        {
+          "name": "Description 包含排除条件",
+          "passed": false,
+          "score": 0,
+          "max_score": 3,
+          "detail": "PPT P8: 明确的排除条件能极大降低相似Skill共存时的误触发率"
+        },
+        {
+          "name": "Description 长度充足（≥80字符）",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "当前长度: 200 字符"
+        }
+      ]
+    },
+    {
+      "name": "内容质量",
+      "weight": 20,
+      "raw_score": 12,
+      "max_score": 18,
+      "percentage": 66.7,
+      "weighted_score": 13.3,
+      "checks": [
+        {
+          "name": "包含可执行代码示例",
+          "passed": false,
+          "score": 0,
+          "max_score": 3,
+          "detail": "找到 0 个代码块（PPT P9: 代码示例沟通效率远高于冗长文字解释）"
+        },
+        {
+          "name": "CRITICAL 标签 ≤ 8 个",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "当前 1 个（PPT P12: 整个Skill最多允许5-8个，滥用导致注意力衰减）"
+        },
+        {
+          "name": "使用编号步骤",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "找到 7 个编号步骤（PPT P12: 多步骤流程必须使用明确编号）"
+        },
+        {
+          "name": "包含正反对比示例",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "PPT P12: 必须同时展示典型坏代码与正确的标准答案"
+        },
+        {
+          "name": "包含 Quick Reference 映射表",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": "找到 8 行表格（PPT P13: Agent能在3秒内找到正确工具路径）"
+        },
+        {
+          "name": "包含 ASCII 决策树/目录树",
+          "passed": false,
+          "score": 0,
+          "max_score": 2,
+          "detail": "PPT P13: 决策树比文字段落节省约60%的Token"
+        },
+        {
+          "name": "明确操作自由度",
+          "passed": true,
+          "score": 1,
+          "max_score": 2,
+          "detail": "无约束指令, 有灵活指导（PPT P10: 根据任务脆弱程度设定自由度）"
+        },
+        {
+          "name": "文档结构清晰（≥3 个章节）",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "找到 15 个章节标题"
+        }
+      ]
+    },
+    {
+      "name": "安全与沙箱",
+      "weight": 10,
+      "raw_score": 10,
+      "max_score": 10,
+      "percentage": 100.0,
+      "weighted_score": 10.0,
+      "checks": [
+        {
+          "name": "未检测到硬编码敏感信息",
+          "passed": true,
+          "score": 3,
+          "max_score": 3,
+          "detail": ""
+        },
+        {
+          "name": "脚本提供 --help 接口",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "PPT P14: 总是先运行--help。100行代码占300Token，而--help输出不到50Token"
+        },
+        {
+          "name": "脚本有资源清理机制",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "PPT P14: 使用finally块，先process.terminate()再process.kill()"
+        },
+        {
+          "name": "标注自动修复能力边界",
+          "passed": true,
+          "score": 1,
+          "max_score": 1,
+          "detail": "PPT P14: 划定Agent自动修复能力边界，防止盲目重试"
+        },
+        {
+          "name": "未检测到危险函数调用",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "name": "可维护性",
+      "weight": 10,
+      "raw_score": 8,
+      "max_score": 10,
+      "percentage": 80.0,
+      "weighted_score": 8.0,
+      "checks": [
+        {
+          "name": "脚本有适当注释（>10%）",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "注释比例: 0.0% (0/0)"
+        },
+        {
+          "name": "无明显内容重复",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": "发现 1 行重复内容（PPT P11: 绝对禁止信息重复）"
+        },
+        {
+          "name": "有版本/更新说明",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": ""
+        },
+        {
+          "name": "有依赖说明",
+          "passed": true,
+          "score": 2,
+          "max_score": 2,
+          "detail": ""
+        },
+        {
+          "name": "有错误处理说明",
+          "passed": false,
+          "score": 0,
+          "max_score": 2,
+          "detail": ""
+        }
+      ]
+    }
+  ],
+  "bonus_checks": [
+    {
+      "name": "SKILL.md 引导使用 --help",
+      "passed": false,
+      "score": 2,
+      "detail": "PPT P14: 强制隔离源码，总是先运行--help"
+    },
+    {
+      "name": "参考文件 ≥ 2（按领域平行组织）",
+      "passed": false,
+      "score": 2,
+      "detail": "当前 0 个参考文件（PPT P11: 按领域平行组织）"
+    },
+    {
+      "name": "YAML 占比在 5%-30% 范围内",
+      "passed": false,
+      "score": 1,
+      "detail": "YAML 占比: 4.8%（PPT P7: YAML占约15%）"
+    },
+    {
+      "name": "scripts/ 含可执行脚本",
+      "passed": true,
+      "score": 1,
+      "detail": "找到 0 个可执行脚本"
+    },
+    {
+      "name": "使用标准 Markdown 表格",
+      "passed": true,
+      "score": 1,
+      "detail": ""
+    }
+  ]
+}

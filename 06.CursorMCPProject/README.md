@@ -2,19 +2,20 @@
 
 > 本仓库整理了 Cursor IDE 中 MCP（Model Context Protocol）服务的完整配置方案、使用文档、热门服务排行和推荐安装指南。
 >
-> 最后更新：2026-03-05
+> 最后更新：2026-03-20
 
 ## 仓库内容
 
-| 文件 | 说明 |
+| 文件/目录 | 说明 |
 |------|------|
-| [Cursor-MCP服务总览.md](./Cursor-MCP服务总览.md) | 当前已安装的 **18 个** MCP 服务的详细文档（安装、配置、工具列表、使用示例、故障排查） |
-| [MCP收集网站与热门服务.md](./MCP收集网站与热门服务.md) | **10 大** MCP 收集网站 + 使用率 **TOP 20** 热门服务排行 |
-| [推荐MCP安装与使用指南.md](./推荐MCP安装与使用指南.md) | **7 个**推荐新增安装的 MCP 服务详细指南 |
-| [中科创达 Lark MCP安装指南.md](./中科创达%20Lark%20MCP安装指南.md) | 中科创达企业飞书 MCP 服务配置指南 |
-| [interactive-feedback-mcp 中文支持](./interactive-feedback-mcp-chinese-support/) | interactive-feedback-mcp Linux 下中文输入支持改造方案 |
+| [Cursor-MCP服务总览.md](./Cursor-MCP服务总览.md) | 当前已安装的 **19 个** MCP 服务的详细文档 |
+| [MCP收集网站与热门服务.md](./MCP收集网站与热门服务.md) | **10 大** MCP 收集网站 + **TOP 20** 热门服务排行 |
+| [doc/mcp/](./doc/mcp/) | MCP 安装指南（推荐 MCP、Lark MCP、Feedback Enhanced、interactive-feedback） |
+| [MCP-Feedback超时方案/](./MCP-Feedback超时方案/) | MCP Feedback 超时方案文档、图片与安装包 |
+| [OpenClaw/](./OpenClaw/) | OpenClaw 全部文档（橙皮书、安全指南、自动化配置、WorkBuddy 指南、安装包） |
+| [android-mcp/](./android-mcp/) | Android MCP 服务源码 |
 
-## 已安装的 MCP 服务（18 个）
+## 已安装的 MCP 服务（19 个）
 
 | # | 服务 | 功能 | 来源 | 连接方式 |
 |---|------|------|------|--------|
@@ -25,7 +26,7 @@
 | 5 | playwright | 浏览器自动化 | Microsoft | 本地 (npx) |
 | 6 | n8n-mcp | n8n 工作流文档 | 社区 | 本地 (Node.js) |
 | 7 | Pdf Reader Mcp | PDF 读取 | 社区 | 本地 (npx) |
-| 8 | interactive-feedback-mcp | 交互式反馈 | 社区 | 本地 (Python/uv) |
+| 8 | mcp-feedback-enhanced | 增强交互式反馈（Web UI） | [Minidoracat](https://github.com/Minidoracat/mcp-feedback-enhanced) | 本地 (Python venv) |
 | 9 | openspec | 规范变更管理 | 社区 | 本地 (Python/uvx) |
 | 10 | cursor-mcp-installer | MCP 安装器 | 社区 | 本地 (npx) |
 | 11 | context7 | 实时代码文档 | Upstash | **远程** (HTTP URL) |
@@ -36,6 +37,7 @@
 | 16 | memory | 持久化记忆（知识图谱） | Anthropic 官方 | 本地 (npx) |
 | 17 | fetch | 网页内容获取 | Anthropic 官方 | 本地 (Python/uvx) |
 | 18 | **exa** | **AI 智能搜索** | **[Exa AI](https://exa.ai/)** | **本地 (npx + API Key)** |
+| 19 | **local-rag** | **本地 RAG 语义搜索** | **[GitHub](https://github.com/shinpr/mcp-local-rag)** | **本地 (npx)** |
 
 ## 热门 MCP 服务 TOP 5（按访问量/下载量，2026.03 更新）
 
